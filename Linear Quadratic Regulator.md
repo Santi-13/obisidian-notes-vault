@@ -1,2 +1,2 @@
 #LQR
-ASdawdadasd
+$x+1 = \in f$
