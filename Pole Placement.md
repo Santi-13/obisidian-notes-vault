@@ -125,4 +125,4 @@ P = [-2 -1];
 K = place(A,B,P);
 ```
 
-Another thing that has been left unaddressed is the gain
+Another thing that has been left unaddresed is the gain
