@@ -80,4 +80,24 @@ $$
 \lambda^2 + \lambda - 2 = 0
 $$
 $$\lambda = -2,+1$$
-We observe how one of the eigenvalues is unstable.
+We observe how one of the eigenvalues is unstable. Using pole placement, we know that:
+$$
+A_{CL} = A-Bk = \begin{bmatrix}
+0 & 1 \\
+2 & -1 
+\end{bmatrix} - \begin{bmatrix}
+1 \\
+0
+\end{bmatrix} \begin{bmatrix}
+k_{1} & k_{2}
+\end{bmatrix}
+$$
+$$
+A_{CL} = \begin{bmatrix}
+-k_{1} & 1-k_{2} \\
+2 & -1
+\end{bmatrix}
+$$
+So we can again find its eigenvalues following the same process, resulting in the characteristic equation as follows:
+
+$$\lambda^2 + (1+k_{1})\lambda + (k_{1})$$
