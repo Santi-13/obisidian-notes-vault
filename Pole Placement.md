@@ -60,6 +60,7 @@ Where we defined a "new" $A$ matrix as a function of the selected gains.
 ### Example
 ---
 Let's analyze a system:
+
 $$
 \dot{x} = \begin{bmatrix}
 0 & 1  \\
