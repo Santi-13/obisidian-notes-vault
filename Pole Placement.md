@@ -50,4 +50,11 @@ We then can use pole placement to change the poles of the system, either to make
 
 ![[Pasted image 20240924114439.png]]
 
-We see how our state equation
+We see how our state equation becomes:
+
+$\dot{x}=Ax+B(r*k_{r}-k*x)$
+$\dot{x}=Ax-Bkx+Brk_{r}$
+$\dot{x}=(A-Bk)x + BrK_{r}$
+
+Where we defined a "new" $A$ matrix as a function of the selected gains. Let's analyze an example!
+
