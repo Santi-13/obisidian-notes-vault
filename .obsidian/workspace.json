@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "a25d0737b5ac7275",
+    "type": "split",
+    "children": [
+      {
+        "id": "6585abd2410a7ae8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f14ebe163b6822c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Egyptian Multiplication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e8ae2b9611088cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Egyptian Multiplication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82dcb2f0bb2165a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pole Placement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca91131c94b4141d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pole Placement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "739e9b596ff9ec88",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f704c130d287195",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8775382642b3fd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bce4445dcac5e7f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4bd0565a682b01e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a66b804373bb314c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0c49e444b6c776b",
+    "type": "split",
+    "children": [
+      {
+        "id": "da4d28bef405f1eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ccced85434bf838",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b140edd4894836d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30f6bf65ae2d58e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b8a019023d0642e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ccd341c03a27c328",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "739e9b596ff9ec88",
+  "lastOpenFiles": [
+    "Pole Placement.md",
+    "Egyptian Multiplication.md",
+    "Linear Quadratic Regulator.md",
+    "From Mathematics to General Programming.md",
+    "Prime Sieve.md"
+  ]
+}
