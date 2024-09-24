@@ -126,7 +126,7 @@ P = [-2 -1];
 K = place(A,B,P);
 
 % Closed loop system dynamics
-A_cl = A
+A_cl = A - B*K;
 ```
 
 Another thing that has been left unaddressed is the gain $k_r$ which is simply used to scale the reference to reduce steady state error, it is based on the inverse of the factor of the steady-state of the closed loop system.
@@ -137,5 +137,16 @@ We can get it very simply in Matlab as follows:
 
 ```
 % Closed loop system
-sys_cl = ss(Acl)
+sys_cl = ss(A_cl,B,C,D);
+
+% Check step response
+step(syscl);
+
+% Solve for Kr
+Kdc = dcgain(sys_cl);
+Kr = 1 / Kdc; 
+
+% Create and check scaled system
+sys_cl_scaled = ss(A_cl,B*kr,C,D);
+step(sys_cl_scaled);
 ```
