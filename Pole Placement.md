@@ -108,6 +108,17 @@ $$
 (\lambda+2)(\lambda+1)=0
 $$
 So we find that:
-$$
-k_{1} = 2
-$$
+$$k_{1} = 2$$
+$$k_{2} = 1$$
+For more complex systems, this approach becomes unsustainable. Luckily, matlab provides an easy way to make this, simply using the `place()` command.
+
+```
+A = [0 1; 2 -1];
+B = [1; 0];
+
+% Desired eigenvalues
+P = [-2 -1];
+
+% Gains
+K
+```
