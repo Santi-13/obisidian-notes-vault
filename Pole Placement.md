@@ -110,9 +110,10 @@ $$
 So we find that:
 $$k_{1} = 2$$
 $$k_{2} = 1$$
-For more complex systems, this approach becomes unsustainable. Luckily, matlab provides an easy way to make this, simply using the `place()` command.
+For more complex systems, this approach becomes unsustainable. Luckily, Matlab provides an easy way to make this, simply using the `place()` command.
 
 ```
+% System matrices
 A = [0 1; 2 -1];
 B = [1; 0];
 
@@ -120,5 +121,7 @@ B = [1; 0];
 P = [-2 -1];
 
 % Gains
-K
+K = place(A,B,P);
 ```
+
+Another thing that has been left unaddressed is the gain
