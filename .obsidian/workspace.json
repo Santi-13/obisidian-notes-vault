@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Quadratic Regulator.md",
+                "file": "Pole Placement.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Quadratic Regulator.md",
+                "file": "Pole Placement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Quadratic Regulator.md",
+                "file": "Pole Placement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Quadratic Regulator.md"
+                "file": "Pole Placement.md"
               }
             }
           },
@@ -208,9 +208,9 @@
   },
   "active": "739e9b596ff9ec88",
   "lastOpenFiles": [
+    "Linear Quadratic Regulator.md",
     "From Mathematics to General Programming.md",
     "Egyptian Multiplication.md",
-    "Linear Quadratic Regulator.md",
     "Pole Placement.md",
     "Prime Sieve.md"
   ]
