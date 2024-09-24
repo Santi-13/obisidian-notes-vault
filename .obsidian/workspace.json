@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "739e9b596ff9ec88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pole Placement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,13 +194,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "739e9b596ff9ec88",
+  "active": "ca91131c94b4141d",
   "lastOpenFiles": [
-    "Pasted image 20240924113959.png",
+    "images/Pasted image 20240924113959.png",
+    "images",
+    "Pole Placement.md",
+    "images/Pasted image 20240924114439.png",
     "Linear Quadratic Regulator.md",
     "From Mathematics to General Programming.md",
     "Egyptian Multiplication.md",
-    "Pole Placement.md",
     "Prime Sieve.md"
   ]
 }

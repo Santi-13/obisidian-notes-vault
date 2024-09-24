@@ -45,3 +45,9 @@ $z_n = Ce^{\lambda t}$
 Where $z_n$ indicates a given state, $C$ its value at $t=0$, and $\lambda$ is the respective eigenvalue. In other words, if you start with some energy or you add it from an external input, the equation indicates how the state changes. $\lambda$ serves to change how the energy is dissipated or grows, this gives us the reason on why the poles have to be in the negative real part.
 
 ![[Pasted image 20240924113959.png]]
+
+We then can use pole placement to change the poles of the system, either to make it stable (by driving the real part to the negatives), or to reduce oscillations (by reducing the imaginary part). We can analyze how to drive the poles by analyzing the representation of the system.
+
+![[Pasted image 20240924114439.png]]
+
+We see how our state equation
