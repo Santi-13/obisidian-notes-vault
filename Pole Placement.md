@@ -56,8 +56,10 @@ $\dot{x}=Ax+B(r*k_{r}-k*x)$
 $\dot{x}=Ax-Bkx+Brk_{r}$
 $\dot{x}=(A-Bk)x + BrK_{r}$
 
-Where we defined a "new" $A$ matrix as a function of the selected gains. Let's analyze an example!
-
+Where we defined a "new" $A$ matrix as a function of the selected gains. 
+### Example
+---
+Let's analyze a system:
 $$
 \dot{x} = \begin{bmatrix}
 0 & 1  \\
@@ -100,4 +102,12 @@ A_{CL} = \begin{bmatrix}
 $$
 So we can again find its eigenvalues following the same process, resulting in the characteristic equation as follows:
 
-$$\lambda^2 + (1+k_{1})\lambda + (k_{1})$$
+$$\lambda^2 + (1+k_{1})\lambda + (k_{1} + 2k_{2} -2) = 0$$
+From which we can derive the needed gains to place the poles wherever we want them, in this case, for poles at $\lambda=-2,-1$, we need:
+$$
+(\lambda+2)(\lambda+1)=0
+$$
+So we find that:
+$$
+k_{1} = 2
+$$
