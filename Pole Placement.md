@@ -76,5 +76,8 @@ $$
 \det(\begin{bmatrix}
 -\lambda & 1 \\
 2 & -1-\lambda
-\end{bmatrix})
+\end{bmatrix}) = 0 \to 
+\lambda^2 + \lambda - 2 = 0
 $$
+$$\lambda = -2,+1$$
+We observe how one of the eigenvalues is unstable.
