@@ -58,3 +58,23 @@ $\dot{x}=(A-Bk)x + BrK_{r}$
 
 Where we defined a "new" $A$ matrix as a function of the selected gains. Let's analyze an example!
 
+$$
+\dot{x} = \begin{bmatrix}
+0 & 1  \\
+2 & -1
+\end{bmatrix}
+x + \begin{bmatrix}
+1 \\
+0
+\end{bmatrix} u
+$$
+$$y = \begin{bmatrix}1 & 0\end{bmatrix}x$$
+We first find the eigenvalues of $A$:
+
+$$\det(A-\lambda I) = 0$$
+$$
+\det(\begin{bmatrix}
+-\lambda & 1 \\
+2 & -1-\lambda
+\end{bmatrix})
+$$
