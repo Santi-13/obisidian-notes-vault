@@ -42,3 +42,4 @@ Where the solution to a differential equation like this is:
 
 $z_n = Ce^{\lambda t}$
 
+Where $z_n$ indicates a given state, $C$ its value at $t=0$, and $\lambda$ is the respective eigenvalue. In other words, if you start with some energy or you add it from an external input, the equation indicates how the state changes. $@
