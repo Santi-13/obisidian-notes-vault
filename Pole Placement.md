@@ -60,7 +60,6 @@ Where we defined a "new" $A$ matrix as a function of the selected gains.
 ### Example
 ---
 Let's analyze a system:
-
 $$
 \dot{x} = \begin{bmatrix}
 0 & 1  \\
@@ -117,12 +116,26 @@ For more complex systems, this approach becomes unsustainable. Luckily, Matlab p
 % System matrices
 A = [0 1; 2 -1];
 B = [1; 0];
+C = [1 0];
+D = 0;
 
 % Desired eigenvalues
 P = [-2 -1];
 
 % Gains
 K = place(A,B,P);
+
+% Closed loop system dynamics
+A_cl = A
 ```
 
-Another thing that has been left unaddresed is the gain
+Another thing that has been left unaddressed is the gain $k_r$ which is simply used to scale the reference to reduce steady state error, it is based on the inverse of the factor of the steady-state of the closed loop system.
+
+![[Pasted image 20240924120933.png]]
+
+We can get it very simply in Matlab as follows:
+
+```
+% Closed loop system
+sys_cl = ss(Acl)
+```
