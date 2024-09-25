@@ -19,5 +19,8 @@ J = \int_{0}^\infty (x^TQx + u^Ru)dt
 $$
 Where:
 $$
-Q = Perfor manc
+\begin{matrix}
+Q = Performance-Gain \\
+R = Effort-Gain 
+\end{matrix}
 $$
