@@ -4,7 +4,10 @@
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "flashcardTags": [
-      "#flashcards"
+      "#flashcards",
+      "#ComputaciónCognitiva",
+      "#FuzzyControl",
+      "#ControlTheory"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,

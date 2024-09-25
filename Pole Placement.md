@@ -1,6 +1,6 @@
 ---
 tags:
-  - control
+  - ControlTheory
 ---
 ---
 A way to develop a feedback controller for a model using state space equations is using a method called *Pole Placement* or *Full State Feedback*, which is rarely used in the industry, specially compared with other methods such as *[[Linear Quadratic Regulator]]* *(LQR)* or $H_\infty$. It serves as a general approach to feedback control using state space equations so it's worth spending some time on.
