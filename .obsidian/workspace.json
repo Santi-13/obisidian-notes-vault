@@ -1,14 +1,50 @@
 {
   "main": {
-    "id": "2c0494d0c06ad4e7",
+    "id": "a25d0737b5ac7275",
     "type": "split",
     "children": [
       {
-        "id": "3068f5eaf47dc2b5",
+        "id": "6585abd2410a7ae8",
         "type": "tabs",
         "children": [
           {
-            "id": "1b121900095efc5b",
+            "id": "f14ebe163b6822c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Egyptian Multiplication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e8ae2b9611088cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Egyptian Multiplication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82dcb2f0bb2165a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pole Placement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca91131c94b4141d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,21 +55,22 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "792ae73f1459cf57",
+    "id": "3f704c130d287195",
     "type": "split",
     "children": [
       {
-        "id": "4ac681326ea73879",
+        "id": "b8775382642b3fd0",
         "type": "tabs",
         "children": [
           {
-            "id": "5f309d4de5e6bd5f",
+            "id": "bce4445dcac5e7f0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +80,7 @@
             }
           },
           {
-            "id": "6195ac1536446459",
+            "id": "f4bd0565a682b01e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +95,7 @@
             }
           },
           {
-            "id": "a11ee6c513626e5b",
+            "id": "a66b804373bb314c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,15 +109,15 @@
     "width": 300
   },
   "right": {
-    "id": "25164d98e705f3eb",
+    "id": "b0c49e444b6c776b",
     "type": "split",
     "children": [
       {
-        "id": "48d9bf898205345c",
+        "id": "da4d28bef405f1eb",
         "type": "tabs",
         "children": [
           {
-            "id": "2b0b91dd7935e6bb",
+            "id": "7ccced85434bf838",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -89,7 +126,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -97,7 +134,7 @@
             }
           },
           {
-            "id": "727f6a93bd2d82f7",
+            "id": "6b140edd4894836d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +146,7 @@
             }
           },
           {
-            "id": "68f9a008960ed340",
+            "id": "30f6bf65ae2d58e0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +157,7 @@
             }
           },
           {
-            "id": "9b4473851791b4a8",
+            "id": "8b8a019023d0642e",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -130,7 +167,7 @@
             }
           },
           {
-            "id": "7cde1d354567e608",
+            "id": "ccd341c03a27c328",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -153,27 +190,30 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "5f309d4de5e6bd5f",
+  "active": "ca91131c94b4141d",
   "lastOpenFiles": [
-    "Pole Placement.md",
-    "Computación Cognitiva.md",
-    "Linear Quadratic Regulator.md",
-    "Fuzzy Control.md",
-    "images/Pasted image 20240822163500.png",
     "Egyptian Multiplication.md",
-    "From Mathematics to General Programming.md",
-    "Prime Sieve.md",
-    "Untitled.canvas",
+    "Robotics & Vision.md",
+    "Pole Placement.md",
     "images/Pasted image 20240919204225.png",
     "images/Pasted image 20240919204207.png",
     "images/Pasted image 20240919201204.png",
     "images/Pasted image 20240919201004.png",
     "images/Pasted image 20240919200652.png",
-    "Robotics & Vision.md",
-    "General.md"
+    "images/Pasted image 20240822163500.png",
+    "Untitled.canvas",
+    "Fuzzy Control.md",
+    "Computación Cognitiva.md",
+    "From Mathematics to General Programming.md",
+    "Linear Quadratic Regulator.md",
+    "images/Pasted image 20240924120933.png",
+    "images/Pasted image 20240924113959.png",
+    "images",
+    "images/Pasted image 20240924114439.png",
+    "Prime Sieve.md"
   ]
 }
