@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pole Placement.md",
+                "file": "Computación Cognitiva.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:control",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pole Placement.md",
+                "file": "Computación Cognitiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pole Placement.md",
+                "file": "Computación Cognitiva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pole Placement.md"
+                "file": "Computación Cognitiva.md"
               }
             }
           },
@@ -160,10 +160,10 @@
   },
   "active": "1b121900095efc5b",
   "lastOpenFiles": [
+    "Pole Placement.md",
     "Computación Cognitiva.md",
     "Linear Quadratic Regulator.md",
     "Fuzzy Control.md",
-    "Pole Placement.md",
     "images/Pasted image 20240822163500.png",
     "Egyptian Multiplication.md",
     "From Mathematics to General Programming.md",
