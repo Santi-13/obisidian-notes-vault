@@ -1,4 +1,4 @@
-#LQR
+#LQR #ControlTheory 
 ##### By Brian Douglas
 ---
 LQR is a type of optimal controller that is based on the state-space representation.  We can compare it with a controller using [[Pole Placement]]. 
