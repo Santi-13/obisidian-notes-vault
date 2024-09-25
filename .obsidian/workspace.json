@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "From Mathematics to General Programming.md",
+                "file": "Computación Cognitiva.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "From Mathematics to General Programming.md",
+                "file": "Computación Cognitiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "From Mathematics to General Programming.md",
+                "file": "Computación Cognitiva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "From Mathematics to General Programming.md"
+                "file": "Computación Cognitiva.md"
               }
             }
           },
@@ -159,11 +159,21 @@
   },
   "active": "1b121900095efc5b",
   "lastOpenFiles": [
-    "images/Pasted image 20240919204225.png",
-    "General.md",
-    "From Mathematics to General Programming.md",
+    "Linear Quadratic Regulator.md",
+    "Pole Placement.md",
+    "images/Pasted image 20240822163500.png",
     "Egyptian Multiplication.md",
+    "From Mathematics to General Programming.md",
+    "Fuzzy Control.md",
+    "Prime Sieve.md",
+    "Untitled.canvas",
+    "images/Pasted image 20240919204225.png",
+    "images/Pasted image 20240919204207.png",
+    "images/Pasted image 20240919201204.png",
+    "images/Pasted image 20240919201004.png",
+    "images/Pasted image 20240919200652.png",
+    "Robotics & Vision.md",
     "Computación Cognitiva.md",
-    "Untitled.canvas"
+    "General.md"
   ]
 }
