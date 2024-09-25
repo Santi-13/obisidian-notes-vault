@@ -10,5 +10,14 @@ We observe how both of them are full state feedback controllers and have a simil
 LQR helps us find the optimal $k$ by choosing characteristics based on performance and effort. We do this by defining a cost function that values certain characteristics above others, to help us find the optimal gains.
 
 $$
-J = \int
+J = \int_{0}^\infty (x^TQx + u^Ru)dt 
+\implies u=-kx
+\implies \begin{matrix}
+\dot{x} = Ax + Bu \\
+\dot{y} = Cx + Du
+\end{matrix}
+$$
+Where:
+$$
+Q = Perfor manc
 $$
