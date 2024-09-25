@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,7 +157,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1b121900095efc5b",
+  "active": "5f309d4de5e6bd5f",
   "lastOpenFiles": [
     "Pole Placement.md",
     "Computación Cognitiva.md",
