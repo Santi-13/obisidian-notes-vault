@@ -5,65 +5,18 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-<<<<<<< HEAD
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "Fuzzy",
-      "color": {
-        "a": 1,
-        "rgb": 5222683
-      }
-    },
-    {
-      "query": "Robotics",
-      "color": {
-        "a": 1,
-        "rgb": 15019566
-      }
-    },
-    {
-      "query": "Computación",
-      "color": {
-        "a": 1,
-        "rgb": 12990408
-      }
-    }
-  ],
-  "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 2.18326403326403,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.670478170478171,
-  "repelStrength": 17.3180873180873,
-  "linkStrength": 1,
-  "linkDistance": 130,
-  "scale": 1,
-  "close": true
-=======
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "tag:#GeneralProgramming",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.308731808731809,
-  "repelStrength": 7.58835758835759,
-  "linkStrength": 0.824324324324324,
-  "linkDistance": 165,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
   "scale": 1,
   "close": false
->>>>>>> main
 }
