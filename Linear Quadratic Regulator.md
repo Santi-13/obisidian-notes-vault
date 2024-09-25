@@ -11,11 +11,6 @@ LQR helps us find the optimal $k$ by choosing characteristics based on performan
 
 $$
 J = \int_{0}^\infty (x^TQx + u^Ru)dt 
-\implies u=-kx
-\implies \begin{matrix}
-\dot{x} = Ax + Bu \\
-\dot{y} = Cx + Du
-\end{matrix}
 $$
 Where:
 $$
