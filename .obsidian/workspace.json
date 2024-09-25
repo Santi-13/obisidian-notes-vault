@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "d4eeefcf01984bad",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfec772f4b4246bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d44c913bde86e727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Robotics & Vision.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7769e99f89945017",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computación Cognitiva.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e2c48bca5230788",
+    "type": "split",
+    "children": [
+      {
+        "id": "e050ec640805e926",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a75c3312a7eaabe0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f34fc6bb8bf9202d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "177e342afd85786f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e15041dbce6a3512",
+    "type": "split",
+    "children": [
+      {
+        "id": "467834938d90246f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5f0dd4c55658a7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computación Cognitiva.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c5c4b3d5a9bac13",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computación Cognitiva.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c4cefba7b401d7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d4bf099e49f1df2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computación Cognitiva.md"
+              }
+            }
+          },
+          {
+            "id": "209f3d2a727a6098",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "7769e99f89945017",
+  "lastOpenFiles": [
+    "Computación Cognitiva.md",
+    "Pasted image 20240919204225.png",
+    "Imagenes/Pasted image 20240919204207.png",
+    "Pasted image 20240919203140.png",
+    "Imagenes/Pasted image 20240919201204.png",
+    "Imagenes/Pasted image 20240919201004.png",
+    "Imagenes/Pasted image 20240919200652.png",
+    "Imagenes",
+    "Fuzzy Control.md",
+    "General.md",
+    "Imagenes/Pasted image 20240822163500.png",
+    "Robotics & Vision.md",
+    "create a link.md"
+  ]
+}
