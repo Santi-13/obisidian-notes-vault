@@ -1,76 +1,39 @@
 {
   "main": {
-    "id": "a25d0737b5ac7275",
+    "id": "2c0494d0c06ad4e7",
     "type": "split",
     "children": [
       {
-        "id": "6585abd2410a7ae8",
+        "id": "3068f5eaf47dc2b5",
         "type": "tabs",
         "children": [
           {
-            "id": "f14ebe163b6822c7",
+            "id": "1b121900095efc5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Egyptian Multiplication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e8ae2b9611088cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Egyptian Multiplication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82dcb2f0bb2165a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pole Placement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca91131c94b4141d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pole Placement.md",
+                "file": "Computación Cognitiva.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3f704c130d287195",
+    "id": "792ae73f1459cf57",
     "type": "split",
     "children": [
       {
-        "id": "b8775382642b3fd0",
+        "id": "4ac681326ea73879",
         "type": "tabs",
         "children": [
           {
-            "id": "bce4445dcac5e7f0",
+            "id": "5f309d4de5e6bd5f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +43,7 @@
             }
           },
           {
-            "id": "f4bd0565a682b01e",
+            "id": "6195ac1536446459",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +58,7 @@
             }
           },
           {
-            "id": "a66b804373bb314c",
+            "id": "a11ee6c513626e5b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -109,24 +72,24 @@
     "width": 300
   },
   "right": {
-    "id": "b0c49e444b6c776b",
+    "id": "25164d98e705f3eb",
     "type": "split",
     "children": [
       {
-        "id": "da4d28bef405f1eb",
+        "id": "48d9bf898205345c",
         "type": "tabs",
         "children": [
           {
-            "id": "7ccced85434bf838",
+            "id": "2b0b91dd7935e6bb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pole Placement.md",
+                "file": "Computación Cognitiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -134,19 +97,19 @@
             }
           },
           {
-            "id": "6b140edd4894836d",
+            "id": "727f6a93bd2d82f7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pole Placement.md",
+                "file": "Computación Cognitiva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "30f6bf65ae2d58e0",
+            "id": "68f9a008960ed340",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,17 +120,17 @@
             }
           },
           {
-            "id": "8b8a019023d0642e",
+            "id": "9b4473851791b4a8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pole Placement.md"
+                "file": "Computación Cognitiva.md"
               }
             }
           },
           {
-            "id": "ccd341c03a27c328",
+            "id": "7cde1d354567e608",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -190,20 +153,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ca91131c94b4141d",
+  "active": "5f309d4de5e6bd5f",
   "lastOpenFiles": [
-    "From Mathematics to General Programming.md",
-    "Linear Quadratic Regulator.md",
     "Pole Placement.md",
-    "images/Pasted image 20240924120933.png",
-    "images/Pasted image 20240924113959.png",
-    "images",
-    "images/Pasted image 20240924114439.png",
+    "Computación Cognitiva.md",
+    "Linear Quadratic Regulator.md",
+    "Fuzzy Control.md",
+    "images/Pasted image 20240822163500.png",
     "Egyptian Multiplication.md",
-    "Prime Sieve.md"
+    "From Mathematics to General Programming.md",
+    "Prime Sieve.md",
+    "Untitled.canvas",
+    "images/Pasted image 20240919204225.png",
+    "images/Pasted image 20240919204207.png",
+    "images/Pasted image 20240919201204.png",
+    "images/Pasted image 20240919201004.png",
+    "images/Pasted image 20240919200652.png",
+    "Robotics & Vision.md",
+    "General.md"
   ]
 }
