@@ -5,6 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
+<<<<<<< HEAD
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -41,4 +42,28 @@
   "linkDistance": 130,
   "scale": 1,
   "close": true
+=======
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#GeneralProgramming",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.308731808731809,
+  "repelStrength": 7.58835758835759,
+  "linkStrength": 0.824324324324324,
+  "linkDistance": 165,
+  "scale": 1,
+  "close": false
+>>>>>>> main
 }

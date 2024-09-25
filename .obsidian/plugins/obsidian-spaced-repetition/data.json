@@ -4,8 +4,12 @@
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "flashcardTags": [
+<<<<<<< HEAD
       "#FuzzyControl",
       "#ComputaciónCognitiva"
+=======
+      "#flashcards"
+>>>>>>> main
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -41,7 +45,11 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
+<<<<<<< HEAD
   "buryDate": "2024-09-25",
+=======
+  "buryDate": "2024-09-24",
+>>>>>>> main
   "buryList": [],
   "historyDeck": null
 }
