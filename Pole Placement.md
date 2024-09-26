@@ -156,4 +156,4 @@ step(sys_cl_scaled);
 ---
 What is the difference between a controller using pole placement or LQR and a typical controllers?:: Typical controllers take the error signal and actuate on it. In the other hand, pole placement allows us to directly modify the eigenvalues of the system by scaling the state of the system via a matrix $K$, as well as adjust the reference point via a scaling factor $K_r$ to avoid steady-state error.
 
-What is the difference between feeding back the state $x$ of the system versus the output $y$ of it?:: The state are the variables which affect the system dynamics, so taking a measure of them directly affects the dynamics 
+What is the difference between feeding back the state $x$ of the system versus the output $y$ of it?:: The difference oc
