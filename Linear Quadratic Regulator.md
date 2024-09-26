@@ -19,4 +19,4 @@ Q = Performance-Gain \\
 R = Effort-Gain 
 \end{matrix}
 $$
-This cost function helps change more comprehensively the gains of our system based on qualities we desire from a system by simply changing the Q and R matrices. For example, a  
+This cost function helps change more comprehensively the gains of our system based on qualities we desire from a system by simply changing the Q and R matrices. F 

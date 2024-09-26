@@ -151,3 +151,7 @@ Kr = 1 / Kdc;
 sys_cl_scaled = ss(A_cl,B*kr,C,D);
 step(sys_cl_scaled);
 ```
+
+### Flashcards
+---
+What is the difference between a controller using pole placement or LQR and a typical controllers?:: Typ 
