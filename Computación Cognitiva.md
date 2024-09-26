@@ -46,15 +46,15 @@
 ### Flashcards -
 ---
 ¿Qué es aprendizaje automático?:: Es un área que "da a las maquinas la habilidad de aprender una tarea sin necesidad de ser programadas explícitamente para ello" (Arthur Samuel).
-<!--SR:!2024-09-22,3,250-->
+<!--SR:!2024-10-05,9,250-->
 <!--SR:!2024-09-22,3,250-->
 ¿Qué es un sistema inteligente?:: Aquel que puede "adaptarse" a cambios en su entorno, modificando su comportamiento para seguir pudiendo hacer su tarea, así como mejorarlo a través de la experiencia.
-<!--SR:!2024-09-22,3,250-->
+<!--SR:!2024-09-28,2,230-->
 ¿Qué es plasticidad?:: Es la capacidad que tiene un modelo a deformarse para adaptarse a la salida deseada.
-<!--SR:!2024-09-20,1,230-->
+<!--SR:!2024-09-28,2,230-->
 ¿Qué tipos de aprendizaje hay y de que tratan?
 ?
 **Aprendizaje Supervisado.** Se aprende de un maestro o ejemplos cuyo comportamiento deseado se conoce.
 **Aprendizaje no Supervisado.** Aprende de la información directamente sin una respuesta esperada.
 **Aprendizaje Reforzado.** Aprender a prueba y error de la interacción con la información o el entorno.
-<!--SR:!2024-09-20,1,230-->
+<!--SR:!2024-09-27,1,210-->
