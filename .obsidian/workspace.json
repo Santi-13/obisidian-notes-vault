@@ -23,11 +23,14 @@
             "id": "9063c8017626506f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Pole Placement.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -280,
+                  "y": -40,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -98,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pole Placement.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pole Placement.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pole Placement.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -172,11 +175,11 @@
   },
   "active": "9063c8017626506f",
   "lastOpenFiles": [
-    "Linear Quadratic Regulator.md",
     "Untitled.md",
+    "Pole Placement.md",
+    "Linear Quadratic Regulator.md",
     "Computación Cognitiva.md",
     "images/Pasted image 20240925115804.png",
-    "Pole Placement.md",
     "Fuzzy Control.md",
     "images/Pasted image 20240822163500.png",
     "Egyptian Multiplication.md",
