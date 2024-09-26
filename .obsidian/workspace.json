@@ -23,15 +23,8 @@
             "id": "9063c8017626506f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -280,
-                  "y": -40,
-                  "zoom": 0
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -64,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ComputaciónCognitiva",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -175,23 +165,23 @@
   },
   "active": "9063c8017626506f",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Pole Placement.md",
-    "Linear Quadratic Regulator.md",
+    "Robotics & Vision.md",
     "Computación Cognitiva.md",
-    "images/Pasted image 20240925115804.png",
-    "Fuzzy Control.md",
-    "images/Pasted image 20240822163500.png",
+    "Prime Sieve.md",
+    "Pole Placement.md",
     "Egyptian Multiplication.md",
     "From Mathematics to General Programming.md",
-    "Prime Sieve.md",
-    "Untitled.canvas",
+    "Fuzzy Control.md",
+    "Linear Quadratic Regulator.md",
+    "Canvas.canvas",
+    "Untitled.md",
+    "images/Pasted image 20240925115804.png",
+    "images/Pasted image 20240822163500.png",
     "images/Pasted image 20240919204225.png",
     "images/Pasted image 20240919204207.png",
     "images/Pasted image 20240919201204.png",
     "images/Pasted image 20240919201004.png",
     "images/Pasted image 20240919200652.png",
-    "Robotics & Vision.md",
     "General.md"
   ]
 }

@@ -6,17 +6,39 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "ControlTheory",
+      "color": {
+        "a": 1,
+        "rgb": 9328628
+      }
+    },
+    {
+      "query": "GeneralProgramming",
+      "color": {
+        "a": 1,
+        "rgb": 15018538
+      }
+    },
+    {
+      "query": "ComputaciónCognitiva",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 9.08523908523909,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 107,
   "scale": 1,
   "close": false
 }

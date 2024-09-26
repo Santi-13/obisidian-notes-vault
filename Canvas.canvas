@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"d464936b82987d4f","type":"file","file":"Pole Placement.md","x":-820,"y":-200,"width":480,"height":400},
+		{"id":"0492878f4c310183","x":-320,"y":-200,"width":540,"height":400,"type":"file","file":"Linear Quadratic Regulator.md"}
+	],
+	"edges":[]
+}

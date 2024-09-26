@@ -1,5 +1,7 @@
 ---
-tags: FuzzyControl
+tags:
+  - FuzzyControl
+  - ControlTheory
 ---
 What is the difference between Classical and Fuzzy Set Theory?:: Fuzzy Set Theory deals with qualitative descriptions while Classical Set Theory deals more in absolutes.
 <!--SR:!2024-11-13,55,310-->
