@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9063c8017626506f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Quadratic Regulator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computación Cognitiva.md",
+                "file": "Linear Quadratic Regulator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computación Cognitiva.md",
+                "file": "Linear Quadratic Regulator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computación Cognitiva.md"
+                "file": "Linear Quadratic Regulator.md"
               }
             }
           },
@@ -157,10 +170,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5f309d4de5e6bd5f",
+  "active": "9063c8017626506f",
   "lastOpenFiles": [
-    "Pole Placement.md",
+    "Untitled.md",
     "Computación Cognitiva.md",
+    "images/Pasted image 20240925115804.png",
+    "Pole Placement.md",
     "Linear Quadratic Regulator.md",
     "Fuzzy Control.md",
     "images/Pasted image 20240822163500.png",

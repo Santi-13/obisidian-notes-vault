@@ -43,7 +43,11 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
+<<<<<<< HEAD
   "buryDate": "2024-09-26",
+=======
+  "buryDate": "2024-09-25",
+>>>>>>> feebcdf13eeeef005b036506e9e7ff6cb6e905bf
   "buryList": [],
   "historyDeck": null
 }
