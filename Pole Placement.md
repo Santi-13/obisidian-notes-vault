@@ -158,3 +158,4 @@ step(sys_cl_scaled);
 <!--SR:!2024-09-29,3,250-->
 **What is the difference between feeding back the state $x$ of the system versus the output $y$ of it?**:: The difference comes from the availability of the system, as well as the complexity that is required and wanted for it. To make a state-feedback controller, for example, it is necessary to have a model of the system and for all the state to be observable and measurable (or able to be estimated); While for an output-feedback controller, the output is always observable and measurable, providing a more simple approach at the cost of less precision.
 <!--SR:!2024-09-29,3,250-->
+What does the eigenvalues of a system tells us about its behavior and ? 
