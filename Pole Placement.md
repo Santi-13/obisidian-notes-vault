@@ -23,7 +23,7 @@ Which can also be written as:
 $\dot x_1 = x_2$
 $\dot x_2 = 2x_1 - x_2$
 
-We can transform the $A$ matrix into one that uses a different set of state variables to describe the system in order to more clearly see how eigenvalues affect the system. We define a matrix of eigenvectors $E$.
+We can transform the $A$ matrix into one that uses a different set of state variables to describe the system in order to more clearly see how eigenvalues affect the system. We define a matrix of eigenvectors of $A$ as $E$.
 
 $x = Ez$ 
 
