@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fuzzy Control.md",
+                "file": "Linear Quadratic Regulator.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fuzzy Control.md",
+                "file": "Linear Quadratic Regulator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fuzzy Control.md",
+                "file": "Linear Quadratic Regulator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fuzzy Control.md"
+                "file": "Linear Quadratic Regulator.md"
               }
             }
           },
@@ -208,11 +208,11 @@
   },
   "active": "380d0ee7544d06dc",
   "lastOpenFiles": [
+    "Fuzzy Control.md",
     "Canvas.canvas",
     "Untitled.md",
     "Linear Quadratic Regulator.md",
     "Pole Placement.md",
-    "Fuzzy Control.md",
     "Prime Sieve.md",
     "Robotics & Vision.md",
     "Untitled.canvas",
