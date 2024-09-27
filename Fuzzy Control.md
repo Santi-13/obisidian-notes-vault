@@ -1,5 +1,7 @@
 ---
-tags: FuzzyControl
+tags:
+  - FuzzyControl
+  - ControlTheory
 ---
 What is the difference between Classical and Fuzzy Set Theory?:: Fuzzy Set Theory deals with qualitative descriptions while Classical Set Theory deals more in absolutes.
 <!--SR:!2024-11-13,55,310-->
@@ -10,7 +12,7 @@ What is Fuzzification?:: Is the process of converting a real value of the univer
 What is a Singleton Fuzzy Set?:: A fuzzy set which is nonzero for all values except one.
 <!--SR:!2024-10-03,14,296-->
 What are some ways to define membership functions and which is the best?:: Asking the control/modeling expert to define them; Using data from the system to generate them; Trial & Error. Trial & Error tends to work the most effectively
-<!--SR:!2024-09-26,7,256-->
+<!--SR:!2024-10-20,24,276-->
 What are some proposed Fuzzy logic operators
 ?
 Zadeh AND:        $\mu_{\overset{\sim}{A}\bigcap \overset{\sim}{B}} = min(\mu_\overset{\sim}{A}(x),\mu_\overset{\sim}{B}(x))$
@@ -19,9 +21,9 @@ Zadeh OR:          $\mu_{\overset{\sim}{A}\bigcup \overset{\sim}{B}} = max(\mu_\
 Lukasiewicz OR: $\mu_{\overset{\sim}{A}\bigcup \overset{\sim}{B}} = min(\mu_\overset{\sim}{A}(x)+\mu_\overset{\sim}{B}(x), 1)$
 <!--SR:!2024-08-27,1,236-->
 What are fuzzy rules?:: Linguistic if-then statements involving fuzzy sets, logic and inference. They link input to output variables.
-<!--SR:!2024-09-20,1,242-->
+<!--SR:!2024-09-28,2,242-->
 What are the major type of fuzzy rules?:: Mamdami and Takagi-Sugenor (TS).
-<!--SR:!2024-09-22,3,262-->
+<!--SR:!2024-10-09,13,282-->
 What is fuzzy inference?:: Is what we use to calculate the output variables in the rule consequent. Mamdami and TS fuzzy rules use different methods of fuzzy inference.
-<!--SR:!2024-09-20,1,242-->
+<!--SR:!2024-09-27,1,222-->
 

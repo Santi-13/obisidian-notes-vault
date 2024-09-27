@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "380d0ee7544d06dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Quadratic Regulator.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Quadratic Regulator.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Quadratic Regulator.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -194,11 +206,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ca91131c94b4141d",
+  "active": "380d0ee7544d06dc",
   "lastOpenFiles": [
+    "Linear Quadratic Regulator.md",
+    "Untitled.md",
+    "Canvas.canvas",
     "Pole Placement.md",
     "Fuzzy Control.md",
-    "Linear Quadratic Regulator.md",
     "Prime Sieve.md",
     "Robotics & Vision.md",
     "Untitled.canvas",
