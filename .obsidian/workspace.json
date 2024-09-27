@@ -59,11 +59,14 @@
             "id": "380d0ee7544d06dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Canvas.canvas",
+                "viewState": {
+                  "x": -1048.4986810398063,
+                  "y": 178.0294184257815,
+                  "zoom": -1
+                }
               }
             }
           }
@@ -134,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Canvas.canvas"
               }
             }
           },
@@ -208,8 +211,8 @@
   },
   "active": "380d0ee7544d06dc",
   "lastOpenFiles": [
-    "Linear Quadratic Regulator.md",
     "Untitled.md",
+    "Linear Quadratic Regulator.md",
     "Canvas.canvas",
     "Pole Placement.md",
     "Fuzzy Control.md",
