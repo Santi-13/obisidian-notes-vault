@@ -10,8 +10,8 @@
 		{"id":"ca609772d7bf8382","x":-820,"y":240,"width":480,"height":400,"type":"file","file":"Fuzzy Control.md"},
 		{"id":"0426c43b15e6e336","x":-2000,"y":-300,"width":250,"height":60,"type":"text","text":"# Robotics"},
 		{"id":"18aa3f6280c9f372","x":-2000,"y":-200,"width":520,"height":400,"type":"file","file":"Robotics & Vision.md"},
-		{"id":"e514241d18195c13","type":"text","text":"# Robotics","x":-1400,"y":-300,"width":250,"height":60},
-		{"id":"780b43b4ec1350b0","type":"file","file":"Robotics & Vision.md","x":-1400,"y":-200,"width":520,"height":400}
+		{"id":"e514241d18195c13","type":"text","text":"# AI","x":-1400,"y":-300,"width":250,"height":60},
+		{"id":"e93de33c6903f5d3","x":-1400,"y":-200,"width":520,"height":400,"type":"file","file":"Computación Cognitiva.md"}
 	],
 	"edges":[]
 }
