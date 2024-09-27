@@ -23,8 +23,12 @@
             "id": "9063c8017626506f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pole Placement.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pole Placement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pole Placement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pole Placement.md"
+              }
             }
           },
           {
@@ -162,7 +170,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5f309d4de5e6bd5f",
+  "active": "9063c8017626506f",
   "lastOpenFiles": [
     "Robotics & Vision.md",
     "Computación Cognitiva.md",
