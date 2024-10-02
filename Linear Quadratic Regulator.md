@@ -20,3 +20,11 @@ R = Effort-Gain
 \end{matrix}
 $$
 This cost function helps change more comprehensively the gains of our system based on qualities we desire from a system by simply changing the Q and R matrices. Rather than thinking on pole locations, we get to optimize based on the balance of performance and actuator effort we want.
+
+We define the cost function as an integral to measure the area under the curve, as a bigger area means a worse performance (i.e. more time to reach a goal).
+
+![[Pasted image 20241002121812.png]]
+
+And then we square the states to only work with positive values, this also has the secondary effect of making it a quadratic function, which always has a definite minimum.
+
+![[Pasted image 20241002121938.png]]
