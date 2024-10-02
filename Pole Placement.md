@@ -1,6 +1,7 @@
 ---
 tags:
   - ControlTheory
+  - "#PolePlacement"
 ---
 ##### By: Brian Douglas
 ---
