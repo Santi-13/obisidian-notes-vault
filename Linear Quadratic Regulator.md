@@ -32,4 +32,20 @@ And then we square the states to only work with positive values, this also has t
 Matrices $Q$ and $R$ are both square with the same number of columns and rows as states in the system, and must be positive definite so that when multiplied by the state vectors:
 $$x^TQx>0$$
 It usually is a diagonal matrix that allows us to target certain states:
-$$$$
+$$
+\begin{bmatrix}
+x_{1} & x_{2}  & \dots  & x_{n}  \\
+\end{bmatrix}
+\begin{bmatrix}
+Q_{1} &  & \dots \\
+ & Q_{2} & \dots  \\ \\
+& \dots & \\
+\dots &  & Q_{n}
+\end{bmatrix}
+\begin{bmatrix}
+x_{1} \\
+x_{2} \\
+\dots \\
+x_{n}
+\end{bmatrix}
+$$
