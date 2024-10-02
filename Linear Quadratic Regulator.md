@@ -82,7 +82,7 @@ u
 $$
 Where $N$ penalizes the cross product of $x$ and $u$.
 
-We can easily implement LQR in Matlab:
+We can easily implement LQR in Matlab using the `lqr()` function:
 ```
 % System Dynamics
 A = [0 1; 2 -1];
@@ -91,10 +91,18 @@ C = [1 0];
 D = 0;
 
 % Control Law
-Q = []
+Q = [1 0;
+	 0 1];
+R = 1;
+K = lqr(A,B,Q,R);
+
+$ Closed Loop System
+sys = ss((A - B*k),B,C,D);
 ```
 
 ### Flashcards
 ---
 What are the $Q$ and $R$ matrices and how do we define their values?:: $Q$ is the performance gain matrix, whose values are defined by augmenting the diagonal term that correspond to the states we wish to have a lower error faster; While $R$ is the actuator effort gain matrix, which we define by augmenting the diagonal values of the inputs that are more expensive.
+
+How can we obtain the appropriate gains using the Linear Quadratic Regulator in Matlab?:: By defining the $Q$ and $R$ matrices and using the `lqr()` function.
 
