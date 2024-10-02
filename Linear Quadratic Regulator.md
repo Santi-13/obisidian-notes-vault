@@ -37,15 +37,16 @@ $$
 x_{1} & x_{2}  & \dots  & x_{n}  \\
 \end{bmatrix}
 \begin{bmatrix}
-Q_{1} &  & \dots \\
- & Q_{2} & \dots  \\ \\
-& \dots & \\
-\dots &  & Q_{n}
+Q_{1} &  & & \dots \\
+ & Q_{2} & \dots  &  \\
+& \dots & \ddots & \\
+\dots &  & & Q_{n}
 \end{bmatrix}
 \begin{bmatrix}
 x_{1} \\
 x_{2} \\
-\dots \\
+\vdots \\
 x_{n}
 \end{bmatrix}
 $$
+Augmenting each diagonal term penalizes error ()
