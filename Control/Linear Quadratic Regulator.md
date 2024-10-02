@@ -1,5 +1,5 @@
 #PolePlacement  #LQR #ControlTheory 
-##### By Brian Douglas
+##### By Brian Douglas [Matlab]
 ---
 LQR is a type of optimal controller that is based on the state-space representation.  We can compare it with a controller using [[Pole Placement]]. 
 
