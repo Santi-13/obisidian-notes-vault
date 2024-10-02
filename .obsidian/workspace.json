@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Quadratic Regulator.md",
+                "file": "Model Predictive Control (MPC).md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Quadratic Regulator.md",
+                "file": "Model Predictive Control (MPC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Quadratic Regulator.md",
+                "file": "Model Predictive Control (MPC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Quadratic Regulator.md"
+                "file": "Model Predictive Control (MPC).md"
               }
             }
           },
@@ -208,14 +208,14 @@
   },
   "active": "380d0ee7544d06dc",
   "lastOpenFiles": [
+    "Linear Quadratic Regulator.md",
+    "Model Predictive Control (MPC).md",
     "Robotics & Vision.md",
     "Pole Placement.md",
-    "Linear Quadratic Regulator.md",
     "images/Pasted image 20241002121812.png",
     "images/Pasted image 20241002121938.png",
     "Fuzzy Control.md",
     "Canvas.canvas",
-    "Untitled.md",
     "Prime Sieve.md",
     "Untitled.canvas",
     "Computación Cognitiva.md",
