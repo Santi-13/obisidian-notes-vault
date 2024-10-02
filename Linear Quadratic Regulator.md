@@ -82,7 +82,19 @@ u
 $$
 Where $N$ penalizes the cross product of $x$ and $u$.
 
+We can easily implement LQR in Matlab:
+```
+% System Dynamics
+A = [0 1; 2 -1];
+B = [1; 0];
+C = [1 0];
+D = 0;
+
+% Control Law
+Q = []
+```
 
 ### Flashcards
 ---
-What are the $Q$ and $R$ matrices and h?
+What are the $Q$ and $R$ matrices and how do we define their values?:: $Q$ is the performance gain matrix, whose values are defined by augmenting the diagonal term that correspond to the states we wish to have a lower error faster; While $R$ is the actuator effort gain matrix, which we define by augmenting the diagonal values of the inputs that are more expensive.
+
