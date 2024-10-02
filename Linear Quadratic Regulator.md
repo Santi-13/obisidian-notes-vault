@@ -65,4 +65,24 @@ x \\
 u
 \end{bmatrix}
 $$
-We observe how the diagonal values are the previously defined matrices, which each affect either the states or the input
+We observe how the diagonal values are the previously defined matrices, which each affect either the states or the input. But we also notice the off-diagonal terms, which in this case are zero, but we can also define as:
+
+$$
+\begin{bmatrix}
+x^T & u^t
+\end{bmatrix}
+\begin{bmatrix}
+Q & N \\
+N^T & R
+\end{bmatrix}
+\begin{bmatrix}
+x \\
+u
+\end{bmatrix}
+$$
+Where $N$ penalizes the cross product of $x$ and $u$.
+
+
+### Flashcards
+---
+What are the $Q$ and $R$ matrices and h?
