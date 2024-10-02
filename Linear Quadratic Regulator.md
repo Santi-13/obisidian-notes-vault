@@ -49,4 +49,20 @@ x_{2} \\
 x_{n}
 \end{bmatrix}
 $$
-Augmenting each diagonal term penalizes error ()
+Augmenting each diagonal term penalizes error (with $Q$) on each state and extra actuator effort (with $R$) on each input. It is good practice for each term to be a multiple of 10.
+
+Another less-common way to visualize the cost function is in the long matrix form:
+$$
+\begin{bmatrix}
+x^T & u^t
+\end{bmatrix}
+\begin{bmatrix}
+Q & 0 \\
+0 & R
+\end{bmatrix}
+\begin{bmatrix}
+x \\
+u
+\end{bmatrix}
+$$
+We observe how the diagonal values are the previously defined matrices, which each affect either the states or the input
