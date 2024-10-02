@@ -10,7 +10,7 @@ We observe how both of them are full state feedback controllers and have a simil
 LQR helps us find the optimal $k$ by choosing characteristics based on performance and effort. We do this by defining a cost function that values certain characteristics above others, to help us find the optimal gains.
 
 $$
-J = \int_{0}^\infty (x^TQx + u^Ru)dt 
+J = \int_{0}^\infty (x^TQx + u^TRu)dt 
 $$
 Where:
 $$
@@ -19,4 +19,4 @@ Q = Performance-Gain \\
 R = Effort-Gain 
 \end{matrix}
 $$
-This cost function helps change more comprehensively the gains of our system based on qualities we desire from a system by simply changing the Q and R matrices. F 
+This cost function helps change more comprehensively the gains of our system based on qualities we desire from a system by simply changing the Q and R matrices. Rather than thinking on pole locations, we get to optimize based on the balance of performance and actuator effort we want.
