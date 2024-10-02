@@ -28,3 +28,8 @@ We define the cost function as an integral to measure the area under the curve, 
 And then we square the states to only work with positive values, this also has the secondary effect of making it a quadratic function, which always has a definite minimum.
 
 ![[Pasted image 20241002121938.png]]
+
+Matrices $Q$ and $R$ are both square with the same number of columns and rows as states in the system, and must be positive definite so that when multiplied by the state vectors:
+$$x^TQx>0$$
+It usually is a diagonal matrix that allows us to target certain states:
+$$$$
