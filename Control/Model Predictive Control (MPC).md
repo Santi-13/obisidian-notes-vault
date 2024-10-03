@@ -7,7 +7,8 @@ MPC is often recommended for Multiple-Output Multiple-Input (MIMO) systems, as u
 
 ![[Pasted image 20241003090746.png]]
 
-This is a main advantage of MPC controllers, as it can control the outputs of the system, while considering the 
+This is a main advantage of MPC controllers, as it can control the outputs of the system, while considering the interactions between inputs.
 
 ![[Pasted image 20241003091151.png]]
 
+	Another advantage of MPC is its ability to handle constraints, 
