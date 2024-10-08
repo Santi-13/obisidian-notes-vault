@@ -3,6 +3,8 @@ tags:
   - FuzzyControl
   - ControlTheory
 ---
+### By: ---
+---
 What is the difference between Classical and Fuzzy Set Theory?:: Fuzzy Set Theory deals with qualitative descriptions while Classical Set Theory deals more in absolutes.
 <!--SR:!2024-11-13,55,310-->
 What is Fuzzy logic used for?:: Too make decisions based on linguistics, which is often composed of vague concepts.
@@ -25,5 +27,5 @@ What are fuzzy rules?:: Linguistic if-then statements involving fuzzy sets, logi
 What are the major type of fuzzy rules?:: Mamdami and Takagi-Sugenor (TS).
 <!--SR:!2024-10-09,13,282-->
 What is fuzzy inference?:: Is what we use to calculate the output variables in the rule consequent. Mamdami and TS fuzzy rules use different methods of fuzzy inference.
-<!--SR:!2024-09-27,1,222-->
+<!--SR:!2024-09-28,1,202-->
 

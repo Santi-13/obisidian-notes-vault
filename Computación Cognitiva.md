@@ -57,4 +57,4 @@
 **Aprendizaje Supervisado.** Se aprende de un maestro o ejemplos cuyo comportamiento deseado se conoce.
 **Aprendizaje no Supervisado.** Aprende de la información directamente sin una respuesta esperada.
 **Aprendizaje Reforzado.** Aprender a prueba y error de la interacción con la información o el entorno.
-<!--SR:!2024-09-27,1,210-->
+<!--SR:!2024-09-29,2,210-->

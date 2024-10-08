@@ -26,9 +26,29 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "36909362fdab7617",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "96c1292ba19479ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,8 +182,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9063c8017626506f",
+  "active": "36909362fdab7617",
   "lastOpenFiles": [
+    "Untitled.md",
+    "images/Pasted image 20241002121938.png",
+    "images/Pasted image 20241002121812.png",
+    "Pasted image 20241003091151.png",
+    "Pasted image 20241003090746.png",
+    "Control/Pole Placement.md",
+    "Control/Model Predictive Control (MPC).md",
+    "Control/Linear Quadratic Regulator.md",
+    "Control/Fuzzy Control.md",
+    "Control",
     "Pole Placement.md",
     "Robotics & Vision.md",
     "Computación Cognitiva.md",
@@ -173,14 +203,12 @@
     "Fuzzy Control.md",
     "Linear Quadratic Regulator.md",
     "Canvas.canvas",
-    "Untitled.md",
     "images/Pasted image 20240925115804.png",
     "images/Pasted image 20240822163500.png",
     "images/Pasted image 20240919204225.png",
     "images/Pasted image 20240919204207.png",
     "images/Pasted image 20240919201204.png",
     "images/Pasted image 20240919201004.png",
-    "images/Pasted image 20240919200652.png",
     "General.md"
   ]
 }
