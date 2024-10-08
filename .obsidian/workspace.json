@@ -23,12 +23,8 @@
             "id": "9063c8017626506f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pole Placement.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pole Placement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pole Placement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pole Placement.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,10 +164,10 @@
   },
   "active": "9063c8017626506f",
   "lastOpenFiles": [
+    "Pole Placement.md",
     "Robotics & Vision.md",
     "Computación Cognitiva.md",
     "Prime Sieve.md",
-    "Pole Placement.md",
     "Egyptian Multiplication.md",
     "From Mathematics to General Programming.md",
     "Fuzzy Control.md",
