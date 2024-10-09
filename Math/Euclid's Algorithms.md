@@ -12,4 +12,5 @@ Basically saying that if our procedure of finding the greatest common measure ne
 
 > **Proposition 3.** Given two commensurable magnitudes, to find their greatest common measure.
 > *Proof.*
-> Let the two given commensurable magnitudes be AB, CD of 
+> Let the two given commensurable magnitudes be AB, CD of which AB is the less; thus it is required to find the greatest common measure of AB, CD.
+
