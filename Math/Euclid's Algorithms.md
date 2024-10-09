@@ -17,4 +17,6 @@ Basically saying that if our procedure of finding the greatest common measure ne
 > If then it measures it - and it measures itself also - AB is a common measure of AB, CD.
 > And it is manifest that it is also the greatest; For a greater magnitude than the magnitude AB will not measure AB.
 
-![[Pasted image 20241009102803.png]]
+
+
+![[Euclid's GCM Diagram]]
