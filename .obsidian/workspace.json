@@ -102,9 +102,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db71ead64808f651",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-09 09.43.37.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Euclid's Algorithms.md",
+                "file": "Excalidraw/Drawing 2024-10-09 09.43.37.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Euclid's Algorithms.md",
+                "file": "Excalidraw/Drawing 2024-10-09 09.43.37.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Euclid's Algorithms.md"
+                "file": "Excalidraw/Drawing 2024-10-09 09.43.37.excalidraw.md"
               }
             }
           },
@@ -239,13 +249,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b51e989ee2d5ada",
+  "active": "db71ead64808f651",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Math/Euclid's Algorithms.md",
+    "Excalidraw/Drawing 2024-10-09 09.43.37.excalidraw.md",
+    "Excalidraw",
+    "Untitled 1.md",
     "Untitled.md",
     "Math/Prime Sieve.md",
     "Math/Egyptian Multiplication.md",
