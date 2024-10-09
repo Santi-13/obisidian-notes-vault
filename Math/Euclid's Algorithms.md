@@ -13,10 +13,8 @@ Basically saying that if our procedure of finding the greatest common measure ne
 > **Proposition 3.** Given two commensurable magnitudes, to find their greatest common measure.
 > *Proof.*
 > Let the two given commensurable magnitudes be AB, CD of which AB is the less; thus it is required to find the greatest common measure of AB, CD.
-
-[[Euclid's GCM Diagram]]
-![[Pasted image 20241009102315.png]]
 > Now the magnitude AB either measures CD or not.
 > If then it measures it - and it measures itself also - AB is a common measure of AB, CD.
 > And it is manifest that it is also the greatest; For a greater magnitude than the magnitude AB will not measure AB.
-> 
+
+![[Pasted image 20241009102803.png]]

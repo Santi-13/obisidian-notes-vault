@@ -119,9 +119,11 @@
             "id": "09ea8aa1124472c5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Euclid's GCM Diagram.md"
+                "file": "Math/Euclid's Algorithms.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -192,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Euclid's GCM Diagram.md",
+                "file": "Math/Euclid's Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Euclid's GCM Diagram.md",
+                "file": "Math/Euclid's Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Euclid's GCM Diagram.md"
+                "file": "Math/Euclid's Algorithms.md"
               }
             }
           },
@@ -267,10 +269,14 @@
   },
   "active": "09ea8aa1124472c5",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md",
+    "Pasted image 20241009102855.png",
+    "Pasted image 20241009102803.png",
+    "Pasted image 20241003091151.png",
+    "Pasted image 20241003090746.png",
     "Math/Euclid's Algorithms.md",
-    "Pasted image 20241009102315.png",
     "Excalidraw/Euclid's GCM Diagram.md",
+    "Pasted image 20241009102315.png",
+    "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md",
     "Excalidraw",
     "Untitled 1.md",
     "Untitled.md",
@@ -279,8 +285,6 @@
     "Math/From Mathematics to General Programming.md",
     "Control/Model Predictive Control (MPC).md",
     "Math",
-    "Pasted image 20241003091151.png",
-    "Pasted image 20241003090746.png",
     "Control/Fuzzy Control.md",
     "Control/Linear Quadratic Regulator.md",
     "Control/Pole Placement.md",
@@ -294,8 +298,6 @@
     "images/Pasted image 20240925115804.png",
     "images/Pasted image 20240919204225.png",
     "images/Pasted image 20240919204207.png",
-    "images/Pasted image 20240919201204.png",
-    "images/Pasted image 20240919201004.png",
     "images"
   ]
 }
