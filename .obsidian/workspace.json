@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Egyptian Multiplication.md",
+                "file": "Math/Egyptian Multiplication.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Egyptian Multiplication.md",
+                "file": "Math/Egyptian Multiplication.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control/Model Predictive Control (MPC).md",
+                "file": "Math/Egyptian Multiplication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1155131cea17932b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Prime Sieve.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d58812051e3fd188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Euclid's Algorith.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Control/Model Predictive Control (MPC).md",
+                "file": "Euclid's Algorith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Control/Model Predictive Control (MPC).md",
+                "file": "Euclid's Algorith.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Control/Model Predictive Control (MPC).md"
+                "file": "Euclid's Algorith.md"
               }
             }
           },
@@ -206,31 +230,32 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "380d0ee7544d06dc",
+  "active": "d58812051e3fd188",
   "lastOpenFiles": [
+    "Math/Prime Sieve.md",
+    "Euclid's Algorith.md",
+    "Math/Egyptian Multiplication.md",
+    "Math/From Mathematics to General Programming.md",
+    "Control/Model Predictive Control (MPC).md",
+    "Math",
     "Pasted image 20241003091151.png",
     "Pasted image 20241003090746.png",
     "Control/Fuzzy Control.md",
     "Control/Linear Quadratic Regulator.md",
     "Control/Pole Placement.md",
     "Control",
-    "Control/Model Predictive Control (MPC).md",
     "Robotics & Vision.md",
     "images/Pasted image 20241002121812.png",
     "images/Pasted image 20241002121938.png",
     "Canvas.canvas",
-    "Prime Sieve.md",
     "Untitled.canvas",
     "Computación Cognitiva.md",
-    "Egyptian Multiplication.md",
-    "From Mathematics to General Programming.md",
     "images/Pasted image 20240925115804.png",
     "images/Pasted image 20240919204225.png",
     "images/Pasted image 20240919204207.png",
     "images/Pasted image 20240919201204.png",
     "images/Pasted image 20240919201004.png",
     "images/Pasted image 20240919200652.png",
-    "images/Pasted image 20240822163500.png",
     "images"
   ]
 }
