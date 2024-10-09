@@ -18,5 +18,4 @@ Basically saying that if our procedure of finding the greatest common measure ne
 > And it is manifest that it is also the greatest; For a greater magnitude than the magnitude AB will not measure AB.
 
 
-
 ![[Euclid's GCM Diagram]]
