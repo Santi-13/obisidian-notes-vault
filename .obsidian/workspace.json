@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Euclid's Algorithm.md",
+                "file": "Math/Euclid's Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Euclid's Algorithm.md",
+                "file": "Math/Euclid's Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Euclid's Algorithm.md",
+                "file": "Math/Euclid's Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Euclid's Algorithm.md",
+                "file": "Math/Euclid's Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Euclid's Algorithm.md"
+                "file": "Math/Euclid's Algorithms.md"
               }
             }
           },
@@ -245,7 +245,7 @@
   "active": "3b51e989ee2d5ada",
   "lastOpenFiles": [
     "Untitled 1.md",
-    "Math/Euclid's Algorithm.md",
+    "Math/Euclid's Algorithms.md",
     "Untitled.md",
     "Math/Prime Sieve.md",
     "Math/Egyptian Multiplication.md",
