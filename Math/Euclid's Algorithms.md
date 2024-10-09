@@ -15,4 +15,4 @@ Basically saying that if our procedure of finding the greatest common measure ne
 > Let the two given commensurable magnitudes be AB, CD of which AB is the less; thus it is required to find the greatest common measure of AB, CD.
 
 [[Euclid's GCM Diagram]]
-
+![[Pasted image 20241009102315.png]]
