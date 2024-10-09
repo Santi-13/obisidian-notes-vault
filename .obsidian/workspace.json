@@ -119,11 +119,9 @@
             "id": "09ea8aa1124472c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Math/Euclid's Algorithms.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Euclid's GCM Diagram.md"
               }
             }
           }
@@ -194,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Euclid's Algorithms.md",
+                "file": "Excalidraw/Euclid's GCM Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Euclid's Algorithms.md",
+                "file": "Excalidraw/Euclid's GCM Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Euclid's Algorithms.md"
+                "file": "Excalidraw/Euclid's GCM Diagram.md"
               }
             }
           },
@@ -269,10 +267,10 @@
   },
   "active": "09ea8aa1124472c5",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md",
+    "Math/Euclid's Algorithms.md",
     "Pasted image 20241009102315.png",
     "Excalidraw/Euclid's GCM Diagram.md",
-    "Math/Euclid's Algorithms.md",
-    "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md",
     "Excalidraw",
     "Untitled 1.md",
     "Untitled.md",
@@ -298,7 +296,6 @@
     "images/Pasted image 20240919204207.png",
     "images/Pasted image 20240919201204.png",
     "images/Pasted image 20240919201004.png",
-    "images/Pasted image 20240919200652.png",
     "images"
   ]
 }
