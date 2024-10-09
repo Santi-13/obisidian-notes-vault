@@ -90,9 +90,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b51e989ee2d5ada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5c59b4bde996a56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Euclid's Algorith.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Euclid's Algorith.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Euclid's Algorith.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -230,10 +254,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d58812051e3fd188",
+  "active": "3b51e989ee2d5ada",
   "lastOpenFiles": [
-    "Math/Prime Sieve.md",
     "Euclid's Algorith.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Math/Prime Sieve.md",
     "Math/Egyptian Multiplication.md",
     "Math/From Mathematics to General Programming.md",
     "Control/Model Predictive Control (MPC).md",
