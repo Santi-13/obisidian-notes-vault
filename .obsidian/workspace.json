@@ -126,9 +126,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "557722b490c88834",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-09 11.59.12.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -194,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Euclid's Algorithms.md",
+                "file": "Excalidraw/Drawing 2024-10-09 11.59.12.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Euclid's Algorithms.md",
+                "file": "Excalidraw/Drawing 2024-10-09 11.59.12.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Euclid's Algorithms.md"
+                "file": "Excalidraw/Drawing 2024-10-09 11.59.12.excalidraw.md"
               }
             }
           },
@@ -267,13 +277,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "09ea8aa1124472c5",
+  "active": "557722b490c88834",
   "lastOpenFiles": [
+    "Math/Euclid's Algorithms.md",
+    "Excalidraw/Drawing 2024-10-09 11.59.12.excalidraw.md",
     "Pasted image 20241009102855.png",
     "Pasted image 20241009102803.png",
     "Pasted image 20241003091151.png",
     "Pasted image 20241003090746.png",
-    "Math/Euclid's Algorithms.md",
     "Excalidraw/Euclid's GCM Diagram.md",
     "Pasted image 20241009102315.png",
     "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md",
