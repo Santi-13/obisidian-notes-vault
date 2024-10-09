@@ -6,5 +6,10 @@ Euclid's life was not very well documented, we now he probably studied in Plato'
 ##### *Euclid's Greatest Common Measure*
 Book *X* of Euclid's *Elements* contained a concise treatment of incommensurable quantities:
 
-> **Proposition 2.** If, when the less of two unequal magnitudes is continually substracted in turn from the greater, that which is left never measures the one before it, then the two magnitudes are incommensurable.
+> **Proposition 2.** If, when the less of two unequal magnitudes is continually subtracted in turn from the greater, that which is left never measures the one before it, then the two magnitudes are incommensurable.
 
+Basically saying that if our procedure of finding the greatest common measure never ends, then there is no common measure. Then Euclid goes on to describe the algorithm that computes the GCM. The first algorithm termination proof in history goes as follows, translated by Sir Thomas Heath's:
+
+> **Proposition 3.** Given two commensurable magnitudes, to find their greatest common measure.
+> *Proof.*
+> Let the two given commensurable magnitudes be AB, CD of 
