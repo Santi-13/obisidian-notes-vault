@@ -11,10 +11,15 @@ $$
 
 Considerando que la derivada de una división se define como:
 $$\frac{\partial}{\partial x}\left( \frac{u}{v} \right) = \frac{v *du - u*dv}{v^2}$$
-Entonces
+Entonces:
+$$
+\frac{\partial y_{m}(\alpha)}{\partial h_{m}(\alpha)} =
+\frac{\partial}{\partial h_{m}(\alpha)} \left[ \frac{e^{h_{m}(\alpha)}}{\sum_{i=0}^c e^{h_{m}(i)}} \right] =
+\frac{ \sum_{i=0}^c e^{h_{m}(i)} * e^{h_{m}(\alpha)} - e^{h_{m}(\alpha)} * e^{h_{m}(\alpha)} }{ (\sum_{i=0}^c e^{h_{m}(i)})(\sum_{i=0}^c e^{h_{m}(i)}) }
 $$
 
-$$
+
+
 
 $$
 \sum_{i=0}^c e^{h_{m}(i)}
