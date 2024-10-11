@@ -1,3 +1,7 @@
 #ComputaciónCognitiva 
 
 ---
+
+$$
+\dv
+$$
