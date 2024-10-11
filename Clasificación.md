@@ -34,7 +34,11 @@ $$
 y_{m}(\alpha)(1-y_{m}(\alpha))
 $$
 Y por el lado contrario, obteniendo la derivada parcial de la otra clasificación:
-
+$$
+\frac{\partial y_{m}(\alpha)}{\partial h_{m}(i)} =
+\frac{\partial}{\partial h_{m}(\alpha)} \left[ \frac{e^{h_{m}(\alpha)}}{\sum_{i=0}^c e^{h_{m}(i)}} \right] =
+\frac{ \sum_{i=0}^c e^{h_{m}(i)} * e^{h_{m}(\alpha)} - e^{h_{m}(\alpha)} * e^{h_{m}(\alpha)} }{ (\sum_{i=0}^c e^{h_{m}(i)})(\sum_{i=0}^c e^{h_{m}(i)}) }
+$$
 
 $$
 \sum_{i=0}^c e^{h_{m}(i)}
