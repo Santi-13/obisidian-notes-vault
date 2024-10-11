@@ -6,6 +6,12 @@ Definimos nuestra salida como:
 $$
 h_{m} = ax + b
 $$
+Donde:
+$$
+h_{m} \in R^c
+
+$$
+
 Y la clase como:
 $$
 y_{m} = \frac{e^{h_{m}}}{\sum_{i=0}^c e^{h_{m}(i)}}
@@ -36,7 +42,7 @@ $$
 Y por el lado contrario, obteniendo la derivada parcial de la otra clasificación:
 $$
 \frac{\partial y_{m}(\alpha)}{\partial h_{m}(i)} =
-\frac{\partial}{\partial h_{m}(\alpha)} \left[ \frac{e^{h_{m}(\alpha)}}{\sum_{i=0}^c e^{h_{m}(i)}} \right] =
+\frac{\partial}{\partial h_{m}(i)} \left[ \frac{e^{h_{m}(\alpha)}}{\sum_{i=0}^c e^{h_{m}(i)}} \right] =
 \frac{ \sum_{i=0}^c e^{h_{m}(i)} * e^{h_{m}(\alpha)} - e^{h_{m}(\alpha)} * e^{h_{m}(\alpha)} }{ (\sum_{i=0}^c e^{h_{m}(i)})(\sum_{i=0}^c e^{h_{m}(i)}) }
 $$
 
