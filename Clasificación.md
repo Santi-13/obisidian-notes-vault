@@ -7,11 +7,10 @@ $$
 h_{m} = ax + b
 $$
 Donde:
-$$
-h_{m} \in R^c
-
-$$
-
+$h_{m} \in \mathbb{R}^c$
+$a \in \mathbb{R}^{c*d}$
+	$h_{m} \in \mathbb{R}^c$
+$h_{m} \in \mathbb{R}^c$
 Y la clase como:
 $$
 y_{m} = \frac{e^{h_{m}}}{\sum_{i=0}^c e^{h_{m}(i)}}
