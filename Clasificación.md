@@ -26,9 +26,14 @@ $$
 $$
 $$
 \frac{\partial y_{m}(\alpha)}{\partial h_{m}(\alpha)} =
-\frac{ \sum_{i=0}^c e^{h_{m}(i)} * e^{h_{m}(\alpha)} - e^{h_{m}(\alpha)} * e^{h_{m}(\alpha)} }{ (\sum_{i=0}^c e^{h_{m}(i)})(\sum_{i=0}^c e^{h_{m}(i)}) }
+\frac{ e^{h_{m}(\alpha)}\left( \sum_{i=0}^c e^{h_{m}(i)}  - e^{h_{m}(\alpha)} \right) }{ \left( \sum_{i=0}^c e^{h_{m}(i)} \right)\left( \sum_{i=0}^c e^{h_{m}(i)} \right) }
 $$
-
+$$
+\frac{\partial y_{m}(\alpha)}{\partial h_{m}(\alpha)} =
+\frac{ y_{m}\left( \sum_{i=0}^c e^{h_{m}(i)}  - e^{h_{m}(\alpha)} \right) }{   \sum_{i=0}^c e^{h_{m}(i)} } =
+y_{m}(\alpha)(1-y_{m}(\alpha))
+$$
+Y por el lado contrario, obteniendo la derivada parcial de la otra clasificación:
 
 
 $$
