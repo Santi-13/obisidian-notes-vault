@@ -7,10 +7,14 @@ $$
 h_{m} = ax + b
 $$
 Donde:
-$h_{m} \in \mathbb{R}^c$
+
+$h_{m} \in \mathbb{R}^c \to$ Salida del modelo
 $a \in \mathbb{R}^{c*d}$
-	$h_{m} \in \mathbb{R}^c$
-$h_{m} \in \mathbb{R}^c$
+$x \in \mathbb{R}^d$
+$b \in \mathbb{R}^c$
+$c\to$ Número de clases
+$d\to$ Tamaño de la entrada
+
 Y la clase como:
 $$
 y_{m} = \frac{e^{h_{m}}}{\sum_{i=0}^c e^{h_{m}(i)}}
