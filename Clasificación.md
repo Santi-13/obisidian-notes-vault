@@ -10,4 +10,12 @@ $$
 $$
 
 Considerando que la derivada de una división se define como:
-$\partial$
+$$\frac{\partial}{\partial x}\left( \frac{u}{v} \right) = \frac{v *du - u*dv}{v^2}$$
+Entonces
+$$
+
+$$
+
+$$
+\sum_{i=0}^c e^{h_{m}(i)}
+$$
