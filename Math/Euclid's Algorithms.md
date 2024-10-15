@@ -19,10 +19,3 @@ Basically saying that if our procedure of finding the greatest common measure ne
 
 
 ![[Euclid's GCM Diagram]]
-
-
-```
-programacion
-```
-
-hola
