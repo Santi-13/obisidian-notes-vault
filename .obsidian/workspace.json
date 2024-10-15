@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Euclid's Algorithms.md",
+                "file": "AI/Background Maths/Multivariate Calculus.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Euclid's Algorithms.md",
+                "file": "AI/Background Maths/Multivariate Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Euclid's Algorithms.md",
+                "file": "AI/Background Maths/Multivariate Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Euclid's Algorithms.md"
+                "file": "AI/Background Maths/Multivariate Calculus.md"
               }
             }
           },
@@ -269,8 +269,20 @@
   },
   "active": "881c7b3b39c4fcb6",
   "lastOpenFiles": [
-    "Excalidraw/Euclid's GCM Diagram.md",
+    "Control/Linear Quadratic Regulator.md",
+    "Control/Fuzzy Control.md",
+    "Computación Cognitiva.md",
+    "Clasificación.md",
+    "Math/Prime Sieve.md",
+    "Math/From Mathematics to General Programming.md",
     "Math/Euclid's Algorithms.md",
+    "Math/Egyptian Multiplication.md",
+    "AI/Background Maths/Multivariate Calculus.md",
+    "AI/Background Maths",
+    "AI",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Excalidraw/Euclid's GCM Diagram.md",
     "Pasted image 20241009102855.png",
     "Pasted image 20241009102803.png",
     "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md",
@@ -279,15 +291,8 @@
     "Pasted image 20241003090746.png",
     "Pasted image 20241009102315.png",
     "Excalidraw",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Math/Prime Sieve.md",
-    "Math/Egyptian Multiplication.md",
-    "Math/From Mathematics to General Programming.md",
     "Control/Model Predictive Control (MPC).md",
     "Math",
-    "Control/Fuzzy Control.md",
-    "Control/Linear Quadratic Regulator.md",
     "Control/Pole Placement.md",
     "Control",
     "Robotics & Vision.md",
@@ -295,7 +300,6 @@
     "images/Pasted image 20241002121938.png",
     "Canvas.canvas",
     "Untitled.canvas",
-    "Computación Cognitiva.md",
     "images/Pasted image 20240925115804.png",
     "images/Pasted image 20240919204225.png",
     "images/Pasted image 20240919204207.png",
