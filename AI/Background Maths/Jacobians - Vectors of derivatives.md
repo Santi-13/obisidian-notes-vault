@@ -18,4 +18,6 @@ $$
 J=[2xy,x^2,3]
 $$
 This vector describes which variables affect the rate of change of each variable in the function, for example, the vector tells us that:
-- How $f(x,y,z)$ changes with respect to $x$, depending on the magnitude of $2xy$, that is,.
+- How $f(x,y,z)$ changes with respect to $x$, depending on the magnitude of $2xy$, that is, as the product becomes larger, changes in $x$ become more significant.
+- How the significance in changes in $y$ are proportional to $x^2$.
+- How $z$ always increase or decrease the function's value by $3$ units.
