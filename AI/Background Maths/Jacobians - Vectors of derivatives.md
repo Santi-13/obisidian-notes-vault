@@ -17,3 +17,5 @@ It's Jacobian vector looks like:
 $$
 J=[2xy,x^2,3]
 $$
+This vector describes which variables affect the rate of change of each variable in the function, for example, the vector tells us that:
+- How $f(x,y,z)$ changes with respect to $x$, depending on the magnitude of $2xy$, that is,.
