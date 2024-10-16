@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Background Maths/Multivariate Calculus.md",
+                "file": "AI/Background Maths/Jacobians - Vectors of derivatives.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Background Maths/Multivariate Calculus.md",
+                "file": "AI/Background Maths/Jacobians - Vectors of derivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Background Maths/Multivariate Calculus.md",
+                "file": "AI/Background Maths/Jacobians - Vectors of derivatives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Background Maths/Multivariate Calculus.md"
+                "file": "AI/Background Maths/Jacobians - Vectors of derivatives.md"
               }
             }
           },
@@ -277,7 +277,7 @@
     "Math/From Mathematics to General Programming.md",
     "Math/Euclid's Algorithms.md",
     "Math/Egyptian Multiplication.md",
-    "AI/Background Maths/Multivariate Calculus.md",
+    "AI/Background Maths/Jacobians - Vectors of derivatives.md",
     "AI/Background Maths",
     "AI",
     "Untitled 1.md",
