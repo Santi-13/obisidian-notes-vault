@@ -157,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#MachineLearning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +174,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -267,8 +268,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "881c7b3b39c4fcb6",
+  "active": "f4bd0565a682b01e",
   "lastOpenFiles": [
+    "images/Pasted image 20241016125602.png",
+    "Pasted image 20241003090746.png",
+    "Pasted image 20241003091151.png",
+    "AI/Background Maths/Jacobians - Vectors of derivatives.md",
+    "Pasted image 20241016125545.png",
     "Control/Linear Quadratic Regulator.md",
     "Control/Fuzzy Control.md",
     "Computación Cognitiva.md",
@@ -277,7 +283,6 @@
     "Math/From Mathematics to General Programming.md",
     "Math/Euclid's Algorithms.md",
     "Math/Egyptian Multiplication.md",
-    "AI/Background Maths/Jacobians - Vectors of derivatives.md",
     "AI/Background Maths",
     "AI",
     "Untitled 1.md",
@@ -287,8 +292,6 @@
     "Pasted image 20241009102803.png",
     "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md",
     "Excalidraw/Drawing 2024-10-09 11.59.12.excalidraw.md",
-    "Pasted image 20241003091151.png",
-    "Pasted image 20241003090746.png",
     "Pasted image 20241009102315.png",
     "Excalidraw",
     "Control/Model Predictive Control (MPC).md",
@@ -301,8 +304,6 @@
     "Canvas.canvas",
     "Untitled.canvas",
     "images/Pasted image 20240925115804.png",
-    "images/Pasted image 20240919204225.png",
-    "images/Pasted image 20240919204207.png",
     "images"
   ]
 }

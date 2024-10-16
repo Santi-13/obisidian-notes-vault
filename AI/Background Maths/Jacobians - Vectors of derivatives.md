@@ -22,4 +22,8 @@ This vector describes which variables affect the rate of change of each variable
 - How the significance in changes in $y$ are proportional to $x^2$.
 - How $z$ always increase or decrease the function's value by $3$ units.
 
-In the case of the Jacobian row vector we described, it also points to the steepest slope, becoming smaller as the coordinate
+In the case of the Jacobian row vector we described, it also points to the steepest slope, becoming smaller as the coordinates approach maximum, minimum or saddle points.
+
+![[Pasted image 20241016125602.png]]
+
+We can extend this concept to matrices, with a Jacobian matrix, which allows us to describe the rate of change of a vector valued function.
