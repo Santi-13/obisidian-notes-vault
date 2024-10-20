@@ -60,19 +60,19 @@
             }
           },
           {
-            "id": "42e5720b2d273f88",
+            "id": "ff4333cd26191721",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "AI/Background Maths/Jacobians - Vectors of derivatives.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clasificación.md",
+                "file": "AI/Background Maths/Jacobians - Vectors of derivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clasificación.md",
+                "file": "AI/Background Maths/Jacobians - Vectors of derivatives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clasificación.md"
+                "file": "AI/Background Maths/Jacobians - Vectors of derivatives.md"
               }
             }
           },
@@ -211,11 +211,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e7e9791b9ce4a209",
+  "active": "ff4333cd26191721",
   "lastOpenFiles": [
-    "Computación Cognitiva.md",
-    "Clasificación.md",
     "Untitled.md",
+    "Clasificación.md",
+    "images/Pasted image 20241016125602.png",
+    "AI/Background Maths/Jacobians - Vectors of derivatives.md",
+    "AI/Background Maths",
+    "AI",
+    "Computación Cognitiva.md",
     "Math/Prime Sieve.md",
     "Math/From Mathematics to General Programming.md",
     "Math/Egyptian Multiplication.md",
@@ -246,7 +250,6 @@
     "images/Pasted image 20240919204225.png",
     "images/Pasted image 20240919204207.png",
     "images/Pasted image 20240919201204.png",
-    "images/Pasted image 20240919201004.png",
     "General.md"
   ]
 }
