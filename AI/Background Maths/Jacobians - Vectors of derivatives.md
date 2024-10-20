@@ -43,4 +43,7 @@ r\sin(\theta)
 $$
 We can then calculate the Jacobian matrix of it, each value telling us what values affect the rate of change of the function with respect to some input value:
 $$ J = \begin{pmatrix} \frac{\partial x}{\partial r} & \frac{\partial x}{\partial \theta} \\ \frac{\partial y}{\partial r} & \frac{\partial y}{\partial \theta} \end{pmatrix} = \begin{pmatrix} \cos(\theta) & -r \sin(\theta) \\ \sin(\theta) & r \cos(\theta) \end{pmatrix} $$
-For example, here we see that the rate of change of $x$ with respect to $r$ is proportional to the value of $cos(\theta)$. We can also obtain the determinant of the Jacobian matrix, which would tell us how 
+For example, here we see that the rate of change of $x$ with respect to $r$ is proportional to the value of $cos(\theta)$. We can also obtain the determinant of the Jacobian matrix, which would tell us how space scales, which helps us linearize a system.
+$$
+\det(J) = |J| = r(\cos^2(\theta)+)
+$$
