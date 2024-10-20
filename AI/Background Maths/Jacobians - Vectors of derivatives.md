@@ -31,6 +31,7 @@ We can extend this concept to matrices, with a Jacobian matrix, which allows us 
 
 ![[Pasted image 20241020144627.png]]
 
-
+$$ x(r,\theta)=r\cos (\theta) $$
+$$ y(r,\theta)=r\sin (\theta) $$
 
 $$ J = \begin{pmatrix} \frac{\partial x}{\partial r} & \frac{\partial x}{\partial \theta} \\ \frac{\partial y}{\partial r} & \frac{\partial y}{\partial \theta} \end{pmatrix} = \begin{pmatrix} \cos(\theta) & -r \sin(\theta) \\ \sin(\theta) & r \cos(\theta) \end{pmatrix} $$
