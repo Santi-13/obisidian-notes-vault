@@ -8,55 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b121900095efc5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computación Cognitiva.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9063c8017626506f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "36909362fdab7617",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "c9ac3b45e473f23f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computación Cognitiva.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7e9791b9ce4a209",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clasificación.md",
-                "mode": "source",
-                "source": false
-              }
             }
           },
           {
@@ -72,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,10 +169,12 @@
   },
   "active": "ff4333cd26191721",
   "lastOpenFiles": [
+    "Pasted image 20241020144627.png",
+    "Pasted image 20241020144605.png",
+    "AI/Background Maths/Jacobians - Vectors of derivatives.md",
     "Untitled.md",
     "Clasificación.md",
     "images/Pasted image 20241016125602.png",
-    "AI/Background Maths/Jacobians - Vectors of derivatives.md",
     "AI/Background Maths",
     "AI",
     "Computación Cognitiva.md",
@@ -248,8 +206,6 @@
     "images/Pasted image 20240925115804.png",
     "images/Pasted image 20240822163500.png",
     "images/Pasted image 20240919204225.png",
-    "images/Pasted image 20240919204207.png",
-    "images/Pasted image 20240919201204.png",
     "General.md"
   ]
 }

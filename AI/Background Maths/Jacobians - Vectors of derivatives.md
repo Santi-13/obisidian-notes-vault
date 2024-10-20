@@ -27,6 +27,10 @@ In other words, the Jacobian represents the rate of change of a multivariate fun
 
 ![[Pasted image 20241016125602.png]]
 
-We can extend this concept to matrices, with a Jacobian matrix, which allows us to describe the rate of change of a vector valued function.
+We can extend this concept to matrices, with a Jacobian matrix, which allows us to describe the rate of change of a vector valued function, which is simply a function that has more than one input, as well as more than one output. One example can be when trying to convert from polar coordinates to cardinal coordinates:
+
+![[Pasted image 20241020144627.png]]
+
+
 
 $$ J = \begin{pmatrix} \frac{\partial x}{\partial r} & \frac{\partial x}{\partial \theta} \\ \frac{\partial y}{\partial r} & \frac{\partial y}{\partial \theta} \end{pmatrix} = \begin{pmatrix} \cos(\theta) & -r \sin(\theta) \\ \sin(\theta) & r \cos(\theta) \end{pmatrix} $$
