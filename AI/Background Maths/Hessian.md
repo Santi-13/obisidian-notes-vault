@@ -12,5 +12,19 @@ H = \begin{bmatrix}
 $$
 It is often easier to find the [[Jacobian]] of a function before trying to find the Hessian, let's look at an example:
 $$
-f(x,y,z) = x
+f(x,y,z) = x^2yz
+$$
+It's [[Jacobian]] is:
+$$
+J= \begin{bmatrix}
+2xyz, &x^2z, & x^2y
+\end{bmatrix}
+$$
+Then we can do a "partial derivative" of the Jacobian to find the Hessian:
+$$
+H = \begin{bmatrix}
+2yz & 2xz & 2xy \\
+2xz & 0 & x^2 \\
+2xy & x^2 & 0
+\end{bmatrix}
 $$
