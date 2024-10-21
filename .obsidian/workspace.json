@@ -119,12 +119,8 @@
             "id": "881c7b3b39c4fcb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Background Maths/Jacobians - Vectors of derivatives.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -157,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MachineLearning",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,8 +170,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Background Maths/Jacobians - Vectors of derivatives.md",
+                "file": "Math/Egyptian Multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Background Maths/Jacobians - Vectors of derivatives.md",
+                "file": "Math/Egyptian Multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Background Maths/Jacobians - Vectors of derivatives.md"
+                "file": "Math/Egyptian Multiplication.md"
               }
             }
           },
@@ -268,12 +263,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4bd0565a682b01e",
+  "active": "881c7b3b39c4fcb6",
   "lastOpenFiles": [
-    "images/Pasted image 20241016125602.png",
-    "Pasted image 20241003090746.png",
-    "Pasted image 20241003091151.png",
+    "images/Pasted image 20241003090746.png",
+    "Control/Model Predictive Control (MPC).md",
     "AI/Background Maths/Jacobians - Vectors of derivatives.md",
+    "images/Pasted image 20241016125602.png",
+    "images/Pasted image 20241003091151.png",
     "Pasted image 20241016125545.png",
     "Control/Linear Quadratic Regulator.md",
     "Control/Fuzzy Control.md",
@@ -294,7 +290,6 @@
     "Excalidraw/Drawing 2024-10-09 11.59.12.excalidraw.md",
     "Pasted image 20241009102315.png",
     "Excalidraw",
-    "Control/Model Predictive Control (MPC).md",
     "Math",
     "Control/Pole Placement.md",
     "Control",
