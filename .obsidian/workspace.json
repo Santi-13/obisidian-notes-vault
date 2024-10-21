@@ -137,10 +137,10 @@
             "id": "881c7b3b39c4fcb6",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -259,11 +259,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2024-10-09 09.49.39.excalidraw"
+              "title": "Outline"
             }
           },
           {
@@ -307,8 +305,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bce4445dcac5e7f0",
+  "active": "881c7b3b39c4fcb6",
   "lastOpenFiles": [
+    "Math/From Mathematics to General Programming.md",
+    "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md",
     "Excalidraw/Euclid's GCM Diagram.md",
     "Control/Fuzzy Control.md",
     "Control/Linear Quadratic Regulator.md",
@@ -326,14 +326,12 @@
     "images/Pasted image 20241003091151.png",
     "Pasted image 20241016125545.png",
     "Math/Prime Sieve.md",
-    "Math/From Mathematics to General Programming.md",
     "Math/Euclid's Algorithms.md",
     "Math/Egyptian Multiplication.md",
     "AI/Background Maths",
     "AI",
     "Pasted image 20241009102855.png",
     "Pasted image 20241009102803.png",
-    "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md",
     "Excalidraw/Drawing 2024-10-09 11.59.12.excalidraw.md",
     "Pasted image 20241009102315.png",
     "Excalidraw",
