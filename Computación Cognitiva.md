@@ -1,4 +1,4 @@
-#ComputaciónCognitiva
+#ComputacionCognitiva
 #### Conceptos Básicos -
 ---
 **Aprendizaje automático (Machine Learning).** Es un área de las ciencias de la computación que "da a las maquinas la habilidad de aprender una tarea sin necesidad de ser programadas explícitamente para ello" (Arthur Samuel).

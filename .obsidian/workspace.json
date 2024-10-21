@@ -190,7 +190,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Egyptian Multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +206,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Egyptian Multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,9 +227,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Math/Egyptian Multiplication.md"
-              }
+              "state": {}
             }
           },
           {
@@ -265,24 +261,27 @@
   },
   "active": "881c7b3b39c4fcb6",
   "lastOpenFiles": [
-    "images/Pasted image 20241003090746.png",
+    "Control/Fuzzy Control.md",
+    "Control/Linear Quadratic Regulator.md",
+    "Control/Pole Placement.md",
     "Control/Model Predictive Control (MPC).md",
+    "Clasificación.md",
+    "Computación Cognitiva.md",
+    "Untitled 1.md",
+    "images/Pasted image 20241020150028.png",
+    "images/Pasted image 20241020144627.png",
+    "Untitled.md",
+    "images/Pasted image 20241003090746.png",
     "AI/Background Maths/Jacobians - Vectors of derivatives.md",
     "images/Pasted image 20241016125602.png",
     "images/Pasted image 20241003091151.png",
     "Pasted image 20241016125545.png",
-    "Control/Linear Quadratic Regulator.md",
-    "Control/Fuzzy Control.md",
-    "Computación Cognitiva.md",
-    "Clasificación.md",
     "Math/Prime Sieve.md",
     "Math/From Mathematics to General Programming.md",
     "Math/Euclid's Algorithms.md",
     "Math/Egyptian Multiplication.md",
     "AI/Background Maths",
     "AI",
-    "Untitled 1.md",
-    "Untitled.md",
     "Excalidraw/Euclid's GCM Diagram.md",
     "Pasted image 20241009102855.png",
     "Pasted image 20241009102803.png",
@@ -291,14 +290,11 @@
     "Pasted image 20241009102315.png",
     "Excalidraw",
     "Math",
-    "Control/Pole Placement.md",
     "Control",
     "Robotics & Vision.md",
     "images/Pasted image 20241002121812.png",
-    "images/Pasted image 20241002121938.png",
     "Canvas.canvas",
     "Untitled.canvas",
-    "images/Pasted image 20240925115804.png",
     "images"
   ]
 }

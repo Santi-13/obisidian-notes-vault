@@ -1,4 +1,4 @@
-#ComputaciónCognitiva 
+#ComputacionCognitiva 
 
 ---
 
