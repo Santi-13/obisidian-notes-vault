@@ -137,10 +137,10 @@
             "id": "881c7b3b39c4fcb6",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -216,7 +216,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Egyptian Multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +225,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Egyptian Multiplication"
+              "title": "Backlinks"
             }
           },
           {
@@ -235,12 +234,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Egyptian Multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Egyptian Multiplication"
+              "title": "Outgoing links"
             }
           },
           {
@@ -262,10 +260,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Egyptian Multiplication.md"
+                "file": "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Egyptian Multiplication"
+              "title": "Outline of Drawing 2024-10-09 09.49.39.excalidraw"
             }
           },
           {
@@ -309,8 +307,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "881c7b3b39c4fcb6",
+  "active": "bce4445dcac5e7f0",
   "lastOpenFiles": [
+    "Excalidraw/Euclid's GCM Diagram.md",
     "Control/Fuzzy Control.md",
     "Control/Linear Quadratic Regulator.md",
     "Control/Pole Placement.md",
@@ -332,7 +331,6 @@
     "Math/Egyptian Multiplication.md",
     "AI/Background Maths",
     "AI",
-    "Excalidraw/Euclid's GCM Diagram.md",
     "Pasted image 20241009102855.png",
     "Pasted image 20241009102803.png",
     "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md",

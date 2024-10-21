@@ -5,27 +5,27 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "#ControlTheory",
+      "query": "tag:#ControlTheory  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 6069206
       }
     },
     {
-      "query": "#ComputacionCognitiva",
+      "query": "tag:#ComputacionCognitiva",
       "color": {
         "a": 1,
         "rgb": 10868316
       }
     },
     {
-      "query": "#excalidraw",
+      "query": "tag:#GeneralProgramming",
       "color": {
         "a": 1,
-        "rgb": 2697513
+        "rgb": 12529969
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.000000000000002,
+  "scale": 1.0000000000000027,
   "close": false
 }

@@ -1,6 +1,5 @@
 ---
 tags:
-  - FuzzyControl
   - ControlTheory
 ---
 ### By: ---
