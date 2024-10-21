@@ -16,7 +16,9 @@
                 "file": "Math/Egyptian Multiplication.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Egyptian Multiplication"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Math/Egyptian Multiplication.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Egyptian Multiplication"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Control/Pole Placement.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Pole Placement"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "Control/Linear Quadratic Regulator.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Linear Quadratic Regulator"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "Math/Egyptian Multiplication.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Egyptian Multiplication"
             }
           },
           {
@@ -76,7 +86,9 @@
                 "file": "Math/Prime Sieve.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Prime Sieve"
             }
           },
           {
@@ -88,7 +100,9 @@
                 "file": "Math/Euclid's Algorithms.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Euclid's Algorithms"
             }
           },
           {
@@ -100,7 +114,9 @@
                 "file": "Math/Euclid's Algorithms.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Euclid's Algorithms"
             }
           },
           {
@@ -112,7 +128,9 @@
                 "file": "Math/Euclid's Algorithms.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Euclid's Algorithms"
             }
           },
           {
@@ -120,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -144,7 +164,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -159,7 +181,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -167,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -190,6 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Math/Egyptian Multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +224,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Egyptian Multiplication"
             }
           },
           {
@@ -206,9 +235,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Math/Egyptian Multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Egyptian Multiplication"
             }
           },
           {
@@ -219,7 +251,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -227,7 +261,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Math/Egyptian Multiplication.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Egyptian Multiplication"
             }
           },
           {
@@ -235,11 +273,23 @@
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b0297f44929d019e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
