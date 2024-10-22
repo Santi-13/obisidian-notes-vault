@@ -28,4 +28,4 @@ H = \begin{bmatrix}
 2xy & x^2 & 0
 \end{bmatrix}
 $$
-We notice that the matrix is symmetrical across the leading diagonal. This will always be true if the function is continuous, meaning it has no sudden step changes.
+We notice that the matrix is symmetrical across the leading diagonal. This will always be true if the function is continuous, meaning it has no sudden step changes. When passing the function an $(x,y,z)$ coordinate, it tells us something about 
