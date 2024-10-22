@@ -28,4 +28,17 @@ H = \begin{bmatrix}
 2xy & x^2 & 0
 \end{bmatrix}
 $$
-We notice that the matrix is symmetrical across the leading diagonal. This will always be true if the function is continuous, meaning it has no sudden step changes. When passing the function an $(x,y,z)$ coordinate, it tells us something about 
+We notice that the matrix is symmetrical across the leading diagonal. This will always be true if the function is continuous, meaning it has no sudden step changes. When passing the function an $(x,y,z)$ coordinate, it tells us something about that point in the space. To further analyze what the Hessian tells us, let's analyze a 2D example:
+$$
+f(x,y)=x^2+y^2
+$$
+$$
+J=[2x, 2y]
+$$
+$$
+H=\begin{bmatrix}
+2 & 0 \\
+0 & 2
+\end{bmatrix}
+$$
+
