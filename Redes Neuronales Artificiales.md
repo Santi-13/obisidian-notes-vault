@@ -10,4 +10,5 @@ Una *neurona* es una unidad de procesamiento de información compuesta de tres e
 - Un **sumador** para unir las señales de entrada, escaladas por su peso sináptico.
 - Una **función de activación**, para limitar la señal de salida.
 
+![[Pasted image 20241022205004.png]]
 ![[Pasted image 20241022204915.png]]
