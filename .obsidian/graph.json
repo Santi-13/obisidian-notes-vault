@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -8,37 +8,37 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "ControlTheory",
+      "query": "tag:#ControlTheory  ",
       "color": {
         "a": 1,
-        "rgb": 9328628
+        "rgb": 6069206
       }
     },
     {
-      "query": "GeneralProgramming",
+      "query": "tag:#ComputacionCognitiva",
       "color": {
         "a": 1,
-        "rgb": 15018538
+        "rgb": 10868316
       }
     },
     {
-      "query": "ComputaciónCognitiva",
+      "query": "tag:#GeneralProgramming",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 12529969
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 9.08523908523909,
+  "repelStrength": 13.5758835758836,
   "linkStrength": 1,
-  "linkDistance": 107,
-  "scale": 1.0000000000000002,
+  "linkDistance": 169,
+  "scale": 0.5087618855792604,
   "close": false
 }

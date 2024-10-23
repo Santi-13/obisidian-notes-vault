@@ -1,58 +1,194 @@
 {
   "main": {
-    "id": "2c0494d0c06ad4e7",
+    "id": "a25d0737b5ac7275",
     "type": "split",
     "children": [
       {
-        "id": "3068f5eaf47dc2b5",
+        "id": "6585abd2410a7ae8",
         "type": "tabs",
         "children": [
           {
-            "id": "36909362fdab7617",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "ff4333cd26191721",
+            "id": "f14ebe163b6822c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Background Maths/Jacobians - Vectors of derivatives.md",
+                "file": "Math/Egyptian Multiplication.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Egyptian Multiplication"
+            }
+          },
+          {
+            "id": "7e8ae2b9611088cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Egyptian Multiplication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Egyptian Multiplication"
+            }
+          },
+          {
+            "id": "82dcb2f0bb2165a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Control/Pole Placement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pole Placement"
+            }
+          },
+          {
+            "id": "ca91131c94b4141d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Control/Linear Quadratic Regulator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear Quadratic Regulator"
+            }
+          },
+          {
+            "id": "380d0ee7544d06dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Egyptian Multiplication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Egyptian Multiplication"
+            }
+          },
+          {
+            "id": "1155131cea17932b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Prime Sieve.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prime Sieve"
+            }
+          },
+          {
+            "id": "d58812051e3fd188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Euclid's Algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Euclid's Algorithms"
+            }
+          },
+          {
+            "id": "3b51e989ee2d5ada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Euclid's Algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Euclid's Algorithms"
+            }
+          },
+          {
+            "id": "db71ead64808f651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Euclid's Algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Euclid's Algorithms"
+            }
+          },
+          {
+            "id": "881c7b3b39c4fcb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Background Maths/Jacobian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jacobian"
+            }
+          },
+          {
+            "id": "f493ffa7e5e4b07d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Background Maths/Hessian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hessian"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "792ae73f1459cf57",
+    "id": "3f704c130d287195",
     "type": "split",
     "children": [
       {
-        "id": "4ac681326ea73879",
+        "id": "b8775382642b3fd0",
         "type": "tabs",
         "children": [
           {
-            "id": "5f309d4de5e6bd5f",
+            "id": "bce4445dcac5e7f0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "6195ac1536446459",
+            "id": "f4bd0565a682b01e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,15 +199,19 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "a11ee6c513626e5b",
+            "id": "a66b804373bb314c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,73 +221,103 @@
     "width": 300
   },
   "right": {
-    "id": "25164d98e705f3eb",
+    "id": "b0c49e444b6c776b",
     "type": "split",
     "children": [
       {
-        "id": "48d9bf898205345c",
+        "id": "da4d28bef405f1eb",
         "type": "tabs",
         "children": [
           {
-            "id": "2b0b91dd7935e6bb",
+            "id": "7ccced85434bf838",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Background Maths/Jacobians - Vectors of derivatives.md",
+                "file": "AI/Background Maths/Hessian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hessian"
             }
           },
           {
-            "id": "727f6a93bd2d82f7",
+            "id": "6b140edd4894836d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Background Maths/Jacobians - Vectors of derivatives.md",
+                "file": "AI/Background Maths/Hessian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Hessian"
             }
           },
           {
-            "id": "68f9a008960ed340",
+            "id": "30f6bf65ae2d58e0",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "9b4473851791b4a8",
+            "id": "8b8a019023d0642e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Background Maths/Jacobians - Vectors of derivatives.md"
-              }
+                "file": "AI/Background Maths/Hessian.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hessian"
             }
           },
           {
-            "id": "7cde1d354567e608",
+            "id": "ccd341c03a27c328",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b0297f44929d019e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "66aa952db10017a3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -156,56 +326,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "github-sync:Sync with Remote": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ff4333cd26191721",
+  "active": "66aa952db10017a3",
   "lastOpenFiles": [
-    "images/Pasted image 20241020144627.png",
-    "Pasted image 20241003090746.png",
-    "Pasted image 20241003091151.png",
-    "images/Pasted image 20241020150028.png",
-    "AI/Background Maths/Jacobians - Vectors of derivatives.md",
-    "Pasted image 20241020144605.png",
-    "Untitled.md",
-    "Clasificación.md",
-    "images/Pasted image 20241016125602.png",
-    "AI/Background Maths",
-    "AI",
-    "Computación Cognitiva.md",
-    "Math/Prime Sieve.md",
+    "AI/Background Maths/Jacobian.md",
+    "AI/Background Maths/Hessian.md",
     "Math/From Mathematics to General Programming.md",
-    "Math/Egyptian Multiplication.md",
-    "Math/Euclid's Algorithms.md",
-    "Math",
     "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md",
     "Excalidraw/Euclid's GCM Diagram.md",
-    "Excalidraw",
-    "images/Pasted image 20241002121938.png",
-    "images/Pasted image 20241002121812.png",
+    "Control/Fuzzy Control.md",
+    "Control/Linear Quadratic Regulator.md",
     "Control/Pole Placement.md",
     "Control/Model Predictive Control (MPC).md",
-    "Control/Linear Quadratic Regulator.md",
-    "Control/Fuzzy Control.md",
+    "Clasificación.md",
+    "Computación Cognitiva.md",
+    "Untitled 1.md",
+    "images/Pasted image 20241020150028.png",
+    "images/Pasted image 20241020144627.png",
+    "images/Pasted image 20241003090746.png",
+    "images/Pasted image 20241016125602.png",
+    "images/Pasted image 20241003091151.png",
+    "Pasted image 20241016125545.png",
+    "Math/Prime Sieve.md",
+    "Math/Euclid's Algorithms.md",
+    "Math/Egyptian Multiplication.md",
+    "AI/Background Maths",
+    "AI",
+    "Pasted image 20241009102855.png",
+    "Pasted image 20241009102803.png",
+    "Excalidraw/Drawing 2024-10-09 11.59.12.excalidraw.md",
+    "Pasted image 20241009102315.png",
+    "Excalidraw",
+    "Math",
     "Control",
-    "Pole Placement.md",
     "Robotics & Vision.md",
-    "Prime Sieve.md",
-    "Egyptian Multiplication.md",
-    "From Mathematics to General Programming.md",
-    "Fuzzy Control.md",
-    "Linear Quadratic Regulator.md",
+    "images/Pasted image 20241002121812.png",
     "Canvas.canvas",
-    "images/Pasted image 20240925115804.png",
-    "images/Pasted image 20240822163500.png",
-    "General.md"
+    "Untitled.canvas",
+    "images"
   ]
 }
