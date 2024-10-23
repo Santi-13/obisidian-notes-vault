@@ -1,3 +1,4 @@
 #ComputacionCognitiva 
 
 ---
+Las *redes neu*
