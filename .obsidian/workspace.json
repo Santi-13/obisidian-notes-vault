@@ -8,161 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f14ebe163b6822c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Egyptian Multiplication.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Egyptian Multiplication"
-            }
-          },
-          {
-            "id": "7e8ae2b9611088cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Egyptian Multiplication.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Egyptian Multiplication"
-            }
-          },
-          {
-            "id": "82dcb2f0bb2165a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Control/Pole Placement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pole Placement"
-            }
-          },
-          {
-            "id": "ca91131c94b4141d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Control/Linear Quadratic Regulator.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linear Quadratic Regulator"
-            }
-          },
-          {
-            "id": "380d0ee7544d06dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Egyptian Multiplication.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Egyptian Multiplication"
-            }
-          },
-          {
-            "id": "1155131cea17932b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Prime Sieve.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prime Sieve"
-            }
-          },
-          {
-            "id": "d58812051e3fd188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Euclid's Algorithms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Euclid's Algorithms"
-            }
-          },
-          {
-            "id": "3b51e989ee2d5ada",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Euclid's Algorithms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Euclid's Algorithms"
-            }
-          },
-          {
-            "id": "db71ead64808f651",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Euclid's Algorithms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Euclid's Algorithms"
-            }
-          },
-          {
-            "id": "881c7b3b39c4fcb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Background Maths/Jacobian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jacobian"
-            }
-          },
-          {
             "id": "f493ffa7e5e4b07d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Background Maths/Hessian.md",
+                "file": "Computación Cognitiva.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hessian"
+              "title": "Computación Cognitiva"
+            }
+          },
+          {
+            "id": "97a50d688d60023b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes Neuronales Artificiales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redes Neuronales Artificiales"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -312,12 +186,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c922dab045f9e59d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -337,10 +221,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66aa952db10017a3",
+  "active": "97a50d688d60023b",
   "lastOpenFiles": [
-    "AI/Background Maths/Jacobian.md",
+    "Computación Cognitiva.md",
+    "Redes Neuronales Artificiales.md",
     "AI/Background Maths/Hessian.md",
+    "AI/Background Maths/Jacobian.md",
     "Math/From Mathematics to General Programming.md",
     "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md",
     "Excalidraw/Euclid's GCM Diagram.md",
@@ -349,7 +235,6 @@
     "Control/Pole Placement.md",
     "Control/Model Predictive Control (MPC).md",
     "Clasificación.md",
-    "Computación Cognitiva.md",
     "Untitled 1.md",
     "images/Pasted image 20241020150028.png",
     "images/Pasted image 20241020144627.png",
