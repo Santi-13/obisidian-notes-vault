@@ -31,7 +31,7 @@ Podemos definir una **capa** de neuronas entonces de la siguiente manera:
 ![[Pasted image 20241024201418.png]]
 Donde cada elemento es una matriz de elementos:
 $$
-x 
+x\in \mathbb{R}^d  
 $$
 
 $$
