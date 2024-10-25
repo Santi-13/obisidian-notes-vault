@@ -74,6 +74,9 @@ Salida: $y_{m} \in \mathbb{R}^3$
 ---
 Se propone una red de capas de forma:
 ![[Pasted image 20241024210740.png]]
+$h_{e}=w_{e}x+b_{e}$
+$h_{1}=w_{1}y_{e}+b_{1}$
+$h_{s}=w_{s}y_{1}+b_{s}$
 
 ##### 3. Proponer Función de Error
 ---
