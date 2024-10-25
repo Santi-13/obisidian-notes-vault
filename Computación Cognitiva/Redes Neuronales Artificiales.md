@@ -73,8 +73,8 @@ Salida: $y_{m} \in \mathbb{R}^3$
 ##### 2. Hipótesis
 ---
 Se propone una red de capas de forma:
-
 ![[Pasted image 20241024210740.png]]
+
 ##### 3. Proponer Función de Error
 ---
 
