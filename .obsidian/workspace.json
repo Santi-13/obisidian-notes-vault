@@ -312,12 +312,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f11f6342fb3cb280",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -337,7 +347,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66aa952db10017a3",
+  "active": "f11f6342fb3cb280",
   "lastOpenFiles": [
     "AI/Background Maths/Jacobian.md",
     "AI/Background Maths/Hessian.md",
