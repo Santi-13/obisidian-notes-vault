@@ -25,12 +25,14 @@
             "id": "97a50d688d60023b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Capas Neuronales.md"
+                "file": "Computación Cognitiva/Redes Neuronales Artificiales.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Capas Neuronales"
+              "icon": "lucide-file",
+              "title": "Redes Neuronales Artificiales"
             }
           },
           {
@@ -243,9 +245,10 @@
   },
   "active": "97a50d688d60023b",
   "lastOpenFiles": [
+    "Pasted image 20241024210740.png",
+    "Excalidraw/Capas Neuronales.md",
     "Computación Cognitiva/Redes Neuronales Artificiales.md",
     "images/Pasted image 20241024204812.png",
-    "Excalidraw/Capas Neuronales.md",
     "Computación Cognitiva/Clasificación.md",
     "Computación Cognitiva",
     "Computación Cognitiva/Computación Cognitiva.md",
