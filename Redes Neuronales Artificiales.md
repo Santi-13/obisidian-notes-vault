@@ -33,6 +33,12 @@ Donde cada elemento es una matriz de elementos:
 $$
 x\in \mathbb{R}^d  
 $$
+$$
+h \in \mathbb{R}^n
+$$
+$$
+w \in \mathbb{R}^{n*d}
+$$
 
 $$
 h_{1} = w_{1}x+b_{1}
