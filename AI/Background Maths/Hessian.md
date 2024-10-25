@@ -41,4 +41,6 @@ H=\begin{bmatrix}
 0 & 2
 \end{bmatrix}
 $$
-If we were to not know the original function, we could easily find a zero-gradient point using only the Jacobian by using the point $(0,0)$. The **Hessian** helps us find whether this point is either a maximum, a minimum or a saddle point. If the determinant of $H$ is positive ($|H|=+$), then the point is either a minimum or maximum, which we can dwe
+If we were to not know the original function, we could easily find a zero-gradient point using only the Jacobian by using the point $(0,0)$. The **Hessian** helps us find whether this point is either a maximum, a minimum or a saddle point. If the determinant of $H$ is positive ($|H|=+$), then the point is either a minimum or maximum, which we can determine by looking at the upper-left value of the **Hessian** matrix (positive is maximum, negative is minimum); Whereas, if $|H|=-$, then the point is a saddle point.
+
+We can imagine how this concept extends
