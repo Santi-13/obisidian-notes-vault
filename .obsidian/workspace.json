@@ -196,12 +196,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2e77f094965fda2c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -223,10 +233,10 @@
   },
   "active": "97a50d688d60023b",
   "lastOpenFiles": [
+    "Redes Neuronales Artificiales.md",
     "Pasted image 20241022205004.png",
     "Pasted image 20241022204915.png",
     "Computación Cognitiva.md",
-    "Redes Neuronales Artificiales.md",
     "AI/Background Maths/Hessian.md",
     "AI/Background Maths/Jacobian.md",
     "Math/From Mathematics to General Programming.md",
@@ -252,7 +262,6 @@
     "Pasted image 20241009102855.png",
     "Pasted image 20241009102803.png",
     "Excalidraw/Drawing 2024-10-09 11.59.12.excalidraw.md",
-    "Pasted image 20241009102315.png",
     "Excalidraw",
     "Math",
     "Control",
