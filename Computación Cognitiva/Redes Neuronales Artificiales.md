@@ -65,13 +65,15 @@ $$
 Se propone una serie de pasos para entrenar una red neuronal multicapa:
 ##### 1. Análisis de Datos
 ---
-Tenemos una serie de datos que sigue un comportamiento *no lineal*, clasifica los puntos en tres categorías ($[0, 1, 2]$)
-
+Tenemos una serie de datos que sigue un comportamiento *no lineal*, clasifica los puntos en tres categorías ($[0, 1, 2]$).
+![[Pasted image 20241024204812.png]]
 Entrada:  $x \in \mathbb{R}^2$
 Salida: $y_{m} \in \mathbb{R}^3$ 
 
 ##### 2. Hipótesis
 ---
+Se propone una red de capas de forma:
+
 
 ##### 3. Proponer Función de Error
 ---
