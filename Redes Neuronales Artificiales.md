@@ -48,13 +48,15 @@ y_{1}=f(h_{1})
 $$
 En nuestro caso sería:
 $$
-\begin{bmatrix}
-1  \\
-1
-\end{bmatrix} = \begin{bmatrix}
+ \begin{bmatrix}
 x_{1} \\
 x_{2}
 \end{bmatrix} \begin{bmatrix}
 
+\end{bmatrix} = \begin{bmatrix}
+h_{11}  \\
+h_{12} \\
+h_{13} \\
+h_{14}
 \end{bmatrix}
 $$
