@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,10 +243,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97a50d688d60023b",
+  "active": "25829f0e7a366b18",
   "lastOpenFiles": [
-    "Computación Cognitiva/Clasificación.md",
     "Computación Cognitiva/Redes Neuronales Artificiales.md",
+    "Computación Cognitiva/Clasificación.md",
     "Computación Cognitiva",
     "Computación Cognitiva/Computación Cognitiva.md",
     "Control/Pole Placement.md",
