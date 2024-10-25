@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Redes Neuronales Artificiales"
             }
+          },
+          {
+            "id": "25829f0e7a366b18",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-24 20.03.25.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-24 20.03.25.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,9 +243,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97a50d688d60023b",
+  "active": "25829f0e7a366b18",
   "lastOpenFiles": [
     "Redes Neuronales Artificiales.md",
+    "Excalidraw/Drawing 2024-10-24 20.03.25.excalidraw.md",
+    "images/Pasted image 20241024200234.png",
     "Pasted image 20241022205004.png",
     "Pasted image 20241022204915.png",
     "Computación Cognitiva.md",
@@ -260,7 +274,6 @@
     "AI/Background Maths",
     "AI",
     "Pasted image 20241009102855.png",
-    "Pasted image 20241009102803.png",
     "Excalidraw/Drawing 2024-10-09 11.59.12.excalidraw.md",
     "Excalidraw",
     "Math",

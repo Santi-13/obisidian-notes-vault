@@ -22,4 +22,15 @@ Dónde:
 - $w_{i}$ es el peso de cada entrada, que se modifica durante el entrenamiento.
 - $b$ es el bias de la neurona.
 
-La salida se ajusta a un rango de valores por medio de una **función de activación**, a fin de que la neurona se "*active*" bajo ciertas condiciones o para "*estabilizar*" la salida. De esta forma, las funcio
+La salida se ajusta a un rango de valores por medio de una **función de activación**, a fin de que la neurona se "*active*" bajo ciertas condiciones o para "*estabilizar*" la salida. De esta forma, las funciones de activación intentan representar la capacidad de las neuronas a reaccionar a diferentes estímulos, además de que ayuda a añadir un comportamiento **no lineal** al modelo.
+
+![[Pasted image 20241024200234.png]]
+
+Podemos definir una **capa** de neuronas entonces de la siguiente manera:
+
+$$
+h_{1} = w_{1}x+b_{1}
+$$
+$$
+y_{1}=f(h_{1})
+$$
