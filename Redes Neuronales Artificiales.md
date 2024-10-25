@@ -12,4 +12,12 @@ Una *neurona* es una unidad de procesamiento de información compuesta de tres e
 
 ![[Pasted image 20241022205004.png]]
 ![[Pasted image 20241022204915.png]]
-Cada neurona tiene tantas dendritas como haya neuronas en la capa anterior. Todas las entradas provenientes de la capa anterior se suman en la neurona receptora (en su *núcleo*), siendo modificadas por un peso $w_{j}$ donde $j$ es el número de entradas, este peso es el que modificamos durante el entrenamiento del modelo. El nù
+Cada neurona tiene tantas dendritas como haya neuronas en la capa anterior. Todas las entradas provenientes de la capa anterior se suman en la neurona receptora (en su *núcleo*), siendo modificadas por un peso $w_{j}$ donde $j$ es el número de entradas, este peso es el que modificamos durante el entrenamiento del modelo. El núcleo de la neurona suma los valores con la función:
+$$
+h=\sum_{i}w_{i}x_{i}+b
+$$
+Dónde:
+- $h$ es el valor de la neurona receptora.
+- $x_{i}$ es cada entrada a la neurona.
+- $w_{i}$ es el peso de cada entrada, que se modifica durante el entrenamiento.
+- $b$ es el bias de la neurona.
