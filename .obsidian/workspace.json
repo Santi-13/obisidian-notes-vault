@@ -39,12 +39,14 @@
             "id": "25829f0e7a366b18",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-24 20.03.25.excalidraw.md"
+                "file": "Redes Neuronales Artificiales.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-24 20.03.25.excalidraw"
+              "icon": "lucide-file",
+              "title": "Redes Neuronales Artificiales"
             }
           }
         ],
@@ -245,8 +247,8 @@
   },
   "active": "25829f0e7a366b18",
   "lastOpenFiles": [
+    "Excalidraw/Capas Neuronales.md",
     "Redes Neuronales Artificiales.md",
-    "Excalidraw/Drawing 2024-10-24 20.03.25.excalidraw.md",
     "images/Pasted image 20241024200234.png",
     "Pasted image 20241022205004.png",
     "Pasted image 20241022204915.png",
