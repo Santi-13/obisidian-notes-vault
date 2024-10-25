@@ -61,4 +61,15 @@ h_{14}
 \end{bmatrix}
 $$
 
-2x1 = 4x1
+
+Se propone una serie de pasos para entrenar una red neuronal multicapa:
+##### 1. Análisis de Datos
+---
+
+##### 2. Hipótesis
+---
+
+##### 3. Proponer Función de Error
+---
+
+##### 4. **Algoritmo de Optimización**
