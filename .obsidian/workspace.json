@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes Neuronales Artificiales.md",
+                "file": "Computación Cognitiva/Redes Neuronales Artificiales.md",
                 "mode": "source",
                 "source": false
               },
@@ -245,7 +245,10 @@
   },
   "active": "97a50d688d60023b",
   "lastOpenFiles": [
-    "Computación Cognitiva.md",
+    "Computación Cognitiva/Clasificación.md",
+    "Computación Cognitiva/Redes Neuronales Artificiales.md",
+    "Computación Cognitiva",
+    "Computación Cognitiva/Computación Cognitiva.md",
     "Control/Pole Placement.md",
     "Control/Linear Quadratic Regulator.md",
     "Control/Model Predictive Control (MPC).md",
@@ -255,7 +258,6 @@
     "Math/Euclid's Algorithms.md",
     "Math/Prime Sieve.md",
     "Math/From Mathematics to General Programming.md",
-    "Redes Neuronales Artificiales.md",
     "images/Pasted image 20241024201418.png",
     "Excalidraw/Capas Neuronales.md",
     "Excalidraw/Euclid's GCM Diagram.md",
@@ -270,7 +272,6 @@
     "images/Pasted image 20240925115804.png",
     "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md",
     "Control/Fuzzy Control.md",
-    "Clasificación.md",
     "Untitled 1.md",
     "AI/Background Maths",
     "AI",
