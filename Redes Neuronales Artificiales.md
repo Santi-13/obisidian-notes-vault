@@ -27,7 +27,13 @@ La salida se ajusta a un rango de valores por medio de una **función de activac
 ![[Pasted image 20241024200234.png]]
 
 Podemos definir una **capa** de neuronas entonces de la siguiente manera:
-![[Capas Neuronales]]
+
+![[Pasted image 20241024201418.png]]
+Donde cada elemento es una matriz de elementos:
+$$
+x 
+$$
+
 $$
 h_{1} = w_{1}x+b_{1}
 $$
