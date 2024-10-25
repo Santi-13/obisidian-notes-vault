@@ -39,10 +39,22 @@ $$
 $$
 w \in \mathbb{R}^{n*d}
 $$
-
+Y la salidas de las neuronas se calculan:
 $$
 h_{1} = w_{1}x+b_{1}
 $$
 $$
 y_{1}=f(h_{1})
+$$
+En nuestro caso sería:
+$$
+\begin{bmatrix}
+1  \\
+1
+\end{bmatrix} = \begin{bmatrix}
+x_{1} \\
+x_{2}
+\end{bmatrix} \begin{bmatrix}
+
+\end{bmatrix}
 $$
