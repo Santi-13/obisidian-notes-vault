@@ -322,12 +322,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "61d375c907f0ccb4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -349,10 +359,11 @@
   },
   "active": "f493ffa7e5e4b07d",
   "lastOpenFiles": [
+    "AI/Background Maths/Jacobian.md",
+    "AI/Background Maths/Hessian.md",
     "Pasted image 20241024210740.png",
     "Robotics & Vision.md",
     "Untitled.md",
-    "AI/Background Maths/Hessian.md",
     "images/Pasted image 20241024204812.png",
     "images/Pasted image 20241024201418.png",
     "images/Pasted image 20241024200234.png",
@@ -363,7 +374,6 @@
     "Computación Cognitiva/Computación Cognitiva.md",
     "Computación Cognitiva/Clasificación.md",
     "Computación Cognitiva",
-    "AI/Background Maths/Jacobian.md",
     "Math/From Mathematics to General Programming.md",
     "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md",
     "Excalidraw/Euclid's GCM Diagram.md",
