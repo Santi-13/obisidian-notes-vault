@@ -55,4 +55,9 @@ And then looking at what happens as $\Delta x \to 0$.
 
 ![[Pasted image 20241111142705.png]]
 
-Effectively accepting that we aren't going to calculate every single point in space, just the ones we need. 
+Effectively accepting that we aren't going to calculate every single point in space, just the ones we need. But we do calculate a lot of points for this to be possible, which is again, not practical for high-dimensional scenarios. We can take this logic a step further though and say that, if we have a starting location, and we would like to approximate the [[Jacobian]], we simply calculate the partial derivate around that initial location.
+
+![[Pasted image 20241111143042.png]]
+$$
+J = []
+$$
