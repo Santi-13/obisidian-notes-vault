@@ -28,4 +28,19 @@ H = \begin{bmatrix}
 2xy & x^2 & 0
 \end{bmatrix}
 $$
-We notice that the matrix is symmetrical across the leading diagonal. This will always be true if the function is continuous, meaning it has no sudden step changes. When passing the function an $(x,y,z)$ coordinate, it tells us something about 
+We notice that the matrix is symmetrical across the leading diagonal. This will always be true if the function is continuous, meaning it has no sudden step changes. When passing the function an $(x,y,z)$ coordinate, it tells us something about that point in the space. To further analyze what the Hessian tells us, let's analyze a 2D example:
+$$
+f(x,y)=x^2+y^2
+$$
+$$
+J=[2x, 2y]
+$$
+$$
+H=\begin{bmatrix}
+2 & 0 \\
+0 & 2
+\end{bmatrix}
+$$
+If we were to not know the original function, we could easily find a zero-gradient point using only the Jacobian by using the point $(0,0)$. The **Hessian** helps us find whether this point is either a maximum, a minimum or a saddle point. If the determinant of $H$ is positive ($|H|=+$), then the point is either a minimum or maximum, which we can determine by looking at the upper-left value of the **Hessian** matrix (positive is maximum, negative is minimum); Whereas, if $|H|=-$, then the point is a saddle point.
+
+We can imagine how this concept extends
