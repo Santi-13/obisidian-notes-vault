@@ -47,20 +47,21 @@ $$
 y_{1}=f(h_{1})
 $$
 En nuestro caso sería:
-$$
- \begin{bmatrix}
+$$\begin{bmatrix}
+w_{11} & w_{12} \\
+w_{21} & w_{22} \\
+w_{31} & w_{32} \\
+w_{41} & w_{42}
+\end{bmatrix}  \begin{bmatrix}
 x_{1} \\
 x_{2}
-\end{bmatrix} \begin{bmatrix}
-
-\end{bmatrix} = \begin{bmatrix}
+\end{bmatrix}  = \begin{bmatrix}
 h_{11}  \\
 h_{12} \\
 h_{13} \\
 h_{14}
 \end{bmatrix}
 $$
-
 
 Se propone una serie de pasos para entrenar una red neuronal multicapa:
 ##### 1. Análisis de Datos
