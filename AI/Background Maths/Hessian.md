@@ -49,5 +49,10 @@ One particular approach useful in the case of high-dimensional problems comes fr
 
 ![[Pasted image 20241111142348.png]]
 $$
-x_{gradient} 
+x_{gradient} \approx \frac{f(x+\Delta x)-f(x)}{\Delta x}
 $$
+And then looking at what happens as $\Delta x \to 0$.
+
+![[Pasted image 20241111142705.png]]
+
+Effectively accepting that we aren't going to calculate every single point in space, just the ones we need. 
