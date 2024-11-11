@@ -1,5 +1,5 @@
 #MachineLearning 
-
+#### By: Coursera - Mathematics for Machine Learning 
 ---
 In some ways, the Hessian is an extension of the Jacobian vector. For the [[Jacobian]], we found all the first order derivatives of a function and collected them in a vector; for the Hessian, we will find all the second order derivatives and collect them in a matrix. For a function of $n$ variables, it would look like this:
 $$
@@ -59,5 +59,6 @@ Effectively accepting that we aren't going to calculate every single point in sp
 
 ![[Pasted image 20241111143042.png]]
 $$
-J = []
+J = [\frac{f(x+\Delta x,y)-f(x,y)}{\Delta x},\frac{f(x,y+\Delta y)-f(x,y)}{\Delta y}]
 $$
+The size of the step has to be selected with a few things in mind, as if it is too big, then the approximation would be bad, but if it is too small, as computers have a finite number of significant figures, the change could be considered null. For noisy scenarios, one approach is to calculate the gradient using multiple step sizes and getting the average.
