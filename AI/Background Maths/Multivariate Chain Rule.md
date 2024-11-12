@@ -13,3 +13,4 @@ $$
 + \frac{\partial f}{\partial y} \frac{\partial y}{\partial t}
 + \frac{\partial f}{\partial z} \frac{\partial z}{\partial t}
 $$
+This allows us to calculate the result 
