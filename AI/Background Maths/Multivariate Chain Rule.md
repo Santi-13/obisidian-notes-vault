@@ -13,4 +13,4 @@ $$
 + \frac{\partial f}{\partial y} \frac{\partial y}{\partial t}
 + \frac{\partial f}{\partial z} \frac{\partial z}{\partial t}
 $$
-This allows us to calculate the result 
+This allows us to calculate the result in a piece-wise manner instead of substituting everything, which is something computers are very good at. We can generalize this concept as follows:
