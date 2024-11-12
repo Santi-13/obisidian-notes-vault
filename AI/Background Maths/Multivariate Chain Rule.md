@@ -15,17 +15,17 @@ $$
 $$
 This allows us to calculate the result in a piece-wise manner instead of substituting everything, which is something computers are very good at. We can generalize this concept as follows:
 $$
-f(x_{1}, x_{2},x_{3},\dots,x_{n})=f(\mathbf{x})
+f(x_{1}, x_{2},x_{3},\dots,x_{n})=f(\pmb{x})
 $$
 $$
-\frac{\partial f}{\partial \mathbf{x}} = \begin{bmatrix}
+\frac{\partial f}{\partial \pmb{x}} = \begin{bmatrix}
 \frac{\partial f}{\partial x_{1}} \\
 \frac{\partial f}{\partial x_{2}} \\
 \frac{\partial f}{\partial x_{3}} \\
 \vdots \\
 \frac{\partial f}{\partial x_{n}}
 \end{bmatrix} \text{ }\text{ }
-\frac{\partial x}{\partial t} = \begin{bmatrix}
+\frac{\partial \pmb{x}}{\partial t} = \begin{bmatrix}
 \frac{\partial x_{1}}{\partial t} \\
 \frac{\partial x_{2}}{\partial t} \\
 \frac{\partial x_{3}}{\partial t} \\
@@ -33,3 +33,4 @@ $$
 \frac{\partial x_{n}}{\partial t}
 \end{bmatrix}
 $$
+
