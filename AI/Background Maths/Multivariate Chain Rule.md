@@ -6,7 +6,7 @@ $$
 f(x,y,z)=\sin(x)e^{yz^2}
 $$
 $$
-x=t-1 ;\text{ }y =t^2; z=\frac{1}{t}
+x=t-1 ;\text{ }y =t^2;\text{ } z=\frac{1}{t}
 $$
 $$
 \frac{df}{dt}=\frac{\partial f}{\partial x} \frac{\partial x}{\partial t}
@@ -16,4 +16,20 @@ $$
 This allows us to calculate the result in a piece-wise manner instead of substituting everything, which is something computers are very good at. We can generalize this concept as follows:
 $$
 f(x_{1}, x_{2},x_{3},\dots,x_{n})=f(\mathbf{x})
+$$
+$$
+\frac{\partial f}{\partial \mathbf{x}} = \begin{bmatrix}
+\frac{\partial f}{\partial x_{1}} \\
+\frac{\partial f}{\partial x_{2}} \\
+\frac{\partial f}{\partial x_{3}} \\
+\vdots \\
+\frac{\partial f}{\partial x_{n}}
+\end{bmatrix} \text{ }\text{ }
+\frac{\partial x}{\partial t} = \begin{bmatrix}
+\frac{\partial x_{1}}{\partial t} \\
+\frac{\partial x_{2}}{\partial t} \\
+\frac{\partial x_{3}}{\partial t} \\
+\vdots \\
+\frac{\partial x_{n}}{\partial t}
+\end{bmatrix}
 $$
