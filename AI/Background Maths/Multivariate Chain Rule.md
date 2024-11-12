@@ -33,4 +33,6 @@ $$
 \frac{\partial x_{n}}{\partial t}
 \end{bmatrix}
 $$
-
+$$
+\frac{df}{dt} =\frac{\partial f}{\partial \pmb{x}}\frac{\partial \pmb{x}}{\partial t}
+$$
