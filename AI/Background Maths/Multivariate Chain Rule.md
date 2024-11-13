@@ -55,7 +55,10 @@ $$
 $$
 Or we can also apply the chain rule such as:
 $$
-\frac{df}{dt} =\frac{\partial f}{\partial x}  
-\frac{\partial x }{\partial u}
-\frac{\partial u }{\partial t}
+\frac{df}{dt} =\frac{d f}{d x}  
+\frac{d x }{d u}
+\frac{d u }{d t}
+$$
+$$
+\frac{df}{dt} = (5)(-1)(2t)=-10t
 $$
