@@ -48,3 +48,14 @@ We can also prove that the chain rule works for more than two links. Let's analy
 $$f(x)=5x$$
 $$x(u)=1-u$$
 $$u(t)=t^2$$
+Then, by simple substitution we can find that:
+$$ f(t) = 5(1-t^2) = 5 - 5t^2 $$
+$$
+\frac{df}{dt}=-10t
+$$
+Or we can also apply the chain rule such as:
+$$
+\frac{df}{dt} =\frac{\partial f}{\partial x}  
+\frac{\partial x }{\partial u}
+\frac{\partial u }{\partial t}
+$$
