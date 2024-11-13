@@ -36,3 +36,7 @@ $$
 $$
 \frac{df}{dt} =\frac{\partial f}{\partial \pmb{x}} \cdot \frac{\partial \pmb{x}}{\partial t}
 $$
+One detail we may notice is that $\frac{\partial f}{\partial \pmb{x}}$ is just the [[Jacobian]] of $f$, but in a column instead of a row vector. From this, we can say that instead of the dot product:
+$$
+\frac{df}{dt} =J_{f}\frac{\partial \pmb{x}}{\partial t}
+$$
