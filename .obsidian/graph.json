@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 12529969
       }
+    },
+    {
+      "query": "tag:#MachineLearning  ",
+      "color": {
+        "a": 1,
+        "rgb": 9184699
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 13.5758835758836,
   "linkStrength": 1,
   "linkDistance": 169,
-  "scale": 0.5087618855792604,
+  "scale": 0.25883865621816354,
   "close": false
 }

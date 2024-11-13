@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Background Maths/Multivariate Chain Rule.md",
+                "file": "AI/Neural Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multivariate Chain Rule"
+              "title": "Neural Networks"
             }
           },
           {
@@ -257,13 +257,14 @@
   },
   "active": "04a4f8b258b186eb",
   "lastOpenFiles": [
+    "AI/Neural Networks.md",
+    "AI/Background Maths/Multivariate Chain Rule.md",
     "Robotics & Vision.md",
     "Untitled.md",
     "images/Pasted image 20241111142348.png",
     "Pasted image 20241024210740.png",
     "images/Pasted image 20241111142705.png",
     "images/Pasted image 20241111143042.png",
-    "AI/Background Maths/Multivariate Chain Rule.md",
     "AI/Background Maths/Hessian.md",
     "AI/Background Maths/Jacobian.md",
     "images/Pasted image 20241024204812.png",
