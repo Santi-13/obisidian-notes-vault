@@ -62,3 +62,6 @@ $$
 $$
 \frac{df}{dt} = (5)(-1)(2t)=-10t
 $$
+In the multivariate case we get the same result, though it is still interesting to analyze. For:
+$$f(\pmb{x}(\pmb{u}(t)))$$
+$$F(\pmb)
