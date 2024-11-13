@@ -36,7 +36,15 @@ $$
 $$
 \frac{df}{dt} =\frac{\partial f}{\partial \pmb{x}} \cdot \frac{\partial \pmb{x}}{\partial t}
 $$
-One detail we may notice is that $\frac{\partial f}{\partial \pmb{x}}$ is just the [[Jacobian]] of $f$, but in a column instead of a row vector. From this, we can say that instead of the dot product:
+One detail we may notice is that $\frac{\partial f}{\partial \pmb{x}}$ is just the [[Jacobian]] of $f$, but in a column instead of a row vector. 
+$$
+\frac{\partial f}{\partial \pmb{x}} = J_{f}^T
+$$
+Then, we can replace the dot product with a much more convenient representation
 $$
 \frac{df}{dt} =J_{f}\frac{\partial \pmb{x}}{\partial t}
 $$
+We can also prove that the chain rule works for more than two links. Let's analyze an example:
+$$f(x)=5x$$
+$$x(u)=1-u$$
+$$u(t)=t^2$$
