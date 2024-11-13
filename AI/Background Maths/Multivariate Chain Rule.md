@@ -34,7 +34,7 @@ $$
 \end{bmatrix}
 $$
 $$
-\frac{df}{dt} =\frac{\partial f}{\partial \pmb{x}} \cdot \frac{\partial \pmb{x}}{\partial t}
+\frac{df}{dt} =\frac{\partial f}{\partial \pmb{x}} \cdot \frac{d \pmb{x}}{d t}
 $$
 One detail we may notice is that $\frac{\partial f}{\partial \pmb{x}}$ is just the [[Jacobian]] of $f$, but in a column instead of a row vector. 
 $$
@@ -73,4 +73,7 @@ $$\pmb u(t)= \begin{bmatrix}
 u_{1}(t) \\
 u_{2}(t)
 \end{bmatrix}$$
-d
+At the end, the math works out as the derivative ends up like:
+$$
+\frac{df}{dt}=J_{\pmb x}
+$$
