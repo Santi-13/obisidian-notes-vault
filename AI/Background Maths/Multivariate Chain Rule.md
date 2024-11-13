@@ -64,4 +64,13 @@ $$
 $$
 In the multivariate case we get the same result, though it is still interesting to analyze. For:
 $$f(\pmb{x}(\pmb{u}(t)))$$
-$$F(\pmb)
+$$f(\pmb{x})=f(x_{1},x_{2})$$
+$$\pmb x(\pmb u)= \begin{bmatrix}
+x_{1}(u_{1},u_{2}) \\
+x_{2}(u_{1},u_{2})
+\end{bmatrix}$$
+$$\pmb u(t)= \begin{bmatrix}
+u_{1}(t) \\
+u_{2}(t)
+\end{bmatrix}$$
+d
