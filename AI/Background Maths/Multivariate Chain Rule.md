@@ -34,5 +34,5 @@ $$
 \end{bmatrix}
 $$
 $$
-\frac{df}{dt} =\frac{\partial f}{\partial \pmb{x}}\frac{\partial \pmb{x}}{\partial t}
+\frac{df}{dt} =\frac{\partial f}{\partial \pmb{x}} \cdot \frac{\partial \pmb{x}}{\partial t}
 $$
