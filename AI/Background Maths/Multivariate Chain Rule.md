@@ -75,5 +75,5 @@ u_{2}(t)
 \end{bmatrix}$$
 At the end, the math works out as the derivative ends up like:
 $$
-\frac{df}{dt}=J_{\pmb x}
+\frac{df}{dt}=J_{\pmb x}J_{\pmb u} \frac{d \pmb u}{dt}
 $$
