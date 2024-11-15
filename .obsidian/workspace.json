@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "86a212d134cbae77",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-15 09.49.51.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-15 09.49.51.excalidraw"
+            }
+          },
+          {
             "id": "acd82bb3b649ac2b",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,11 +277,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04a4f8b258b186eb",
+  "active": "86a212d134cbae77",
   "lastOpenFiles": [
-    "images/Pasted image 20241115094159.png",
-    "AI/Neural Networks.md",
     "Excalidraw/Capas Neuronales.md",
+    "Excalidraw/Drawing 2024-11-15 09.49.51.excalidraw.md",
+    "Excalidraw/Euclid's GCM Diagram.md",
+    "AI/Neural Networks.md",
+    "images/Pasted image 20241115094159.png",
     "AI/Background Maths/Multivariate Chain Rule.md",
     "Robotics & Vision.md",
     "Untitled.md",
@@ -290,7 +304,6 @@
     "Computación Cognitiva",
     "Math/From Mathematics to General Programming.md",
     "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md",
-    "Excalidraw/Euclid's GCM Diagram.md",
     "Control/Fuzzy Control.md",
     "Control/Linear Quadratic Regulator.md",
     "Control/Pole Placement.md",
