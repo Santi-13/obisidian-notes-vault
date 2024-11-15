@@ -5,3 +5,4 @@ In short, a neural network is a mathematical function, which takes a variable in
 
 ![[Pasted image 20241115094159.png]]
 $$\pmb y =f(\pmb x)$$
+Let's analyze the most simple neural network possible.
