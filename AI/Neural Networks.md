@@ -45,6 +45,8 @@ $$
 $$
 a_{1}^{(1)}=\sigma(\pmb w_{1} \cdot \pmb a^{(0)}+b_{1})
 $$
+---
 $$
-a_{0}^{(1)}=\sigma(\pmb w_{0} \cdot \pmb a^{(0)}+b_{0})
+\pmb a^{(1)}=\sigma(\pmb W^{(1)} \cdot \pmb a^{(0)}+ \pmb b^{(1)})
 $$
+
