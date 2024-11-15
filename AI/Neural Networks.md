@@ -32,4 +32,7 @@ If we add an additional neuron, we now need to differentiate neurons on the same
 $$
 a^{(1)}=\sigma(w_{0}a^{(0)}_{0}+w_{1}a^{(0)}_{1}+b)
 $$
-We can see how we can generalize this function as the sum of $n$ inputs, but also as the dot product between two vectors
+We can see how we can generalize this function as the sum of $n$ inputs, but also as the dot product between two vectors.
+$$
+a^{1}=\sigma(\pmb w \cdot \pmb a^{(0)}+b)
+$$
