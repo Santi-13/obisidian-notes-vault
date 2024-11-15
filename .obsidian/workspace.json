@@ -87,12 +87,14 @@
             "id": "ac46db85a6a656a6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/4th Simplest NN.md"
+                "file": "AI/Neural Networks.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "4th Simplest NN"
+              "icon": "lucide-file",
+              "title": "Neural Networks"
             }
           }
         ],
@@ -313,9 +315,9 @@
   },
   "active": "ac46db85a6a656a6",
   "lastOpenFiles": [
+    "Excalidraw/4th Simplest NN.md",
     "Excalidraw/3rd Simplest NN.md",
     "Excalidraw/Capas Neuronales.md",
-    "Excalidraw/4th Simplest NN.md",
     "AI/Neural Networks.md",
     "Excalidraw/2nd Simplest NN.md",
     "AI/Background Maths/Multivariate Chain Rule.md",

@@ -49,4 +49,5 @@ $$
 $$
 \pmb a^{(1)}=\sigma(\pmb W^{(1)} \cdot \pmb a^{(0)}+ \pmb b^{(1)})
 $$
-
+This way, we have a vector of output neurons
+![[4th Simplest NN]]
