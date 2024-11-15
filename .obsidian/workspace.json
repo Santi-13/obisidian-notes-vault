@@ -39,12 +39,14 @@
             "id": "86a212d134cbae77",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-11-15 09.49.51.excalidraw.md"
+                "file": "AI/Neural Networks.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-15 09.49.51.excalidraw"
+              "icon": "lucide-file",
+              "title": "Neural Networks"
             }
           },
           {
@@ -279,10 +281,12 @@
   },
   "active": "86a212d134cbae77",
   "lastOpenFiles": [
-    "Excalidraw/Capas Neuronales.md",
-    "Excalidraw/Drawing 2024-11-15 09.49.51.excalidraw.md",
-    "Excalidraw/Euclid's GCM Diagram.md",
+    "AI/Background Maths/Jacobian.md",
     "AI/Neural Networks.md",
+    "Computación Cognitiva/Redes Neuronales Artificiales.md",
+    "Excalidraw/Simplest Neural Network.md",
+    "Excalidraw/Capas Neuronales.md",
+    "Excalidraw/Euclid's GCM Diagram.md",
     "images/Pasted image 20241115094159.png",
     "AI/Background Maths/Multivariate Chain Rule.md",
     "Robotics & Vision.md",
@@ -292,13 +296,11 @@
     "images/Pasted image 20241111142705.png",
     "images/Pasted image 20241111143042.png",
     "AI/Background Maths/Hessian.md",
-    "AI/Background Maths/Jacobian.md",
     "images/Pasted image 20241024204812.png",
     "images/Pasted image 20241024201418.png",
     "images/Pasted image 20241024200234.png",
     "Pasted image 20241022205004.png",
     "Pasted image 20241022204915.png",
-    "Computación Cognitiva/Redes Neuronales Artificiales.md",
     "Computación Cognitiva/Computación Cognitiva.md",
     "Computación Cognitiva/Clasificación.md",
     "Computación Cognitiva",
