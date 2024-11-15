@@ -230,12 +230,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "beb436617b8a15d8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -255,7 +265,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04a4f8b258b186eb",
+  "active": "beb436617b8a15d8",
   "lastOpenFiles": [
     "AI/Background Maths/Multivariate Chain Rule.md",
     "AI/Neural Networks.md",
