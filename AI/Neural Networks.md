@@ -26,4 +26,5 @@ $$
 $$
 This function belongs to a family of similar functions with this characteristic "s" shape called **sigmoids**. 
 
+If we add an additional neuron, we now 
 ![[Second Simplest NN]]
