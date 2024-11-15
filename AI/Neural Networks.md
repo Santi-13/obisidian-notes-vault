@@ -7,7 +7,7 @@ In short, a neural network is a mathematical function, which takes a variable in
 $$\pmb y =f(\pmb x)$$
 Let's analyze the most simple neural network possible.
 
-![[Simplest Neural Network]]
+![[Simplest Neural NN]]
 Where:
 $$
 a^{(1)}=\sigma(wa^{(0)}+b)
