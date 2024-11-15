@@ -49,5 +49,7 @@ $$
 $$
 \pmb a^{(1)}=\sigma(\pmb W^{(1)} \cdot \pmb a^{(0)}+ \pmb b^{(1)})
 $$
-This way, we have a vector of output neurons
+This way, we have a vector of output neurons, which is a function of a matrix of weights, multiplied by a vector of inputs and added to a bias vector.
+
+The complexity may scale as the network becomes more complex, which means adding more ***hidden layers*** to our network,
 ![[4th Simplest NN]]
