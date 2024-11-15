@@ -61,12 +61,14 @@
             "id": "c4f66d206631c246",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Second Simplest NN.md"
+                "file": "AI/Neural Networks.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Second Simplest NN"
+              "icon": "lucide-file",
+              "title": "Neural Networks"
             }
           }
         ],
@@ -287,14 +289,14 @@
   },
   "active": "c4f66d206631c246",
   "lastOpenFiles": [
-    "Excalidraw/Simplest Neural NN.md",
+    "Computación Cognitiva/Redes Neuronales Artificiales.md",
     "Excalidraw/Second Simplest NN.md",
+    "Excalidraw/Simplest Neural NN.md",
     "Canvas.canvas",
     "AI/Neural Networks.md",
     "images/Pasted image 20241115100721.png",
     "Pasted image 20241024210740.png",
     "AI/Background Maths/Jacobian.md",
-    "Computación Cognitiva/Redes Neuronales Artificiales.md",
     "Excalidraw/Capas Neuronales.md",
     "Excalidraw/Euclid's GCM Diagram.md",
     "images/Pasted image 20241115094159.png",
