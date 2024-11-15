@@ -25,3 +25,5 @@ $$
 \sigma(x) = \tanh(x) = \frac{e^x-e^{-x}}{e^x+e^{-x}}
 $$
 This function belongs to a family of similar functions with this characteristic "s" shape called **sigmoids**. 
+
+![[Second Simplest NN]]
