@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computación Cognitiva/Computación Cognitiva.md",
+                "file": "Computación Cognitiva/Redes Neuronales Artificiales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computación Cognitiva"
+              "title": "Redes Neuronales Artificiales"
             }
           }
         ],
@@ -315,6 +315,7 @@
   },
   "active": "ac46db85a6a656a6",
   "lastOpenFiles": [
+    "Computación Cognitiva/Computación Cognitiva.md",
     "Computación Cognitiva/Clasificación.md",
     "AI/Neural Networks.md",
     "Excalidraw/4th Simplest NN.md",
@@ -340,7 +341,6 @@
     "images/Pasted image 20241024201418.png",
     "images/Pasted image 20241024200234.png",
     "Pasted image 20241022205004.png",
-    "Computación Cognitiva/Computación Cognitiva.md",
     "Computación Cognitiva",
     "Math/From Mathematics to General Programming.md",
     "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md",
