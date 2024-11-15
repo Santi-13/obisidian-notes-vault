@@ -26,5 +26,10 @@ $$
 $$
 This function belongs to a family of similar functions with this characteristic "s" shape called **sigmoids**. 
 
-If we add an additional neuron, we now 
+If we add an additional neuron, we now need to differentiate neurons on the same *layer*, and also define the new activation function as the sum of the inputs.
+
 ![[Second Simplest NN]]
+$$
+a_{0}^{(1)}=\sigma(w_{0}a^{(0)}_{0}+w_{1}a^{(0)}_{1}+b)
+$$
+We can see how generalizing this function 
