@@ -36,3 +36,4 @@ We can see how we can generalize this function as the sum of $n$ inputs, but als
 $$
 a^{1}=\sigma(\pmb w \cdot \pmb a^{(0)}+b)
 $$
+The complexity augments when we have multiple output neurons, as the number of inputs doubles, each with its own weights, and with their own bias.

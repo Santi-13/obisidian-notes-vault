@@ -70,9 +70,21 @@
               "icon": "lucide-file",
               "title": "Neural Networks"
             }
+          },
+          {
+            "id": "aa5c4962ecf32c06",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Third Simplest NN.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Third Simplest NN"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -287,12 +299,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4f66d206631c246",
+  "active": "aa5c4962ecf32c06",
   "lastOpenFiles": [
-    "AI/Background Maths/Multivariate Chain Rule.md",
-    "AI/Neural Networks.md",
-    "Computación Cognitiva/Redes Neuronales Artificiales.md",
     "Excalidraw/Second Simplest NN.md",
+    "Excalidraw/Third Simplest NN.md",
+    "AI/Neural Networks.md",
+    "AI/Background Maths/Multivariate Chain Rule.md",
+    "Computación Cognitiva/Redes Neuronales Artificiales.md",
     "Excalidraw/Simplest Neural NN.md",
     "Canvas.canvas",
     "images/Pasted image 20241115100721.png",
@@ -328,7 +341,6 @@
     "Math/Egyptian Multiplication.md",
     "AI/Background Maths",
     "AI",
-    "Excalidraw/Drawing 2024-10-09 11.59.12.excalidraw.md",
     "Excalidraw",
     "Math",
     "Control",
