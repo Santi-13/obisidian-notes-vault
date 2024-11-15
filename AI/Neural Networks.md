@@ -28,7 +28,7 @@ This function belongs to a family of similar functions with this characteristic 
 
 If we add an additional neuron, we now need to differentiate neurons on the same *layer*, and also define the new activation function as the sum of the inputs.
 
-![[Second Simplest NN]]
+![[2nd Simplest NN]]
 $$
 a^{(1)}=\sigma(w_{0}a^{(0)}_{0}+w_{1}a^{(0)}_{1}+b)
 $$
@@ -38,7 +38,7 @@ a^{(1)}=\sigma(\pmb w \cdot \pmb a^{(0)}+b)
 $$
 The complexity augments when we have multiple output neurons, as the number of inputs doubles, each with its own weights, and with their own bias.
 
-![[Third Simplest NN]]
+![[3rd Simplest NN]]
 $$
 a_{0}^{(1)}=\sigma(\pmb w_{0} \cdot \pmb a^{(0)}+b_{0})
 $$
