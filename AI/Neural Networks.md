@@ -12,8 +12,9 @@ Where:
 $$
 a^{(1)}=\sigma(wa^{(0)}+b)
 $$
-$$a \implies \text{"Activity"}$$
-$$w \implies \text{"Weight"}$$
-$$b \implies \text{"Bias"}$$
-$$\sigma \implies \text{"Activation function"}$$
+$a \implies \text{"Activity"}$
+$w \implies \text{"Weight"}$
+$b \implies \text{"Bias"}$
+$\sigma \implies \text{"Activation function"}$
+
 The reason we use $\sigma$ instead of other sensible term is because it gives neural networks their association to the brain. Neurons receive electrical stimulation from their neighbors and, when the sum of these stimulations goes beyond a certain threshold, the neuron activates and stimulates its neighbors in return.
