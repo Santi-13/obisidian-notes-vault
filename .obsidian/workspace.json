@@ -75,12 +75,14 @@
             "id": "aa5c4962ecf32c06",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Third Simplest NN.md"
+                "file": "AI/Neural Networks.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Third Simplest NN"
+              "icon": "lucide-file",
+              "title": "Neural Networks"
             }
           }
         ],
@@ -301,8 +303,8 @@
   },
   "active": "aa5c4962ecf32c06",
   "lastOpenFiles": [
-    "Excalidraw/Second Simplest NN.md",
     "Excalidraw/Third Simplest NN.md",
+    "Excalidraw/Second Simplest NN.md",
     "AI/Neural Networks.md",
     "AI/Background Maths/Multivariate Chain Rule.md",
     "Computación Cognitiva/Redes Neuronales Artificiales.md",

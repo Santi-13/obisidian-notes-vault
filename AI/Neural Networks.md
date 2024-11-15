@@ -34,6 +34,17 @@ a^{(1)}=\sigma(w_{0}a^{(0)}_{0}+w_{1}a^{(0)}_{1}+b)
 $$
 We can see how we can generalize this function as the sum of $n$ inputs, but also as the dot product between two vectors.
 $$
-a^{1}=\sigma(\pmb w \cdot \pmb a^{(0)}+b)
+a^{(1)}=\sigma(\pmb w \cdot \pmb a^{(0)}+b)
 $$
 The complexity augments when we have multiple output neurons, as the number of inputs doubles, each with its own weights, and with their own bias.
+
+![[Third Simplest NN]]
+$$
+a_{0}^{(1)}=\sigma(\pmb w_{0} \cdot \pmb a^{(0)}+b_{0})
+$$
+$$
+a_{1}^{(1)}=\sigma(\pmb w_{1} \cdot \pmb a^{(0)}+b_{1})
+$$
+$$
+a_{0}^{(1)}=\sigma(\pmb w_{0} \cdot \pmb a^{(0)}+b_{0})
+$$
