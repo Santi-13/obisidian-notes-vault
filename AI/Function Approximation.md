@@ -46,4 +46,6 @@ $$y=f(x)=ax^2+bx+c$$
 $$f'(x)=2ax+b$$
 $$f''(x)=2a$$
 From this, we can evaluate at our point $(0)$, starting from the biggest derivative, in order to get the coefficients for our approximation:
-$$a = f''(0)
+$$a = \frac{f''(0)}{2}$$
+$$b=f'(0)$$
+$$c = f(0)$$
