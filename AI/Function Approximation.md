@@ -25,9 +25,9 @@ To approximate a function, we must focus on a singular point in the curve, and s
 left=-5; right=3;
 top=4; bottom=-8;
 ---
-y=1*x^4+3.0*x^3+0.5*x^2+x
+y=1*x^4+3.0*x^3+0.5*x^2+0.5*x
 y=0|dashed|red
-y=1*x|dashed
+y=0.5*x|dashed
 (0,0)|label:(0,0)|black
 y=3*x^2|dashed
 y=2*(x+0.1)^3|dashed
