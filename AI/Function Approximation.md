@@ -29,7 +29,7 @@ y=1*x^4+3.0*x^3+0.5*x^2+0.5*x
 y=0|dashed|red
 y=0.5*x|dashed
 (0,0)|label:(0,0)|black
-y=3*x^2|dashed
+y=0.5*x+3*x^2|dashed
 y=2*(x+0.1)^3|dashed
 ```
 
