@@ -11,5 +11,6 @@ top=4; bottom=-8;
 y=1*x^4+3.0*x^3+0.5*x^2
 y=0|dashed|red
 (0,0)|label:(0,0)|black
-y=0.5*x^2+x
+y=3*x^2|dashed
+y=2*(x+0.1)^3|dashed
 ```
