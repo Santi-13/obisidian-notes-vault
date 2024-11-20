@@ -8,10 +8,6 @@ left=-5; right=3;
 top=4; bottom=-8;
 ---
 y=1*x^4+3.0*x^3+0.5*x^2
-y=0|dashed|red
-(0,0)|label:(0,0)|black
-y=3*x^2|dashed
-y=2*(x+0.1)^3|dashed
 ```
 
 The ***Taylor (or Power) Series*** is a way of approximating functions. It is also called power series because it is simply composed of coefficients in front of increasing powers of $x$, so a generalized expression may be:
@@ -22,4 +18,16 @@ Where the equation may go on infinitely, depending on the function we're conside
 $$g_{0}(x) = a$$
 $$g_{1}(x) = a + bx$$
 $$g_{2}(x)= a + bx + cx^2$$
-$$g_{3}(x) = a +
+$$g_{3}(x) = a + bx + cx^2 + dx^3$$
+To approximate a function, we must focus on a singular point in the curve, and start building our approximations around it. The zeroth, first, second, and third order approximations for the above graph around point $(0,)
+```desmos-graph
+left=-5; right=3;
+top=4; bottom=-8;
+---
+y=1*x^4+3.0*x^3+0.5*x^2
+y=0|dashed|red
+(0,0)|label:(0,0)|black
+y=3*x^2|dashed
+y=2*(x+0.1)^3|dashed
+```
+
