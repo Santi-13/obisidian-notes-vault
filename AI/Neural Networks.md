@@ -68,7 +68,16 @@ C=e=\sum_{i}(a_{i}^{(L)} - y_{i})^2
 $$
 We can easily see how this ties to calculus, as we intend to minimize the error of the network, so we must find the local or global minimal points of the space representation of our weights and biases.
 
-To do this, we have to differentiate our error function with respect to both the weight and bias vectors. For a first layer of a network:
+To do this, we have to differentiate our error function with respect to both the weight and bias vectors. 
 $$
-\frac{\partial C^{(1)}}{\partial w}
+\frac{\partial C^{(L)}}{\partial \pmb W^{(L)}} = 
+\frac{\partial C}{\partial \pmb a^{(L)}} 
+\frac{\partial \pmb a^{(L)}}{\partial \pmb z^{(L)}}
+\frac{\partial \pmb z^{(L)}}{\partial \pmb W^{(L)}}
+$$
+$$
+\frac{\partial C^{(L)}}{\partial \pmb b^{(L)}} = 
+\frac{\partial C}{\partial \pmb a^{(L)}} 
+\frac{\partial \pmb a^{(L)}}{\partial \pmb z^{(L)}}
+\frac{\partial \pmb z^{(L)}}{\partial \pmb W^{(L)}}
 $$
