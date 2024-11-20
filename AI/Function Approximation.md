@@ -33,3 +33,6 @@ y=3*x^2|dashed
 y=2*(x+0.1)^3|dashed
 ```
 
+This is basically what the ***Taylor Series*** method tells us, that if we know everything about a function at some point (value, its derivative, second derivative, etc.) we can use this information to reconstruct the function **everywhere** else. 
+
+However, this is only true for a certain type of functions which we call *well-behaved* functions, which means a function that is continuous and that you can differentiate as many times as you want.
