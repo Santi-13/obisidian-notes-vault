@@ -18,3 +18,8 @@ The ***Taylor (or Power) Series*** is a way of approximating functions. It is al
 $$
 g(x) = a + bx + cx^2 +dx^3 + \dots
 $$
+Where the equation may go on infinitely, depending on the function we're considering. For normal applications however, it is usually fine to use the first terms of the series. Starting from a single term, we call these expressions the zeroth, first, second, and third approximations, which are also in turn called *truncated series*.
+$$g_{0}(x) = a$$
+$$g_{1}(x) = a + bx$$
+$$g_{2}(x)= a + bx + cx^2$$
+$$g_{3}(x) = a +
