@@ -39,4 +39,9 @@ However, this is only true for a certain type of functions which we call *well-b
 
 Now let's break down how we obtain the appropriate coefficients for the **Power Series** approximation, let's start with the zeroth approximation, which just uses the value of the function at our point of interest.
 $$g_{0}= f(0)$$
-Then, for the first order approximation, the value at the function will be the vertical axis intercept $c$ and the gradient will be the 
+Then, for the first order approximation, the value at the function will be the vertical axis intercept $c$ and the gradient will be the gradient at that point $m$.
+$$g_{1}=f(0) + f'(0)x$$
+Now, for the second order approximation, we must do a quadratic equation:
+$$y=f(x)=ax^2+bx+c$$
+$$f(x)'=2ax+b$$
+$$f''(x)=2a$$
