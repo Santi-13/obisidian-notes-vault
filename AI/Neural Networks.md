@@ -62,4 +62,4 @@ $$
 \pmb a^{(L)}=\sigma(\pmb W^{(L)} \cdot \pmb a^{(L-1)}+ \pmb b^{(L)})
 $$
 
-A classic approach to training these kind of neural networks is called ***back-propagation***, as it first looks at the *output* neurons and then it works back *through* the network.
+A classic approach to training these kind of neural networks is called ***back-propagation***, as it first looks at the **output** neurons and then it works back *through* the network. Initially, we set all weights and biases as a random number, we then calculate the **cost**, or **error**, of the passed data compared to our training data, and make adjustments, trying to minimize this error and finding the right set of weights and bias that best match the model to our training data.
