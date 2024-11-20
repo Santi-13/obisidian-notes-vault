@@ -37,4 +37,6 @@ This is basically what the ***Taylor Series*** method tells us, that if we know 
 
 However, this is only true for a certain type of functions which we call *well-behaved* functions, which means a function that is continuous and that you can differentiate as many times as you want.
 
-Now let's break down how we obtain the appropriate coefficients for the **Power Series** approximation, let's start with the zeroth approximation, which just uses the value of 
+Now let's break down how we obtain the appropriate coefficients for the **Power Series** approximation, let's start with the zeroth approximation, which just uses the value of the function at our point of interest.
+$$g_{0}= f(0)$$
+Then, for the first order approximation, the value at the function will be the vertical axis intercept $c$ and the gradient will be the 
