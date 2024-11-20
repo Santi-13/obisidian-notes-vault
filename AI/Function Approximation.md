@@ -24,7 +24,12 @@ bounds3d: [[-5,5],[-5,5],[-5,5]]
 axis: false
 keepAspectRatio: true
 elements: [
-	{type: circle3d, def: [[1,1,1], [1,1,1], 3]}
+	{type: slider, def: [[1,5],[5,5],[-10,-3,0]], att: {name: "start"}},
+	{type: slider, def: [[1,4],[5,4],[1,6,10]], att: {name: "end"}},
+	{type: functiongraph3d, def: ["f:sin(x*y/4)", ["f:e0", "f:e1"], ["f:e0", "f:e1"]],}
 ]
 ```
+
+
+
 
