@@ -79,5 +79,10 @@ $$
 \frac{\partial C^{(L)}}{\partial \pmb b^{(L)}} = 
 \frac{\partial C}{\partial \pmb a^{(L)}} 
 \frac{\partial \pmb a^{(L)}}{\partial \pmb z^{(L)}}
-\frac{\partial \pmb z^{(L)}}{\partial \pmb W^{(L)}}
+\frac{\partial \pmb z^{(L)}}{\partial \pmb b^{(L)}}
 $$
+$\text{Where:}$
+$$C=(\pmb a^{(L)}-y)^2$$
+$$\pmb a^{(L)} = \sigma(\pmb z^{(L)})$$
+$$ \pmb z^{(L)} = \pmb W^{(L)} \pmb a^{(L-1)} + \pmb b^{(L)}$$
+We use the $\pmb z$ term to differentiate the activation function before.
