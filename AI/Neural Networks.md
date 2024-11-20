@@ -47,7 +47,7 @@ a_{1}^{(1)}=\sigma(\pmb w_{1} \cdot \pmb a^{(0)}+b_{1})
 $$
 ---
 $$
-\pmb a^{(1)}=\sigma(\pmb W^{(1)} \cdot \pmb a^{(0)}+ \pmb b^{(1)})
+\pmb a^{(1)}=\sigma(\pmb W^{(1)} \pmb a^{(0)}+ \pmb b^{(1)})
 $$
 This way, we have a vector of output neurons, which is a function of a matrix of weights, multiplied by a vector of inputs and added to a bias vector.
 
