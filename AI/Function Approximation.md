@@ -41,7 +41,9 @@ Now let's break down how we obtain the appropriate coefficients for the **Power 
 $$g_{0}= f(0)$$
 Then, for the first order approximation, the value at the function will be the vertical axis intercept $c$ and the gradient will be the gradient at that point $m$.
 $$g_{1}=f(0) + f'(0)x$$
-Now, for the second order approximation, we must do a quadratic equation:
+Now, for the second order approximation, we must do a quadratic equation, which will hopefully reveal why we assumed the equation for the previous approximations:
 $$y=f(x)=ax^2+bx+c$$
-$$f(x)'=2ax+b$$
+$$f'(x)=2ax+b$$
 $$f''(x)=2a$$
+From this, we can evaluate at our point $(0)$, starting from the biggest derivative, in order to get the coefficients for our approximation:
+$$a = f''(0)
