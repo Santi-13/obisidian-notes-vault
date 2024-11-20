@@ -19,7 +19,7 @@ $$g_{0}(x) = a$$
 $$g_{1}(x) = a + bx$$
 $$g_{2}(x)= a + bx + cx^2$$
 $$g_{3}(x) = a + bx + cx^2 + dx^3$$
-To approximate a function, we must focus on a singular point in the curve, and start building our approximations around it. The zeroth, first, second, and third order approximations for the above graph around point $(0,0)$ is:
+To approximate a function, we must focus on a singular point in the curve, and start building our approximations around it. The zeroth, first, second, and third order approximations for the above graph around point $(0,0)$ would look something like:
 
 ```desmos-graph
 left=-5; right=3;
