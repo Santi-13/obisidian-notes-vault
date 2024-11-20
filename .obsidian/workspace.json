@@ -101,10 +101,14 @@
             "id": "6b337f9760758016",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "AI/Taylor Series and Power Series Derivation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Taylor Series and Power Series Derivation"
             }
           }
         ],
@@ -335,6 +339,7 @@
   },
   "active": "6b337f9760758016",
   "lastOpenFiles": [
+    "AI/Background Maths/Multivariate Chain Rule.md",
     "AI/Taylor Series and Power Series Derivation.md",
     "AI/Neural Networks.md",
     "Computación Cognitiva/Redes Neuronales Artificiales.md",
@@ -344,7 +349,6 @@
     "Excalidraw/3rd Simplest NN.md",
     "Excalidraw/Capas Neuronales.md",
     "Excalidraw/2nd Simplest NN.md",
-    "AI/Background Maths/Multivariate Chain Rule.md",
     "Excalidraw/Simplest Neural NN.md",
     "Canvas.canvas",
     "images/Pasted image 20241115100721.png",
