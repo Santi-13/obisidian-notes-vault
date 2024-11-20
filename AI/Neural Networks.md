@@ -55,7 +55,11 @@ The complexity may scale as the network becomes more complex, which means adding
 
 ![[4th Simplest NN]]$$
 \pmb a^{(1)}=\sigma(\pmb W^{(1)} \cdot \pmb a^{(0)}+ \pmb b^{(1)})
-$$
-$$
+$$$$
 \pmb a^{(2)}=\sigma(\pmb W^{(2)} \cdot \pmb a^{(1)}+ \pmb b^{(2)})
 $$
+$$
+\pmb a^{(L)}=\sigma(\pmb W^{(L)} \cdot \pmb a^{(L-1)}+ \pmb b^{(L)})
+$$
+
+A classic approach to training these kind of neural networks is called ***back-propagation***, as it first looks at the *output* neurons and then it works back *through* the network.
