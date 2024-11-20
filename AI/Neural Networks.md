@@ -64,7 +64,7 @@ $$
 
 A classic approach to training these kind of neural networks is called ***back-propagation***, as it first looks at the **output** neurons and then it works back *through* the network. Initially, we set all weights and biases as a random number, we then calculate the **cost**, or **error**, of the passed data compared to our training data, and make adjustments, trying to minimize this error and finding the right set of weights and bias that best match the model to our training data.
 $$
-C=e=\sum_{i}(a_{i}^{(L)} - y_{i})^2
+C=e=\sum_{i}(\pmb a_{i}^{(L)} - y_{i})^2
 $$
 We can easily see how this ties to calculus, as we intend to minimize the error of the network, so we must find the local or global minimal points of the space representation of our weights and biases.
 
@@ -82,7 +82,7 @@ $$
 \frac{\partial \pmb z^{(L)}}{\partial \pmb b^{(L)}}
 $$
 $\text{Where:}$
-$$C=(\pmb a^{(L)}-y)^2$$
+$$C=\sum_{i}(\pmb a_{i}^{(L)} - y_{i})^2$$
 $$\pmb a^{(L)} = \sigma(\pmb z^{(L)})$$
 $$ \pmb z^{(L)} = \pmb W^{(L)} \pmb a^{(L-1)} + \pmb b^{(L)}$$
 We use the $\pmb z$ term to differentiate the activation function before.
