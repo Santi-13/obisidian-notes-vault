@@ -13,3 +13,8 @@ y=0|dashed|red
 y=3*x^2|dashed
 y=2*(x+0.1)^3|dashed
 ```
+
+The ***Taylor (or Power) Series*** is a way of approximating functions. It is also called power series because it is simply composed of coefficients in front of increasing powers of $x$, so a generalized expression may be:
+$$
+g(x) = a + bx + cx^2 +dx^3 + \dots
+$$
