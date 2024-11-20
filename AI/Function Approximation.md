@@ -29,10 +29,12 @@ y=1*x^4+3.0*x^3+0.5*x^2+0.5*x
 y=0|dashed|red
 y=0.5*x|dashed
 (0,0)|label:(0,0)|black
-y=0.5*x+3*x^2|dashed
-y=2*(x+0.1)^3|dashed
+y=0.5*x+1*x^2|dashed
+y=0.5*x+1*x^2+6x^3|dashed
 ```
 
 This is basically what the ***Taylor Series*** method tells us, that if we know everything about a function at some point (value, its derivative, second derivative, etc.) we can use this information to reconstruct the function **everywhere** else. 
 
 However, this is only true for a certain type of functions which we call *well-behaved* functions, which means a function that is continuous and that you can differentiate as many times as you want.
+
+Now let's break down how we obtain the appropriate coefficients for the **Power Series** approximation, let's start with the zeroth approximation, which just uses the value of 
