@@ -66,3 +66,6 @@ A classic approach to training these kind of neural networks is called ***back-p
 $$
 C=e=\sum_{i}(a_{i}^{(L)} - y_{i})^2
 $$
+We can easily see how this ties to calculus, as we intend to minimize the error of the network, so we must find the local or global minimal points of the space representation of our weights and biases.
+
+To do this, we have to derive our error function with respect to both the weight and bias vecto
