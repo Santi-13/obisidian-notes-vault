@@ -96,9 +96,19 @@
               "icon": "lucide-file",
               "title": "Neural Networks"
             }
+          },
+          {
+            "id": "6b337f9760758016",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -323,12 +333,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7af8dc75827c4755",
+  "active": "6b337f9760758016",
   "lastOpenFiles": [
+    "AI/Taylor Series and Power Series Derivation.md",
+    "AI/Neural Networks.md",
     "Computación Cognitiva/Redes Neuronales Artificiales.md",
     "Computación Cognitiva/Computación Cognitiva.md",
     "Computación Cognitiva/Clasificación.md",
-    "AI/Neural Networks.md",
     "Excalidraw/4th Simplest NN.md",
     "Excalidraw/3rd Simplest NN.md",
     "Excalidraw/Capas Neuronales.md",
@@ -342,7 +353,6 @@
     "Excalidraw/Euclid's GCM Diagram.md",
     "images/Pasted image 20241115094159.png",
     "Robotics & Vision.md",
-    "Untitled.md",
     "images/Pasted image 20241111142348.png",
     "images/Pasted image 20241111142705.png",
     "images/Pasted image 20241111143042.png",
