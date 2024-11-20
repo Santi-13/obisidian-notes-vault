@@ -6,7 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiAppWindow"
+      "LiTowerControl",
+      "LiMathXDivideY2",
+      "LiAirVent",
+      "LiMathFunction",
+      "LiBookX"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -29,5 +33,11 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "AI": "LiAppWindow"
+  "AI": "LiComputer",
+  "Computación Cognitiva": "LiBrain",
+  "Control": "LiTowerControl",
+  "AI/Background Maths": "LiMathIntegralX",
+  "Excalidraw": "LiPencil",
+  "images": "LiImages",
+  "Math": "LiBookX"
 }
