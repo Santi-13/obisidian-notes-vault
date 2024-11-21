@@ -101,18 +101,26 @@
             "id": "6b337f9760758016",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "472e60e2e99df0cf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "AI/Function Approximation.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.7.7"
               },
               "icon": "lucide-file",
-              "title": "Function Approximation"
+              "title": "Release Notes 1.7.7"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -312,12 +320,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3a481d6d0910b2d4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
@@ -337,10 +355,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b337f9760758016",
+  "active": "3a481d6d0910b2d4",
   "lastOpenFiles": [
-    "AI/Neural Networks.md",
     "AI/Function Approximation.md",
+    "AI/Neural Networks.md",
     "AI/Background Maths/Multivariate Chain Rule.md",
     "Computación Cognitiva/Redes Neuronales Artificiales.md",
     "Computación Cognitiva/Computación Cognitiva.md",
