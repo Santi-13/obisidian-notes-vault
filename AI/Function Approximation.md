@@ -66,4 +66,4 @@ $$
 Even though this approximation counts as a ***Taylor Series***, because we are specifically looking at the point $x=0$, we often refer to it as the ***Maclaurin Series***.
 
 
-$1 + (2xe^{x^2})$
+$1 + (2x *1)x +(2x^2 *1)x^2$
