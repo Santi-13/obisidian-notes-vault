@@ -73,3 +73,4 @@ We notice how its derivative its the same as itself, because of the infinitely e
 $$
 \frac{d}{dx}e^x=1+x+\frac{x^2}{2}+\frac{x^3}{6}+\dots = e^x
 $$
+Now the actual ***Taylor Series*** follows the same logic as the ***Maclaurin Series***, but the Taylor Series just says that there is nothing special about the point zero. So if you know anything about **any** point in the function, you can know *everything* about it.
