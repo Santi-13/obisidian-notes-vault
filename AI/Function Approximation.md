@@ -88,4 +88,10 @@ x=1|dashed|red
 The zeroth order approximation is simply:
 $$ g_{1} = f(p) $$
 While the first order will have a gradient and will look like:
-$$ y = mx+c $$
+$$ y = mx+c $$We know the gradient is $f'(p)$, and that we are evaluating at $x=p$, so we must solve for $c$:
+$$f(p)=f'(p)p+c$$
+$$ c = f(p) - f'(p)p $$
+Then our approximation will be:
+$$
+g_{2} = f(p) + 
+$$
