@@ -76,10 +76,16 @@ $$
 Now the actual ***Taylor Series*** follows the same logic as the ***Maclaurin Series***, but the Taylor Series just says that there is nothing special about the point zero. So if you know anything about **any** point in the function, you can know *everything* about it.
 
 Let's analyze it by getting the approximations for the function $y=e^x$ at $x=p$.
+
 ```desmos-graph
 left=-5; right=3;
 top=6; bottom=-2;
 ---
 y=e^x
-x=2|dashed|red
+x=1|dashed|red
+(1,e)|label:p|black
 ```
+The zeroth order approximation is simply:
+$$ g_{1} = f(p) $$
+While the first order will have a gradient and will look like:
+$$ y = mx+c $$
