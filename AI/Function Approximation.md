@@ -59,5 +59,7 @@ g_{2}=f(0)+ f'(0)x + \frac{1}{2} f''(0)x^2 + \frac{1}{6} f^{(3)}(0)x^3
 $$
 This operation has a name, and it is called the ***factorial***, we can now use this to describe a general expression of the **Taylor Series**.
 $$
-g_{n}=\frac{f(0)}{0!}+ \frac{f'(0)x}{1!} + f''(0)x^2
-$$
+g_{n}=\frac{f(0)}{0!}+ \frac{f'(0)x}{1!} + \frac{f''(0)x^2}{2!}+\dots+\frac{f^{(n)}(0)x^n}{n!}
+$$$$
+g(x) = \sum^\infty_{n=0} \frac{1}{n!}f^{(n)}(0)x^n
+$$'
