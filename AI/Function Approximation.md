@@ -57,9 +57,10 @@ We notice a pattern, as the third approximation would have to be derived three t
 $$
 g_{2}=f(0)+ f'(0)x + \frac{1}{2} f''(0)x^2 + \frac{1}{6} f^{(3)}(0)x^3
 $$
-This operation has a name, and it is called the ***factorial***, we can now use this to describe a general expression of the **Taylor Series**.
+This operation has a name, and it is called the ***factorial***, we can now use this to describe a general expression for this approximation.
 $$
 g_{n}=\frac{f(0)}{0!}+ \frac{f'(0)x}{1!} + \frac{f''(0)x^2}{2!}+\dots+\frac{f^{(n)}(0)x^n}{n!}
 $$$$
 g(x) = \sum^\infty_{n=0} \frac{1}{n!}f^{(n)}(0)x^n
-$$'
+$$
+Even though this approximation counts as a ***Taylor Series***, because we are specifically looking at the point $x=0$, we often refer to it as the **Maclauren Series**
