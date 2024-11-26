@@ -98,4 +98,7 @@ $$
 $$
 g_{2}= f'(p) (x-p) + f(p)
 $$
-We notice that the substraction is
+We notice that the subtraction is there to indicate how far away are we from the point $p$. We notice how the pattern is similar to the ***Maclaurin Series***, so we can finally write our short sum notation for the ***Taylor Series***.
+$$
+g(x) = \sum^\infty_{n=0} \frac{1}{n!}f^{(n)}(p)(x-p)^n
+$$
