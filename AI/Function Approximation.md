@@ -49,3 +49,8 @@ From this, we can evaluate at our point $(0)$, starting from the biggest derivat
 $$a = \frac{f''(0)}{2}$$
 $$b=f'(0)$$
 $$c = f(0)$$
+So the second order approximation would be:
+$$
+g_{2}=f(0)+ f'(0)x + \frac{1}{2} f''(0)x^2
+$$
+We notice a pattern, as the third approximation would have to be derived 
