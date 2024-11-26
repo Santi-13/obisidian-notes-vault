@@ -63,4 +63,4 @@ g_{n}=\frac{f(0)}{0!}+ \frac{f'(0)x}{1!} + \frac{f''(0)x^2}{2!}+\dots+\frac{f^{(
 $$$$
 g(x) = \sum^\infty_{n=0} \frac{1}{n!}f^{(n)}(0)x^n
 $$
-Even though this approximation counts as a ***Taylor Series***, because we are specifically looking at the point $x=0$, we often refer to it as the **Maclauren Series**
+Even though this approximation counts as a ***Taylor Series***, because we are specifically looking at the point $x=0$, we often refer to it as the ***Maclaurin Series***.
