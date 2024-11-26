@@ -67,5 +67,9 @@ Even though this approximation counts as a ***Taylor Series***, because we are s
 
 One interesting fact is that we can express $e^x$ as a power series:
 $$
-e^x=1+x+
+e^x=1+x+\frac{x^2}{2}+\frac{x^3}{6}+\dots
+$$
+We notice how its derivative its the same as itself, because of the infinitely extending polynomial.
+$$
+\frac{d}{dx}e^x=1+x+\frac{x^2}{2}+\frac{x^3}{6}+\dots = e^x
 $$
