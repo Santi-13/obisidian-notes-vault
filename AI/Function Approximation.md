@@ -53,4 +53,11 @@ So the second order approximation would be:
 $$
 g_{2}=f(0)+ f'(0)x + \frac{1}{2} f''(0)x^2
 $$
-We notice a pattern, as the third approximation would have to be derived 
+We notice a pattern, as the third approximation would have to be derived three times, basically multiplying $1*2*3$, so:
+$$
+g_{2}=f(0)+ f'(0)x + \frac{1}{2} f''(0)x^2 + \frac{1}{6} f^{(3)}(0)x^3
+$$
+This operation has a name, and it is called the ***factorial***, we can now use this to describe a general expression of the **Taylor Series**.
+$$
+g_{n}=\frac{f(0)}{0!}+ \frac{f'(0)x}{1!} + f''(0)x^2
+$$
