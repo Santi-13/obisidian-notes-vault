@@ -91,7 +91,11 @@ While the first order will have a gradient and will look like:
 $$ y = mx+c $$We know the gradient is $f'(p)$, and that we are evaluating at $x=p$, so we must solve for $c$:
 $$f(p)=f'(p)p+c$$
 $$ c = f(p) - f'(p)p $$
-Then our approximation will be:
+Substituting back into the original equation:
 $$
-g_{2} = f(p) + 
+g_{2} = y= f'(p)x + f(p) - f'(p)p
 $$
+$$
+g_{2}= f'(p) (x-p) + f(p)
+$$
+We notice that the substraction is
