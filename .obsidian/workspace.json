@@ -110,9 +110,23 @@
               "icon": "lucide-file",
               "title": "Function Approximation"
             }
+          },
+          {
+            "id": "31735705a5776ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Purdue Options.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Purdue Options"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -332,12 +346,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "06e62bb5489750bb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -357,10 +381,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b337f9760758016",
+  "active": "31735705a5776ff2",
   "lastOpenFiles": [
-    "AI/Neural Networks.md",
     "AI/Function Approximation.md",
+    "Purdue Options.md",
+    "AI/Neural Networks.md",
     "AI/Background Maths/Multivariate Chain Rule.md",
     "Computación Cognitiva/Redes Neuronales Artificiales.md",
     "Computación Cognitiva/Computación Cognitiva.md",
@@ -396,7 +421,6 @@
     "Computación Cognitiva.md",
     "Untitled 1.md",
     "Math/Prime Sieve.md",
-    "Math/Euclid's Algorithms.md",
     "AI/Background Maths",
     "AI",
     "Excalidraw",

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookOpen",
       "LiTowerControl",
       "LiMathXDivideY2",
       "LiAirVent",
-      "LiMathFunction",
-      "LiBookX"
+      "LiMathFunction"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "AI/Background Maths": "LiMathIntegralX",
   "Excalidraw": "LiPencil",
   "images": "LiImages",
-  "Math": "LiBookX"
+  "Math": "LiBookX",
+  "Purdue Options.md": "LiBookOpen"
 }
