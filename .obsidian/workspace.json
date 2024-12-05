@@ -117,12 +117,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Purdue Options.md",
+                "file": "Purdue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Purdue Options"
+              "title": "Purdue"
             }
           }
         ],
@@ -384,7 +384,7 @@
   "active": "31735705a5776ff2",
   "lastOpenFiles": [
     "AI/Function Approximation.md",
-    "Purdue Options.md",
+    "Purdue.md",
     "AI/Neural Networks.md",
     "AI/Background Maths/Multivariate Chain Rule.md",
     "Computación Cognitiva/Redes Neuronales Artificiales.md",

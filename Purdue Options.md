@@ -1,1 +1,0 @@
-**Technology Ph.D. o r **
