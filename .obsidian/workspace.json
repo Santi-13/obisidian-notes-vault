@@ -356,12 +356,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "de63a305b1094c7e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "horizontal",
@@ -381,7 +391,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31735705a5776ff2",
+  "active": "de63a305b1094c7e",
   "lastOpenFiles": [
     "AI/Function Approximation.md",
     "Purdue.md",
