@@ -9,4 +9,5 @@
 $$
 \int_{-\infty}^{\infty} |x(t)|^2 , dt < \infty
 $$
+$$
 \int_{-\infty}^{\infty} |y(t)|^2 , dt \leq C \int_{-\infty}^{\infty} |x(t)|^2 , dt $$
