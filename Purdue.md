@@ -6,8 +6,3 @@
 	- [Toward a science of cyber–physical system integration](https://ieeexplore.ieee.org/abstract/document/6008519/): Study of passivity on cyber-physical systems to improve heterogeneity of components and interactions focusing on stability.
 	- [Online actuator selection and controller design for linear quadratic regulation with unknown system model](https://ieeexplore.ieee.org/abstract/document/10582506/): Proposal of an algorithm for actuator selection and controller design problems for LQR with an unknown system model.
 
-$$
-\int_{-\infty}^{\infty} |x(t)|^2 , dt < \infty
-$$
-$$
-\int_{-\infty}^{\infty} |y(t)|^2 , dt \leq C \int_{-\infty}^{\infty} |x(t)|^2 , dt $$
