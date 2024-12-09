@@ -117,12 +117,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control/Linear Quadratic Regulator.md",
+                "file": "Purdue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Quadratic Regulator"
+              "title": "Purdue"
             }
           }
         ],
@@ -393,6 +393,7 @@
   },
   "active": "31735705a5776ff2",
   "lastOpenFiles": [
+    "Control/Linear Quadratic Regulator.md",
     "Purdue.md",
     "AI/Function Approximation.md",
     "AI/Neural Networks.md",
@@ -424,7 +425,6 @@
     "Math/From Mathematics to General Programming.md",
     "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md",
     "Control/Fuzzy Control.md",
-    "Control/Linear Quadratic Regulator.md",
     "Control/Pole Placement.md",
     "Control/Model Predictive Control (MPC).md",
     "Clasificación.md",
