@@ -8,4 +8,4 @@
 **Industrial Engineering (IE) -**
 - *Young-Jun Son* -
 	- [Vision-Based Target Detection and Localization via a Team of Cooperative UAV and UGVs](https://ieeexplore.ieee.org/abstract/document/7330001): Motion detection algorithm used in UAVs to detect crowds, collaboration with UGVs for landmarks and individual human detectors.
-	- [AGENT-BASED SIMULATION TUTORIAL - SIMULATION OF EMERGENT BEHAVIOR AND DIFFERENCES BETWEEN AGENT-BASED SIMULATION AND DISCRETE-EVENT SIMULATION](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b6475d52c0919751ac52440cbbf9ce0e105c6016): 
+	- [AGENT-BASED SIMULATION TUTORIAL - SIMULATION OF EMERGENT BEHAVIOR AND DIFFERENCES BETWEEN AGENT-BASED SIMULATION AND DISCRETE-EVENT SIMULATION](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b6475d52c0919751ac52440cbbf9ce0e105c6016): Study of how Agent-Based Simulations can create emergent behavior.
