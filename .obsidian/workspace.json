@@ -366,12 +366,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b39b8de035873791",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -391,7 +401,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31735705a5776ff2",
+  "active": "b39b8de035873791",
   "lastOpenFiles": [
     "Control/Linear Quadratic Regulator.md",
     "Purdue.md",
