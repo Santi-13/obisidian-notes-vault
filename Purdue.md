@@ -15,4 +15,5 @@ Electrical & Computer Engineering (ECEN) -**
 	- [Bayesian modeling of crowd dynamics by aggregating multiresolution observations from UAVs and UGVs](https://ieeexplore.ieee.org/abstract/document/9705636/): Crowd dynamics approach added to the previous design of target detection and localization from UAVs and UGVs tointegrate the multiresolution infromation under a Bayesian inference framework, thus reducing the need of a large volume of historical data.
 	- [Using simulation and artificial intelligence to innovate: are we getting even smarter?](https://ieeexplore.ieee.org/abstract/document/9715402/).
 	- [A dynamic modelling framework for human hand gesture task recognition](https://arxiv.org/abs/1911.03923): Sliding Windows filtering approach to sample data streams from data gloves and a decision tree to recognize gestures helps evaluate performance of manual work on a vegetable seedling propagation facility.
+- *Susan Hunter* -
 	- 
