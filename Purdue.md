@@ -17,3 +17,6 @@ Electrical & Computer Engineering (ECEN) -**
 	- [A dynamic modelling framework for human hand gesture task recognition](https://arxiv.org/abs/1911.03923): Sliding Windows filtering approach to sample data streams from data gloves and a decision tree to recognize gestures helps evaluate performance of manual work on a vegetable seedling propagation facility.
 - *Susan Hunter* -
 	- [Optimal sampling laws for stochastically constrained simulation optimization on finite sets](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.1120.0519): Competition to another algorithm for the System Optimization problem regarding finding the best-value objective and constraints for a finite number of competing systems. This approach utilizes the probability of false detection and best estimates to determine when an algorithm is its best.
+**Logistics Systems Engineering (LGSE) -**
+- *Patrick Brunese* -
+	- [Multiple traveling salesman problem with drones: Mathematical model and heuristic approach](https://www.sciencedirect.com/science/article/pii/S0360835219300245):
