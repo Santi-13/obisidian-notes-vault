@@ -9,4 +9,5 @@
 - *Young-Jun Son* -
 	- [Vision-Based Target Detection and Localization via a Team of Cooperative UAV and UGVs](https://ieeexplore.ieee.org/abstract/document/7330001): Motion detection algorithm used in UAVs to detect crowds, collaboration with UGVs for landmarks and individual human detectors.
 	- [AGENT-BASED SIMULATION TUTORIAL - SIMULATION OF EMERGENT BEHAVIOR AND DIFFERENCES BETWEEN AGENT-BASED SIMULATION AND DISCRETE-EVENT SIMULATION](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b6475d52c0919751ac52440cbbf9ce0e105c6016): Study of how Agent-Based Simulations can create emergent behavior.
-	- [A fuzzy clustering-based genetic algorithm approach for time–cost–quality trade-off problems: A case study of highway construction project](https://www.sciencedirect.com/science/article/pii/S0952197613000936): 
+	- [A fuzzy clustering-based genetic algorithm approach for time–cost–quality trade-off problems: A case study of highway construction project](https://www.sciencedirect.com/science/article/pii/S0952197613000936): Algorithm to mimic the time-cost tradeoff that is often used by contractors when estimating time and budget of a project. Uses a new technique called Fuzzy Clustering-Based Genetic Algorithm to find the optimal Pareto Solutions.
+	- 
