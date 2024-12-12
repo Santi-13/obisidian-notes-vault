@@ -16,4 +16,4 @@ Electrical & Computer Engineering (ECEN) -**
 	- [Using simulation and artificial intelligence to innovate: are we getting even smarter?](https://ieeexplore.ieee.org/abstract/document/9715402/).
 	- [A dynamic modelling framework for human hand gesture task recognition](https://arxiv.org/abs/1911.03923): Sliding Windows filtering approach to sample data streams from data gloves and a decision tree to recognize gestures helps evaluate performance of manual work on a vegetable seedling propagation facility.
 - *Susan Hunter* -
-	- 
+	- [Optimal sampling laws for stochastically constrained simulation optimization on finite sets](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.1120.0519): Competition to another algorithm to 
