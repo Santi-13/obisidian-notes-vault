@@ -8,110 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f493ffa7e5e4b07d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Background Maths/Hessian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hessian"
-            }
-          },
-          {
-            "id": "04a4f8b258b186eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Neural Networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Neural Networks"
-            }
-          },
-          {
-            "id": "86a212d134cbae77",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "912e7a4df7a2f1b9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/2nd Simplest NN.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "2nd Simplest NN"
-            }
-          },
-          {
-            "id": "c4f66d206631c246",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Neural Networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Neural Networks"
-            }
-          },
-          {
-            "id": "aa5c4962ecf32c06",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Capas Neuronales.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Capas Neuronales"
-            }
-          },
-          {
-            "id": "ac46db85a6a656a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Neural Networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Neural Networks"
-            }
-          },
-          {
-            "id": "6b337f9760758016",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Function Approximation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Function Approximation"
-            }
-          },
-          {
             "id": "31735705a5776ff2",
             "type": "leaf",
             "state": {
@@ -125,8 +21,7 @@
               "title": "Purdue"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -386,12 +281,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "df67cf72eb257fcb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "horizontal",
@@ -406,17 +311,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "github-sync:Sync with Remote": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "462e666e58c3b52a",
+  "active": "31735705a5776ff2",
   "lastOpenFiles": [
-    "Control/Linear Quadratic Regulator.md",
-    "Purdue.md",
+    "Robotics & Vision.md",
     "AI/Function Approximation.md",
     "AI/Neural Networks.md",
+    "AI/Background Maths/Hessian.md",
+    "Purdue.md",
+    "Control/Linear Quadratic Regulator.md",
     "AI/Background Maths/Multivariate Chain Rule.md",
     "Computación Cognitiva/Redes Neuronales Artificiales.md",
     "Computación Cognitiva/Computación Cognitiva.md",
@@ -432,11 +339,9 @@
     "AI/Background Maths/Jacobian.md",
     "Excalidraw/Euclid's GCM Diagram.md",
     "images/Pasted image 20241115094159.png",
-    "Robotics & Vision.md",
     "images/Pasted image 20241111142348.png",
     "images/Pasted image 20241111142705.png",
     "images/Pasted image 20241111143042.png",
-    "AI/Background Maths/Hessian.md",
     "images/Pasted image 20241024204812.png",
     "images/Pasted image 20241024201418.png",
     "images/Pasted image 20241024200234.png",
