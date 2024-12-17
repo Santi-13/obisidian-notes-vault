@@ -20,3 +20,4 @@
 **Logistics Systems Engineering (LGSE) -**
 - *Patrick Brunese* -
 	- [Multiple traveling salesman problem with drones: Mathematical model and heuristic approach](https://www.sciencedirect.com/science/article/pii/S0360835219300245): Approach of delivery truck-drone combination using a mixed integer programming (MIP) formulation that minimizes arrival time of drones at depots.
+
