@@ -23,4 +23,9 @@ Essentially what we are doing is that we are saying that, starting from the heig
 $$
 g_{1}(p+\Delta p)=f(p) + f'(p)\Delta p
 $$
-$/text{Where:}$
+$$\text{Where:}$$
+$$\Delta p = x-p $$
+As we have everything in terms of $p$, we may as well change it to a more common and general notation using $x$:
+$$
+g_{1}(p+\Delta p)=f(p) + f'(p)\Delta p
+$$
