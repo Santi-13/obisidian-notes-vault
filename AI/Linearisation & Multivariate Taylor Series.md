@@ -14,8 +14,9 @@ $$
 left=-5; right=2;
 top=3; bottom=-0.5;
 ---
-y=e^x
-y=1.6487+1.6487*(x-0.5)|dashed
+f(x)=e^x
+g(x)=f(0.5)+f'(0.5)*(x-0.5)|dashed
 (1,e)|label:x|black
-(0.5, 1.6487)|label:p|black
+(0.5, f(0.5))|label:p|black
 ```
+Essentially what we are doing is that we are saying that, starting from the height at the point $p$, the value of 
