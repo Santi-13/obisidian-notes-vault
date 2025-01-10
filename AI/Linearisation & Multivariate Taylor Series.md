@@ -15,6 +15,7 @@ left=-5; right=2;
 top=3; bottom=-0.5;
 ---
 y=e^x
+y=1.6487+1.6487*(x-0.5)|dashed
 (1,e)|label:x|black
 (0.5, 1.6487)|label:p|black
 ```
