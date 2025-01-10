@@ -15,5 +15,6 @@ left=-5; right=2;
 top=3; bottom=-0.5;
 ---
 y=e^x
-(1,e)|label:p|black
+(1,e)|label:x|black
+(0.5, 1.6487)|label:p|black
 ```
