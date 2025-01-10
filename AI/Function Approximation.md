@@ -102,3 +102,4 @@ We notice that the subtraction is there to indicate how far away are we from the
 $$
 g(x) = \sum^\infty_{n=0} \frac{1}{n!}f^{(n)}(p)(x-p)^n
 $$
+We can observe how we essentially use the distance from $x$ to $p$, multiplied by the gradient of $p$, essentially being like whem we
