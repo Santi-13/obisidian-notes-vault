@@ -19,4 +19,8 @@ g(x)=f(0.5)+f'(0.5)*(x-0.5)|dashed
 (1,e)|label:x|black
 (0.5, f(0.5))|label:p|black
 ```
-Essentially what we are doing is that we are saying that, starting from the height at the point $p$, the value of 
+Essentially what we are doing is that we are saying that, starting from the height at the point $p$, as you move away from $p$, the corresponding change in height is equal to the *distance* from $p$ times the gradient for the function at $p$. We can then rewrite the equation in terms of $p$, to make this easier to understand.
+$$
+g_{1}(p+\Delta p)=f(p) + f'(p)\Delta p
+$$
+$/text{Where:}$
