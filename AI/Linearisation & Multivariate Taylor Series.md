@@ -43,6 +43,3 @@ $$
 f'(x) =  \frac{f(x+\Delta x) -f(x)}{\Delta x} + O(\Delta x)
 $$
 We see an equation similar to the ***Rise over run*** method, as well as our *error term*, which is in the first order. Simply put, the *forward difference* method is *first-order accurate*.
-$$
- f(4+\Delta x)=\frac{1}{4}-\frac{1}{16}\Delta x
-$$
