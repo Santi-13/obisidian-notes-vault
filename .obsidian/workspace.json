@@ -291,12 +291,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a6eb10c22736f61d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "horizontal",
@@ -316,7 +326,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31735705a5776ff2",
+  "active": "a6eb10c22736f61d",
   "lastOpenFiles": [
     "Robotics & Vision.md",
     "AI/Function Approximation.md",
