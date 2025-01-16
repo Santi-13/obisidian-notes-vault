@@ -40,6 +40,6 @@ In this case, we see that the first order approximation is *second-degree accura
 
 By rearranging the terms of the series to isolate the first order gradient, we can notice something interesting.
 $$
-=  +f'(x)(\Delta x)+O(\Delta x^2)
-f'(x) = f(x+\Delta x) - f(x)*
+f'(x) =  \frac{f(x+\Delta x) -f(x)}{\Delta x} + O(\Delta x)
 $$
+We see an equation similar to the ***Rise over run*** method, as well as our *error term*, which is in the first order. Simply put, the *forward difference* method is *first-order accurate*.
