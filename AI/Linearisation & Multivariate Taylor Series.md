@@ -72,7 +72,7 @@ elements: [
 	{type: functiongraph3d, def: ["f:2.72**(-(e1**2+e0**2))", [-2,2], [-2,2]], att: {strokeColor: orange, strokeOpacity: 0.6 }},
 	{type: functiongraph3d, def: ["f:2.72**(-(e1**2+e0**2) ) * ( 1 - 2*e1*(x-e1)-2*e0*(y-e0) )", [-2,2], [-2,2]], att: {strokeColor: purple, strokeOpacity: 0.6, visible: true }},
 	{type: functiongraph3d, def: [
-	"f:2.72**(-(e1**2+e0**2)) * (1 - 2*e1*(x-e1) - 2*e0*(y-e0) + 0.5 * ​           ( (−2+4*e1**2) (x−a) 2+8ab(x−a)(y−b)+(−2+4b2)(y−b)2))", 
+	"f:2.72**(-(e1**2+e0**2)) * (1 - 2*e1*(x-e1) - 2*e0*(y-e0) + 0.5 * ​           ( (−2+4*e1**2) (x−e1)**2 + 8*e1*e0*(x−e1)*(y−e0) + (−2+4*e0**2)*              (y−e0)**2 ) )", 
 	[-2,2], [-2,2]], att: {strokeColor: red, strokeOpacity: 0.6, visible: true }},
 ]
 ```
