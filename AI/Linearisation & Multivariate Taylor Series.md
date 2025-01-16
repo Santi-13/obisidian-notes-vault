@@ -70,7 +70,7 @@ elements: [
 	{type: slider, def: [[4,4],[6,4],[0,0.01,1]], att: {name: "x"}},
 	{type: functiongraph3d, def: ["f:2.72**(-(x**2+y**2))", [-2,2], [-2,2]], att: {strokeColor: blue, strokeOpacity: 2.0} },
 	{type: functiongraph3d, def: ["f:2.72**(-(e1**2+e0**2))", [-2,2], [-2,2]], att: {strokeColor: orange, strokeOpacity: 0.6 }},
-	{type: functiongraph3d, def: ["f:2.72**(-(e1**2+e0**2))", [-2,2], [-2,2]], att: {strokeColor: orange, strokeOpacity: 0.6 }},
+	{type: functiongraph3d, def: ["f:2.72**(-(e1**2+e0**2))+", [-2,2], [-2,2]], att: {strokeColor: orange, strokeOpacity: 0.6 }},
 ]
 ```
 
@@ -86,7 +86,13 @@ By rearranging the first order term into matrices, we can see similarities with 
 $$
 g_{1}= f(x,y) + 
 \begin{bmatrix}
-
+\partial_{x}f(x,y),\partial_{y} f(x,y)
+\end{bmatrix} \begin{bmatrix}
+\Delta x \\
+\Delta y
 \end{bmatrix}
-(\partial_{x}f(x,y)\Delta x+ \partial_{y} f(x,y) \Delta y)
 $$
+$$
+g_{1} = f(x,y) + J_{f} \Delta \pmb x 
+$$
+Naturally, our second order term would
