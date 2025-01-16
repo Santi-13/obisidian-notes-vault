@@ -78,4 +78,15 @@ The ***Taylor series expansion*** of the function goes as follows, for the zerot
 $$
 g_{0}=f(x,y)
 $$
-The first order approximation includes a gradient in the flat surface, which will depend on the gradient in both the $x
+The first order approximation includes a gradient in the flat surface, which will depend on the gradient in both the $x$ and $y$ axes. 
+$$
+g_{1}= f(x,y) + (\partial_{x}f(x,y)\Delta x+ \partial_{y} f(x,y) \Delta y)
+$$
+By rearranging the first order term into matrices, we can see similarities with a [[Jacobian]].
+$$
+g_{1}= f(x,y) + 
+\begin{bmatrix}
+
+\end{bmatrix}
+(\partial_{x}f(x,y)\Delta x+ \partial_{y} f(x,y) \Delta y)
+$$
