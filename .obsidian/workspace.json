@@ -131,12 +131,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Linearisation & Multivariate Taylor Series.md",
+                "file": "AI/Background Maths/Hessian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linearisation & Multivariate Taylor Series"
+              "title": "Hessian"
             }
           }
         ],
@@ -467,16 +467,16 @@
   },
   "active": "f2bd9655243ed4ab",
   "lastOpenFiles": [
-    "AI/Function Approximation.md",
+    "AI/Background Maths/Jacobian.md",
+    "AI/Background Maths/Hessian.md",
     "AI/Linearisation & Multivariate Taylor Series.md",
+    "AI/Function Approximation.md",
     "Sin título.md",
     "Untitled.md",
     "AI/Neural Networks.md",
     "Computación Cognitiva/Computación Cognitiva.md",
     "Computación Cognitiva/Redes Neuronales Artificiales.md",
-    "AI/Background Maths/Jacobian.md",
     "AI/Background Maths/Multivariate Chain Rule.md",
-    "AI/Background Maths/Hessian.md",
     "Purdue.md",
     "Control/Linear Quadratic Regulator.md",
     "Computación Cognitiva/Clasificación.md",
