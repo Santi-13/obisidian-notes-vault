@@ -66,8 +66,8 @@ keepAspectRatio: true
 elements: [
 	{type: slider, def: [[4,3],[6,3],[0,0.01,1]], att: {name: "y"}},
 	{type: slider, def: [[4,4],[6,4],[0,0.01,1]], att: {name: "x"}},
-	{type: slider, def: [[4,5],[6,5],[0,1,2]], att: {name: "Approximation"}},
-	{type: functiongraph3d, def: ["f:2.72**(-(x**2+y**2))", [-2,2], [-2,2]], att: {strokeColor: blue, strokeOpacity: 1.0} },
-	{type: functiongraph3d, def: ["f:e0", [-2,2], [-2,2]], att: {strokeColor: orange, strokeOpacity: 0.9 }},
+	{type: functiongraph3d, def: ["f:2.72**(-(x**2+y**2))", [-2,2], [-2,2]], att: {strokeColor: blue, strokeOpacity: 2.0} },
+	{type: functiongraph3d, def: ["f:2.72**(-(e1**2+e0**2))", [-2,2], [-2,2]], att: {strokeColor: orange, strokeOpacity: 0.6 }},
+	{type: functiongraph3d, def: ["f:2.72**(-(e1**2+e0**2))", [-2,2], [-2,2]], att: {strokeColor: orange, strokeOpacity: 0.6 }},
 ]
 ```
