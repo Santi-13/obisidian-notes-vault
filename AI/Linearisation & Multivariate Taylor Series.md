@@ -108,6 +108,15 @@ g_{1}= f(x,y) +
 \Delta x \\
 \Delta y
 \end{bmatrix} + \frac{1}{2} \begin{bmatrix}
-
-\end{bmatrix}
+\Delta x, \Delta y
+\end{bmatrix} \begin{bmatrix}
+\partial_{xx} f(x,y), \partial_{xy} f(x,y) \\
+\partial_{xy} f(x,y), \partial_{yy} f(x,y)
+\end{bmatrix} \begin{bmatrix}
+\Delta x \\
+\Delta y
+\end{bmatrix} 
+$$
+$$
+g_{2} = f(x,y) + J_{f}\Delta 
 $$
