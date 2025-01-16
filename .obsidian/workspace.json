@@ -131,12 +131,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Function Approximation.md",
+                "file": "AI/Neural Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Function Approximation"
+              "title": "Neural Networks"
             }
           }
         ],
@@ -467,16 +467,17 @@
   },
   "active": "f2bd9655243ed4ab",
   "lastOpenFiles": [
-    "AI/Linearisation & Multivariate Taylor Series.md",
+    "AI/Background Maths/Newton-Raphson.md",
+    "AI/Background Maths/Function Approximation.md",
+    "AI/Background Maths/Linearisation & Multivariate Taylor Series.md",
+    "AI/Background Maths/Multivariate Chain Rule.md",
+    "AI/Background Maths/Hessian.md",
     "AI/Neural Networks.md",
     "AI/Background Maths/Jacobian.md",
-    "AI/Function Approximation.md",
-    "AI/Background Maths/Hessian.md",
     "Sin título.md",
     "Untitled.md",
     "Computación Cognitiva/Computación Cognitiva.md",
     "Computación Cognitiva/Redes Neuronales Artificiales.md",
-    "AI/Background Maths/Multivariate Chain Rule.md",
     "Purdue.md",
     "Control/Linear Quadratic Regulator.md",
     "Computación Cognitiva/Clasificación.md",
@@ -504,7 +505,6 @@
     "Control/Fuzzy Control.md",
     "Control/Pole Placement.md",
     "Control/Model Predictive Control (MPC).md",
-    "Clasificación.md",
     "AI/Background Maths",
     "AI",
     "Excalidraw",

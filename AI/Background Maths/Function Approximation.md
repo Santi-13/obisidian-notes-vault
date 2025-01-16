@@ -1,5 +1,5 @@
 #MachineLearning 
-#### By: Coursera - Mathematics for Machine Learning 
+#### By: Coursera - Mathematics for Machine Learning Week 4
 ---
 When working with complex functions, computing the whole function for each value is simply not worth it, specially when working between certain values of the graph. For this reason, we use ***function approximation*** to create a simpler polynomial equivalent of a function segment.
 
