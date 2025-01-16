@@ -31,5 +31,6 @@ g_{1}(x+\Delta x)=f(x) + f'(x)\Delta x
 $$
 We can of course change our ***Taylor Series*** notation as well:
 $$
-g(x) = \sum^\infty_{n=0} \frac{1}{n!}f^{(n)}(p)(x-p)^n
+g(x+\Delta x) = \sum^\infty_{n=0} \frac{1}{n!}f^{(n)}\Delta x^n
 $$
+ 
