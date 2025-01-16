@@ -33,4 +33,4 @@ We can of course change our ***Taylor Series*** notation as well:
 $$
 g(x+\Delta x) = \sum^\infty_{n=0} \frac{1}{n!}f^{(n)}\Delta x^n
 $$
- 
+ The process of ***linearisation*** simplifies complex equations to linear approximations, in order to make calculations easier. We note that the terms we ignore of the ***Taylor Series*** when using the first order approximation are powers of $\Delta x$, so we may notice that the linearisation works be
