@@ -50,10 +50,11 @@ f(x+\Delta x,y+\Delta y)=e^{-(x^2+y^2)}
 $$
 ```graph
 bounds: [-10, 10, 10, -10]
-bounds3d: [[-2,2], [-2,2], [0,2]]
+bounds3d: [[-2,2], [-2,2], [0,1.2]]
 axis: false
 keepAspectRatio: true
 elements: [
-	{type: functiongraph3d, def: ["f:2.72**(-(x**2+y**2))", [-5,5], [-5,5]]}
+	{type: functiongraph3d, def: ["f:2.72**(-(x**2+y**2))", [-2,2], [-2,2]]}
 ]
 ```
+We can i
