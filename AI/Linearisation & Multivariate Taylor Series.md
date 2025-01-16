@@ -43,3 +43,14 @@ $$
 f'(x) =  \frac{f(x+\Delta x) -f(x)}{\Delta x} + O(\Delta x)
 $$
 We see an equation similar to the ***Rise over run*** method, as well as our *error term*, which is in the first order. Simply put, the *forward difference* method is *first-order accurate*.
+
+Now let's analyze a ***Multivariate Taylor Series*** case, starting with two dimensions, where a function $f$ is a function of the two variables $x$ and $y$:
+$$
+f(x+\Delta x,y+\Delta y)=e^{-(x^2+y^2)}
+$$
+```graph
+bounds: [Xmin, Ymax, Xmax, Ymin]
+elements: [
+	{type: name, def: []}
+]
+```
