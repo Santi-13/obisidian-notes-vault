@@ -97,5 +97,17 @@ g_{1} = f(x,y) + J_{f} \Delta \pmb x
 $$
 Naturally, our second order term would be the partial derivative of the partial derivatives of the inputs, or in other words, the [[Hessian]].
 $$
-g_{1}= f(x,y) + (\partial_{x}f(x,y)\Delta x+ \partial_{y} f(x,y) \Delta y
+g_{2}= f(x,y) + (\partial_{x}f(x,y)\Delta x+ \partial_{y} f(x,y) \Delta y) +
+\frac{1}{2}(\partial_{xx}f(x,y) \Delta x^2 +2\partial_{xy}f(x,y)\Delta x\Delta y + \partial_{yy} f(x,y) \Delta y^2)
+$$
+$$
+g_{1}= f(x,y) + 
+\begin{bmatrix}
+\partial_{x}f(x,y),\partial_{y} f(x,y)
+\end{bmatrix} \begin{bmatrix}
+\Delta x \\
+\Delta y
+\end{bmatrix} + \frac{1}{2} \begin{bmatrix}
+
+\end{bmatrix}
 $$
