@@ -48,8 +48,12 @@ Now let's analyze a ***Multivariate Taylor Series*** case, starting with two dim
 $$
 f(x+\Delta x,y+\Delta y)=e^{-(x^2+y^2)}
 $$
-```graph3d
+```graph
+bounds: [-10, 10, 10, -10]
+bounds3d: [[-5,5], [-5,5], [-5,5]]
+axis: false
+keepAspectRatio: true
 elements: [ 
-	{type: functiongraph3d, def: ["f:2.71828^(-(x^2))", [-5,5], [-5,5]]}
+	{type: functiongraph3d, def: ["f:2.72^x", [-5,5], [-5,5]]}
 ]
 ```
