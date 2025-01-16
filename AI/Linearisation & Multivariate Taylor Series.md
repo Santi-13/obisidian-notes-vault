@@ -96,3 +96,7 @@ $$
 g_{1} = f(x,y) + J_{f} \Delta \pmb x 
 $$
 Naturally, our second order term would
+
+$$
+( \left. \frac{\partial f}{\partial x} \right|_{(0, 0)} = \left. -2x e^{-(x^2 + y^2)} \right|_{(0, 0)} = 0 )
+$$
