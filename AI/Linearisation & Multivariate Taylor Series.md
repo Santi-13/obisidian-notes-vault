@@ -71,9 +71,6 @@ elements: [
 	{type: functiongraph3d, def: ["f:2.72**(-(x**2+y**2))", [-2,2], [-2,2]], att: {strokeColor: blue, strokeOpacity: 2.0, name: "aaa"} },
 	{type: functiongraph3d, def: ["f:2.72**(-(e1**2+e0**2))", [-2,2], [-2,2]], att: {strokeColor: orange, strokeOpacity: 0.6 }},
 	{type: functiongraph3d, def: ["f:2.72**(-(e1**2+e0**2) ) * ( 1 - 2*e1*(x-e1)-2*e0*(y-e0) )", [-2,2], [-2,2]], att: {strokeColor: purple, strokeOpacity: 0.6, visible: true }},
-	{type: functiongraph3d, def: [
-	"f:2.72**(-(e1**2+e0**2)) * (1 - 2*e1*(x-e1) - 2*e0*(y-e0) + 0.5 * ​           ( (−2+4*e1**2) (x−e1)**2 + 8*e1*e0*(x−e1)*(y−e0) + (−2+4*e0**2)*              (y−e0)**2 ) )", 
-	[-2,2], [-2,2]], att: {strokeColor: red, strokeOpacity: 0.6, visible: true }},
 ]
 ```
 
@@ -98,8 +95,7 @@ $$
 $$
 g_{1} = f(x,y) + J_{f} \Delta \pmb x 
 $$
-Naturally, our second order term would
-
+Naturally, our second order term would be the partial derivative of the partial derivatives of the inputs, or in other words, the [[Hessian]].
 $$
-\left. \frac{\partial f}{\partial x} \right|_{(0, 0)} = 0
+g_{1}= f(x,y) + (\partial_{x}f(x,y)\Delta x+ \partial_{y} f(x,y) \Delta y
 $$
