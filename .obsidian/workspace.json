@@ -430,12 +430,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
+            }
+          },
+          {
+            "id": "caa4416132c574cb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Cola de notas a revisar"
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "horizontal",
@@ -455,7 +465,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5d96037f6846c4a4",
+  "active": "caa4416132c574cb",
   "lastOpenFiles": [
     "AI/Function Approximation.md",
     "AI/Linearisation & Multivariate Taylor Series.md",
