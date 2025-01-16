@@ -118,5 +118,5 @@ g_{1}= f(x,y) +
 \end{bmatrix} 
 $$
 $$
-g_{2} = f(x,y) + J_{f}\Delta 
+g_{2} = f(x,y) + J_{f}\Delta \pmb x +  \frac{1}{2}\Delta \pmb x^t H_{f} \Delta \pmb x
 $$
