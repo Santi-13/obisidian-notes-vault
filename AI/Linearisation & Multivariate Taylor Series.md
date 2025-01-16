@@ -31,7 +31,7 @@ g_{1}(x+\Delta x)=f(x) + f'(x)\Delta x
 $$
 We can of course change our ***Taylor Series*** notation as well:
 $$
-g(x+\Delta x) = \sum^\infty_{n=0} \frac{1}{n!}f^{(n)}\Delta x^n
+g(x+\Delta x) = \sum^\infty_{n=0} \frac{1}{n!}f^{(n)}(x)\Delta x^n
 $$
 The process of ***linearisation*** simplifies complex equations to linear approximations, in order to make calculations easier. We note that the terms we ignore of the ***Taylor Series*** when using the first order approximation are powers of $\Delta x$, so we may notice that the linearisation works best for small spaces around $x$, as a small $\Delta x$ would become even smaller as it is multiplied by itself, so the error of our approximation to the real function would become less. We can quantify the *error* to our equation to see how accurate our approximation is, we normally choose the next ignored term. $$ 
  f(x+\Delta x)= f(x) +f'(x)(\Delta x)+O(\Delta x^2)
@@ -44,5 +44,5 @@ f'(x) =  \frac{f(x+\Delta x) -f(x)}{\Delta x} + O(\Delta x)
 $$
 We see an equation similar to the ***Rise over run*** method, as well as our *error term*, which is in the first order. Simply put, the *forward difference* method is *first-order accurate*.
 $$
- f(4+\Delta x)
+ f(4+\Delta x)=\frac{1}{4}-f'(4)\Delta x
 $$
