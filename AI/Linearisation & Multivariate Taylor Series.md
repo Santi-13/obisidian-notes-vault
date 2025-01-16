@@ -29,3 +29,7 @@ As we have everything in terms of $p$, we may as well change it to a more common
 $$
 g_{1}(x+\Delta x)=f(x) + f'(x)\Delta x
 $$
+We can of course change our ***Taylor Series*** notation as well:
+$$
+g(x) = \sum^\infty_{n=0} \frac{1}{n!}f^{(n)}(p)(x-p)^n
+$$
