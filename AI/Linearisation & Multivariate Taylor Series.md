@@ -64,8 +64,8 @@ bounds3d: [[-2,2], [-2,2], [0,1.2]]
 axis: false
 keepAspectRatio: true
 elements: [
-	{type: slider, def: [[1,3],[5,3],[0,0.01,1]], att: {name: "n"}},
-	{type: functiongraph3d, def: ["f:2.72**(-(x**2+y**2))", [-2,2], [-2,2]], att: {strokeColor: blue} },
-	{type: functiongraph3d, def: ["f:e0", [-2,2], [-2,2]], att: {strokeColor: orange, strokeOpacity: 0.6} },
+	{type: slider, def: [[1,3],[5,3],[0,0.01,1]], att: {name: "x"}},
+		{type: functiongraph3d, def: ["f:2.72**(-(x**2+y**2))", [-2,2], [-2,2]], att: {strokeColor: blue} },
+	{type: functiongraph3d, def: ["f:e0", [-2,2], [-2,2]], att: {strokeColor: orange, strokeOpacity: 0.9 },
 ]
 ```
