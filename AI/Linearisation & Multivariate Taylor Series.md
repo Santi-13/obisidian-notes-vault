@@ -57,7 +57,9 @@ elements: [
 	{type: functiongraph3d, def: ["f:2.72**(-(x**2+y**2))", [-2,2], [-2,2]]}
 ]
 ```
+
 We can intuitively say that our approximations will be similar as they were in one dimension, just that instead of a line or curve, we'll get a *surface*.
+
 ```graph
 bounds: [-10, 10, 10, -10]
 bounds3d: [[-2,2], [-2,2], [0,1.2]]
@@ -71,3 +73,9 @@ elements: [
 	{type: functiongraph3d, def: ["f:2.72**(-(e1**2+e0**2))", [-2,2], [-2,2]], att: {strokeColor: orange, strokeOpacity: 0.6 }},
 ]
 ```
+
+The ***Taylor series expansion*** of the function goes as follows, for the zeroth approximation, it is the orange flat surface with the same height as the function at our expansion point.
+$$
+g_{0}=f(x,y)
+$$
+The first order approximation includes a gradient in the flat surface, which will depend on the gradient in both the $x
