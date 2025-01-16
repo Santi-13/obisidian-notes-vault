@@ -131,12 +131,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Linearisation & Multivariate Taylor Series.md",
+                "file": "AI/Function Approximation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linearisation & Multivariate Taylor Series"
+              "title": "Function Approximation"
             }
           }
         ],
@@ -467,10 +467,10 @@
   },
   "active": "f2bd9655243ed4ab",
   "lastOpenFiles": [
+    "AI/Linearisation & Multivariate Taylor Series.md",
     "AI/Neural Networks.md",
     "AI/Background Maths/Jacobian.md",
     "AI/Function Approximation.md",
-    "AI/Linearisation & Multivariate Taylor Series.md",
     "AI/Background Maths/Hessian.md",
     "Sin título.md",
     "Untitled.md",
