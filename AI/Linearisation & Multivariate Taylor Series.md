@@ -66,11 +66,14 @@ bounds3d: [[-2,2], [-2,2], [0,1.2]]
 axis: false
 keepAspectRatio: true
 elements: [
-	{type: slider, def: [[4,3],[6,3],[0,0.01,1]], att: {name: "y"}},
-	{type: slider, def: [[4,4],[6,4],[0,0.01,1]], att: {name: "x"}},
+	{type: slider, def: [[4,3],[6,3],[0,0.0,1]], att: {name: "y"}},
+	{type: slider, def: [[4,4],[6,4],[0,0.0,1]], att: {name: "x"}},
 	{type: functiongraph3d, def: ["f:2.72**(-(x**2+y**2))", [-2,2], [-2,2]], att: {strokeColor: blue, strokeOpacity: 2.0, name: "aaa"} },
 	{type: functiongraph3d, def: ["f:2.72**(-(e1**2+e0**2))", [-2,2], [-2,2]], att: {strokeColor: orange, strokeOpacity: 0.6 }},
-	{type: functiongraph3d, def: ["f:2.72**(-(e1**2+e0**2)) - (e1*2*2.72)**(-(e1**2+e0**2)) * (x-e1) - (e0*2*2.72)**(-(e1**2+e0**2)) * (y-e0)", [-2,2], [-2,2]], att: {strokeColor: purple, strokeOpacity: 0.6, visible: true }},
+	{type: functiongraph3d, def: ["f:2.72**(-(e1**2+e0**2)) * (1 - 2*e1*(x-e1 - 2*e0*(y-e0)))", [-2,2], [-2,2]], att: {strokeColor: purple, strokeOpacity: 0.6, visible: true }},
+	{type: functiongraph3d, def: [
+	"f:2.72**(-(e1**2+e0**2)) * (1 - 2*e1*(x-e1 - 2*e0*(y-e0)))", 
+	[-2,2], [-2,2]], att: {strokeColor: red, strokeOpacity: 0.6, visible: true }},
 ]
 ```
 
