@@ -57,4 +57,15 @@ elements: [
 	{type: functiongraph3d, def: ["f:2.72**(-(x**2+y**2))", [-2,2], [-2,2]]}
 ]
 ```
-We can i
+We can intuitively say that our approximations will be similar as they were in one dimension, just that instead of a line or curve, we'll get a *surface*.
+```graph
+bounds: [-10, 10, 10, -10]
+bounds3d: [[-2,2], [-2,2], [0,1.2]]
+axis: false
+keepAspectRatio: true
+elements: [
+	{type: slider, def: [[1,3],[5,3],[0,0.01,1]], att: {name: "n"}},
+	{type: functiongraph3d, def: ["f:2.72**(-(x**2+y**2))", [-2,2], [-2,2]]},
+	{type: plane3d, def: [[0,0,0], [0,0,0], [0,0,0]]}
+]
+```
