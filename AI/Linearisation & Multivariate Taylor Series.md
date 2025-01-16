@@ -50,6 +50,6 @@ f(x+\Delta x,y+\Delta y)=e^{-(x^2+y^2)}
 $$
 ```graph3d
 elements: [ 
-	{type: functiongraph3d, def: ["f:e^(-)", [-5,5], [-5,5]]}
+	{type: functiongraph3d, def: ["f:2.71828^(-(x^2))", [-5,5], [-5,5]]}
 ]
 ```
