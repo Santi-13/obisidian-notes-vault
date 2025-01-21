@@ -5,7 +5,8 @@ The ***Newton-Raphson Method*** is an iterative approach to finding a desired so
 $$
 x_{i+1} = x_{i}- \frac{f(x_{i})}{f'(x_{i})}
 $$
-For example, for the function:
+For example, for the function $f(x)=x^3-2x+2$:
+
 ```desmos-graph
 left=-4; right=4;
 top=4; bottom=-4;
@@ -13,4 +14,14 @@ top=4; bottom=-4;
 f(x)=x^3-2x+2
 (1,e)|label:x|black
 ```
-Suppose we want to find the point $y=0$
+
+Suppose we want to find the point $y=0$, we start by analyzing an initial guess $x_i=-2$:
+
+```desmos-graph
+left=-4; right=4;
+top=4; bottom=-4;
+---
+f(x)=x^3-2x+2
+g(x)=3x^2-2 |red
+(-2,f(-2))|label:xi|black
+```
