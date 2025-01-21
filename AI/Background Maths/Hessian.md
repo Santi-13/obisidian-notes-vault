@@ -55,7 +55,7 @@ And then looking at what happens as $\Delta x \to 0$.
 
 ![[Pasted image 20241111142705.png]]
 
-Effectively accepting that we aren't going to calculate every single point in space, just the ones we need. But we do calculate a lot of points for this to be possible, which is again, not practical for high-dimensional scenarios. We can take this logic a step further though and say that, if we have a starting location, and we would like to approximate the [[Jacobian]], we simply calculate the partial derivate around that initial location.
+Effectively accepting that we aren't going to calculate every single point in space, just the ones we need. But we do calculate a lot of points for this to be possible, which is again, not practical for high-dimensional scenarios. We can take this logic a step further though and say that, if we have a starting location, and we would like to approximate the [[Jacobian]], we simply calculate the partial derivative around that initial location.
 
 ![[Pasted image 20241111143042.png]]
 $$
@@ -67,4 +67,19 @@ The size of the step has to be selected with a few things in mind, as if it is t
 ---
 What is the Hessian?
 ?
-An extension of the [[Jacobian]], the Hessian is the second iteration of the partial-derivative process introduced in the Jacobian.
+An extension of the [[Jacobian]], the [[Hessian]] is the second iteration of the partial-derivative process introduced in the Jacobian.
+$$
+f(x,y)=x^2+y^2
+$$
+$$
+J=[2x, 2y]
+$$$$
+H=\begin{bmatrix}
+2 & 0 \\
+0 & 2
+\end{bmatrix}
+$$
+<!--SR:!2025-01-25,4,270-->
+What is the Hessian for?
+?
+The determinant of the [[Hessian]] tells us whether a certain point in a multivariate function is a maximum or minimum. If the determinant of $H$ is positive ($|H|=+$), then the point is either a minimum or maximum, which we can determine by looking at the upper-left value of the **Hessian** matrix (positive is maximum, negative is minimum); Whereas, if $|H|=-$, then the point is a saddle point.

@@ -50,9 +50,9 @@ $$ |J| = r $$
 
 ### Flashcards
 ---
-What is a Jacobian?
+What is a [[Jacobian]]?
 ?
-A jacobian describes the rate of change of each variable in a multivariate function. We can have a Jacobian vector when having a multivariate function, or a Jacobian matrix when we have a vector-valued function. For example:
+A Jacobian describes the rate of change of each variable in a multivariate function. We can have a Jacobian vector when having a multivariate function, or a Jacobian matrix when we have a vector-valued function. For example:
 $$ x(r,\theta)=r\cos (\theta) $$
 $$ y(r,\theta)=r\sin (\theta) $$
 $$
@@ -62,5 +62,5 @@ r\sin(\theta)
 \end{bmatrix}
 $$
 <!--SR:!2025-01-25,4,270-->
-What is the Jacobian useful for?:: The Jacobian of a function can help us find the minimum or maximum of a multivariate function without needing to evaluate the whole function, just its Jacobian on specific points. As the evaluated Jacobian serves as a "direction" towards a critical point.
+What is the [[Jacobian]] useful for?:: The Jacobian of a function can help us find the minimum or maximum of a multivariate function without needing to evaluate the whole function, just its Jacobian on specific points. As the evaluated Jacobian serves as a "direction" towards a critical point.
 <!--SR:!2025-01-25,4,270-->
