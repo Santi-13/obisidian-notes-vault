@@ -53,3 +53,13 @@ att3d:
 
 
 
+$$
+\text{Magnitude} = \sqrt{\left( \frac{\partial f}{\partial x} \right)^2 + \left( \frac{\partial f}{\partial y} \right)^2}
+$$
+$$
+df = \frac{\partial f}{\partial x} \cdot c + \frac{\partial f}{\partial y} \cdot d
+$$
+$$
+df = |\nabla f| \cdot |\hat{r}| \cdot \cos(\theta)
+$$
+
