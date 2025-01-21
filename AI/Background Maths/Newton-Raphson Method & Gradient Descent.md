@@ -48,9 +48,15 @@ $$
 \frac{\partial f}{\partial y}
 \end{bmatrix}
 $$
-Now if we were to move from that point in a certain unit vector direction $\hat{r}$, then we would have:
+Now if we were to move from that point in a certain unit vector direction $\hat{r}$, then we would have a *directional gradient*: ****
 $$
-\nabla af
+df=\nabla f \cdot \hat{r} = \begin{bmatrix}
+\frac{\partial f}{\partial x} \\
+\frac{\partial f}{\partial y}
+\end{bmatrix} \cdot \begin{bmatrix}
+c \\
+d
+\end{bmatrix}
 $$
 
 
