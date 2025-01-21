@@ -7,11 +7,10 @@ x_{i+1} = x_{i}- \frac{f(x_{i})}{f'(x_{i})}
 $$
 For example, for the function:
 ```desmos-graph
-left=-5; right=2;
-top=3; bottom=-0.5;
+left=-4; right=4;
+top=4; bottom=-4;
 ---
-f(x)=x^3
-g(x)=f(0.5)+f'(0.5)*(x-0.5)|dashed
+f(x)=x^3-2x+2
 (1,e)|label:x|black
-(0.5, f(0.5))|label:p|black
 ```
+Suppose we want to find the point $y=0$
