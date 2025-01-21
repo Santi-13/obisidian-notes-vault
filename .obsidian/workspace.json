@@ -297,11 +297,11 @@
   },
   "active": "f2bd9655243ed4ab",
   "lastOpenFiles": [
-    "AI/Background Maths/Hessian.md",
+    "AI/Background Maths/Linearisation & Multivariate Taylor Series.md",
     "AI/Background Maths/Newton-Raphson Method.md",
+    "AI/Background Maths/Hessian.md",
     "AI/Background Maths/Multivariate Chain Rule.md",
     "AI/Neural Networks.md",
-    "AI/Background Maths/Linearisation & Multivariate Taylor Series.md",
     "AI/Background Maths/Function Approximation.md",
     "AI/Background Maths/Jacobian.md",
     "Control/Fuzzy Control.md",
