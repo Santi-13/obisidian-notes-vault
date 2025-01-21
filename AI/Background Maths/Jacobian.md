@@ -48,3 +48,5 @@ $$\det(J) = |J| = r(\cos^2(\theta)+\sin^2(\theta))$$
 $$ |J| = r $$
 ![[Pasted image 20241020150028.png]]
 
+### Flashcards 
+---

@@ -40,15 +40,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-<<<<<<< HEAD
-  "buryDate": "2025-01-16",
-=======
-<<<<<<< HEAD
-  "buryDate": "2025-01-15",
-=======
-  "buryDate": "2025-01-14",
->>>>>>> 5f1011fa2cb80522438bd59458a8356e3f34f9b3
->>>>>>> 80016f87c8f616f5c42ff497afbea7b1226bc127
+  "buryDate": "2025-01-21",
   "buryList": [],
   "historyDeck": null
 }

@@ -129,10 +129,14 @@
             "id": "f2bd9655243ed4ab",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Control/Fuzzy Control.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fuzzy Control"
             }
           }
         ],
@@ -261,177 +265,7 @@
             }
           },
           {
-            "id": "ccd341c03a27c328",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
-            }
-          },
-          {
-            "id": "b0297f44929d019e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
-            }
-          },
-          {
-            "id": "66aa952db10017a3",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
-            }
-          },
-          {
-            "id": "f11f6342fb3cb280",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
-            }
-          },
-          {
-            "id": "096e307c7b0f8125",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
-            }
-          },
-          {
-            "id": "4e87ea344420b6bc",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
-            }
-          },
-          {
-            "id": "beb436617b8a15d8",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
-            }
-          },
-          {
-            "id": "7af8dc75827c4755",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
-            }
-          },
-          {
-            "id": "3a481d6d0910b2d4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
-            }
-          },
-          {
-            "id": "5103338827e14e2e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
-            }
-          },
-          {
-            "id": "06e62bb5489750bb",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
-            }
-          },
-          {
-            "id": "de63a305b1094c7e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
-            }
-          },
-          {
-            "id": "b39b8de035873791",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
-            }
-          },
-          {
-            "id": "462e666e58c3b52a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
-            }
-          },
-          {
-            "id": "8a8311c4bffcf5be",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
-            }
-          },
-          {
-            "id": "f6d5ee26e7874511",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
-            }
-          },
-          {
-            "id": "5d96037f6846c4a4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
-            }
-          },
-          {
-            "id": "caa4416132c574cb",
+            "id": "52dbe20bbc877e97",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -441,7 +275,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -461,15 +295,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2bd9655243ed4ab",
+  "active": "52dbe20bbc877e97",
   "lastOpenFiles": [
+    "AI/Background Maths/Jacobian.md",
+    "AI/Background Maths/Function Approximation.md",
+    "AI/Background Maths/Newton-Raphson Method.md",
     "AI/Background Maths/Hessian.md",
     "AI/Background Maths/Linearisation & Multivariate Taylor Series.md",
-    "AI/Background Maths/Newton-Raphson Method.md",
     "AI/Neural Networks.md",
-    "AI/Background Maths/Function Approximation.md",
     "AI/Background Maths/Multivariate Chain Rule.md",
-    "AI/Background Maths/Jacobian.md",
     "Sin título.md",
     "Untitled.md",
     "Computación Cognitiva/Computación Cognitiva.md",
