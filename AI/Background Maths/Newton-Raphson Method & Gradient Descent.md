@@ -40,8 +40,8 @@ We find, however, that this method is not infallible as a number of things can g
 
 
 ```graph
-bounds: [-4, 60, 4, -60]
-bounds3d: [[-4,4], [-4,4], [0,1.2]]
+bounds: [-4, 4, 4, -4]
+bounds3d: [[-4,4], [-4,4], [-60,60]]
 axis: false
 keepAspectRatio: false
 elements: [
