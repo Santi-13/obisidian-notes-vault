@@ -40,18 +40,18 @@ We find, however, that this method is not infallible as a number of things can g
 
 The ***Gradient Vector*** is another name for the ***[[Jacobian]] vector***, which always points towards the steepest ascent of the point it is evaluated at.
 
-```graph
-bounds: [-10, 10, 10, -10]
-bounds3d: [[-2,2], [-2,2], [-5,5]]
-axis: false
-keepAspectRatio: true
-elements: [
-	{type: functiongraph3d, def: ["f:x**2 * y", [-2,2], [-2,2]]}
-]
-att3d:
-   keepAspectRatio: true
-```
+![[Pasted image 20250121123535.png]]
 
+$$
+\nabla f = J^T= \begin{bmatrix}
+\frac{\partial f}{\partial x} \\
+\frac{\partial f}{\partial y}
+\end{bmatrix}
+$$
+Now if we were to move from that point in a certain unit vector direction $\hat{r}$, then we would have:
+$$
+\nabla af
+$$
 
 
 $$
