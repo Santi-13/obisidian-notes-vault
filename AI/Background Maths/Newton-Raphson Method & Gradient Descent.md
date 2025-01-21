@@ -48,7 +48,7 @@ $$
 \frac{\partial f}{\partial y}
 \end{bmatrix}
 $$
-Now if we were to move from that point in a certain unit vector direction $\hat{r}$, then we would have a *directional gradient*: ****
+Now if we were to move from that point in a certain unit vector direction $\hat{r}$, then we would have a *directional gradient*: 
 $$
 df=\nabla f \cdot \hat{r} = \begin{bmatrix}
 \frac{\partial f}{\partial x} \\
@@ -58,7 +58,7 @@ c \\
 d
 \end{bmatrix}
 $$
-
+To find the optimal direction to move or, 
 
 $$
 \text{Magnitude} = \sqrt{\left( \frac{\partial f}{\partial x} \right)^2 + \left( \frac{\partial f}{\partial y} \right)^2}
