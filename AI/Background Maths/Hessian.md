@@ -62,3 +62,9 @@ $$
 J = [\frac{f(x+\Delta x,y)-f(x,y)}{\Delta x},\frac{f(x,y+\Delta y)-f(x,y)}{\Delta y}]
 $$
 The size of the step has to be selected with a few things in mind, as if it is too big, then the approximation would be bad, but if it is too small, as computers have a finite number of significant figures, the change could be considered null. For noisy scenarios, one approach is to calculate the gradient using multiple step sizes and getting the average.
+
+### Flashcards
+---
+What is the Hessian?
+?
+An extension of the [[Jacobian]], the Hessian is the second iteration of the partial-derivative process introduced in the Jacobian.
