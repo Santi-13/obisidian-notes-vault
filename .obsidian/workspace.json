@@ -131,12 +131,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Background Maths/Function Approximation.md",
+                "file": "AI/Background Maths/Newton-Raphson Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Function Approximation"
+              "title": "Newton-Raphson Method"
             }
           }
         ],
@@ -297,18 +297,18 @@
   },
   "active": "f2bd9655243ed4ab",
   "lastOpenFiles": [
+    "AI/Background Maths/Multivariate Chain Rule.md",
+    "AI/Neural Networks.md",
+    "AI/Background Maths/Linearisation & Multivariate Taylor Series.md",
+    "AI/Background Maths/Function Approximation.md",
     "AI/Background Maths/Hessian.md",
     "AI/Background Maths/Jacobian.md",
-    "AI/Background Maths/Function Approximation.md",
     "Control/Fuzzy Control.md",
-    "AI/Background Maths/Linearisation & Multivariate Taylor Series.md",
-    "AI/Background Maths/Multivariate Chain Rule.md",
     "AI/Background Maths/Newton-Raphson Method.md",
     "Computación Cognitiva/Clasificación.md",
     "Control/Pole Placement.md",
     "Control/Model Predictive Control (MPC).md",
     "Control/Linear Quadratic Regulator.md",
-    "AI/Neural Networks.md",
     "Sin título.md",
     "Untitled.md",
     "Computación Cognitiva/Computación Cognitiva.md",
