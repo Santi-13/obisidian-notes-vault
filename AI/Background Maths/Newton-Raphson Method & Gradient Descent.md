@@ -63,6 +63,9 @@ To find the optimal direction to move in, we need to optimize the best values fo
 $$
 df =|\nabla f| \cdot |\hat{r}| \cdot \cos(\theta)
 $$
+The maximum value of the $cos$ is $1$ (when $\hat{r}$ is aligned with $\nabla f$), and $\hat{r}$ is a unit vector so its magnitude is also $1$; From this, we observe that the maximum value of the directional gradient is equal to the magnitude of the ***Gradient Vector*** or ***[[Jacobian]]***.
+
+
 $$
 \text{Magnitude} = \sqrt{\left( \frac{\partial f}{\partial x} \right)^2 + \left( \frac{\partial f}{\partial y} \right)^2}
 $$
