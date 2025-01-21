@@ -22,6 +22,6 @@ left=-4; right=4;
 top=4; bottom=-4;
 ---
 f(x)=x^3-2x+2
-g(x)=3x^2-2 |red
+g(x)=3x^2-2 |red|dashed
 (-2,f(-2))|label:xi|black
 ```
