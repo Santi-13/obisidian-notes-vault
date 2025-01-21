@@ -40,11 +40,11 @@ We find, however, that this method is not infallible as a number of things can g
 
 
 ```graph
-bounds: [-4, 4, 4, -4]
+bounds: [-10, 10, 10, -10]
 bounds3d: [[-4,4], [-4,4], [-60,60]]
 axis: false
 keepAspectRatio: false
 elements: [
-	{type: functiongraph3d, def: ["f:x**2 * y", [-2,2], [-2,2]]}
+	{type: functiongraph3d, def: ["f:x**2 * y", [-4,4], [-2,2]]}
 ]
 ```
