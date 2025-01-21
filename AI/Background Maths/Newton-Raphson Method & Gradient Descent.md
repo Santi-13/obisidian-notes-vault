@@ -50,6 +50,10 @@ elements: [
 ```
 
 ```graph3d
-bounds3d: [[-8,8], [-5,5], [-5,5]]
-elements: []
+att3d: 
+   xPlaneFront: {visible: true, fillColor: red}
+   trackball: {enabled: true}
+
 ```
+
+
