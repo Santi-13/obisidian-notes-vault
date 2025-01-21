@@ -102,3 +102,7 @@ We notice that the subtraction is there to indicate how far away are we from the
 $$
 g(x) = \sum^\infty_{n=0} \frac{1}{n!}f^{(n)}(p)(x-p)^n
 $$
+
+### Flashcards
+---
+What is the difference between the ***Taylor*** & ***Maclaurin Series***?:: The Maclaurin series says that if we know everything there is to know about a function at its origin, then we can know everything about the whole function. 
