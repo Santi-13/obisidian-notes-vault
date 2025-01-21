@@ -58,7 +58,8 @@ c \\
 d
 \end{bmatrix}
 $$
-To find the optimal direction to move or, 
+To find the optimal direction to move in, we need to optimize the best values for $\hat{r}$. For that, let us remember that the dot product of two vectors is the projection of the first unto the second. Defined as:
+
 
 $$
 \text{Magnitude} = \sqrt{\left( \frac{\partial f}{\partial x} \right)^2 + \left( \frac{\partial f}{\partial y} \right)^2}

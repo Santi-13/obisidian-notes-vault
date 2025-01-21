@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Newton-Raphson Method & Gradient Descent"
             }
+          },
+          {
+            "id": "a4296617229fed2f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-21 12.45.18.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-21 12.45.18.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,14 +200,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "29e9b89645ab98ae",
+  "active": "bce4445dcac5e7f0",
   "lastOpenFiles": [
-    "images/Pasted image 20250121123535.png",
+    "Sin título.md",
     "AI/Background Maths/Newton-Raphson Method & Gradient Descent.md",
+    "Excalidraw/Drawing 2025-01-21 12.45.18.excalidraw.md",
+    "images/Pasted image 20250121123535.png",
     "AI/Background Maths/Jacobian.md",
     "AI/Background Maths/Linearisation & Multivariate Taylor Series.md",
     "AI/Background Maths/Function Approximation.md",
-    "Sin título.md",
     "AI/Background Maths/Hessian.md",
     "AI/Background Maths/Multivariate Chain Rule.md",
     "AI/Neural Networks.md",
