@@ -35,3 +35,5 @@ g(x)=3x^2-2 |red|dashed
 |  1  | -1.8        | -0.23        | 7.7                                        |
 |  2  | -1.77       | -0.005       | 7.4                                        |
 |  3  | -1.769      | -2.3E-6      |                                            |
+
+We find, however, that this method is not infallible as a number of things can go wrong. For starters, if the desired solution is near an inflection point, the derivative will be very low, thus the movement from our initial guess will shoot 
