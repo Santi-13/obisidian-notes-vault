@@ -179,7 +179,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -192,7 +192,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -273,13 +274,23 @@
               "icon": "SpacedRepIcon",
               "title": "Cola de notas a revisar"
             }
+          },
+          {
+            "id": "d185b37eaefcd80d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -292,7 +303,8 @@
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-spaced-repetition:Revisar Tarjetas": false,
       "github-sync:Sync with Remote": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "f2bd9655243ed4ab",
