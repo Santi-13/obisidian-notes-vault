@@ -58,9 +58,11 @@ c \\
 d
 \end{bmatrix}
 $$
-To find the optimal direction to move in, we need to optimize the best values for $\hat{r}$. For that, let us remember that the dot product of two vectors is the projection of the first unto the second. Defined as:
-
-
+To find the optimal direction to move in, we need to optimize the best values for $\hat{r}$. For that, let us remember that the dot product of two vectors is the projection of the first unto the second. Which can be expressed in terms of an angle $\theta$:
+![[Dot Product]]
+$$
+df =|\nabla f| \cdot |\hat{r}| \cdot \cos(\theta)
+$$
 $$
 \text{Magnitude} = \sqrt{\left( \frac{\partial f}{\partial x} \right)^2 + \left( \frac{\partial f}{\partial y} \right)^2}
 $$
