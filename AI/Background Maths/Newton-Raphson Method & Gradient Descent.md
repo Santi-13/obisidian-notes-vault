@@ -51,11 +51,5 @@ att3d:
    keepAspectRatio: true
 ```
 
-```graph3d
-att3d: 
-   xPlaneFront: {visible: true, fillColor: red}
-   trackball: {enabled: true}
-
-```
 
 
