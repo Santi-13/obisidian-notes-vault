@@ -50,4 +50,4 @@ $$ |J| = r $$
 
 ### Flashcards 
 ---
-What is a Jacobian?::
+What is a Jacobian?:: A jacobian describes the rate of change of each variable in a multivariate function. We can have a Jacobian vector when 
