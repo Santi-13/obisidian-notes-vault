@@ -131,12 +131,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control/Fuzzy Control.md",
+                "file": "AI/Background Maths/Jacobian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fuzzy Control"
+              "title": "Jacobian"
             }
           }
         ],
@@ -297,8 +297,9 @@
   },
   "active": "f2bd9655243ed4ab",
   "lastOpenFiles": [
-    "AI/Background Maths/Function Approximation.md",
     "AI/Background Maths/Hessian.md",
+    "AI/Background Maths/Function Approximation.md",
+    "Control/Fuzzy Control.md",
     "AI/Background Maths/Jacobian.md",
     "AI/Background Maths/Linearisation & Multivariate Taylor Series.md",
     "AI/Background Maths/Multivariate Chain Rule.md",
@@ -307,7 +308,6 @@
     "Control/Pole Placement.md",
     "Control/Model Predictive Control (MPC).md",
     "Control/Linear Quadratic Regulator.md",
-    "Control/Fuzzy Control.md",
     "AI/Neural Networks.md",
     "Sin título.md",
     "Untitled.md",

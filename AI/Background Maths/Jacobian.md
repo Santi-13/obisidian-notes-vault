@@ -50,3 +50,4 @@ $$ |J| = r $$
 
 ### Flashcards 
 ---
+What is a Jacobian?::
