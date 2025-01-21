@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Background Maths/Newton-Raphson Method.md",
+                "file": "AI/Background Maths/Newton-Raphson Method & Gradient Descent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Newton-Raphson Method"
+              "title": "Newton-Raphson Method & Gradient Descent"
             }
           }
         ]
@@ -190,7 +190,7 @@
   "active": "29e9b89645ab98ae",
   "lastOpenFiles": [
     "Sin título.md",
-    "AI/Background Maths/Newton-Raphson Method.md",
+    "AI/Background Maths/Newton-Raphson Method & Gradient Descent.md",
     "AI/Background Maths/Linearisation & Multivariate Taylor Series.md",
     "AI/Background Maths/Hessian.md",
     "AI/Background Maths/Multivariate Chain Rule.md",
