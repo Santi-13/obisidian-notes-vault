@@ -131,12 +131,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control/Fuzzy Control.md",
+                "file": "Control/Linear Quadratic Regulator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fuzzy Control"
+              "title": "Linear Quadratic Regulator"
             }
           }
         ],
@@ -295,8 +295,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52dbe20bbc877e97",
+  "active": "f2bd9655243ed4ab",
   "lastOpenFiles": [
+    "Control/Fuzzy Control.md",
     "AI/Background Maths/Jacobian.md",
     "AI/Background Maths/Function Approximation.md",
     "AI/Background Maths/Newton-Raphson Method.md",
@@ -332,7 +333,6 @@
     "Computación Cognitiva",
     "Math/From Mathematics to General Programming.md",
     "Excalidraw/Drawing 2024-10-09 09.49.39.excalidraw.md",
-    "Control/Fuzzy Control.md",
     "Control/Pole Placement.md",
     "Control/Model Predictive Control (MPC).md",
     "AI/Background Maths",
