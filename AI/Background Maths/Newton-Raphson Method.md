@@ -6,6 +6,9 @@ $$
 x_{i+1} = x_{i}- \frac{f(x_{i})}{f'(x_{i})}
 $$
 For example, for the function $f(x)=x^3-2x+2$:
+$$
+f'(x_{i})=3x^2-2
+$$
 
 ```desmos-graph
 left=-4; right=4;
@@ -25,3 +28,5 @@ f(x)=x^3-2x+2
 g(x)=3x^2-2 |red|dashed
 (-2,f(-2))|label:xi|black
 ```
+
+| i | x_u
