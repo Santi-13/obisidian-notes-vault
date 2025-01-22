@@ -28,6 +28,8 @@ This equation, along with $g(x) = 0$ is enough to specify the system fully. We c
 $$
 \nabla \mathcal{L}(x,y,\lambda) = \begin{bmatrix}
 \frac{\partial f}{\partial x} - \lambda \frac{\partial g}{\partial x} \\
-\frac{\partial f}{\partial y} - \lambda \frac{\partial g}{\partial y}
-\end{bmatrix}
+\frac{\partial f}{\partial y} - \lambda \frac{\partial g}{\partial y} \\
+-g(x)
+\end{bmatrix} = 0
 $$
+Now we have to find the zeros of this 3D vector equation, which may seem more complicated, but we have access to tools to make this easier, such as the previously discussed ***[[Newton-Raphson Method & Gradient Descent|Newton-Raphson Method]]*** or by using existing libraries. To solv

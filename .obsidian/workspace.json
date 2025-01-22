@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lagrange Multipliers.md",
+                "file": "AI/Background Maths/Lagrange Multipliers.md",
                 "mode": "source",
                 "source": false
               },
@@ -216,12 +216,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d40a3e696b8ce615",
+  "active": "bce4445dcac5e7f0",
   "lastOpenFiles": [
+    "Newton-Raphson Method.md",
+    "AI/Background Maths/Lagrange Multipliers.md",
     "Pasted image 20250122112039.png",
     "Pasted image 20250122112011.png",
     "AI/Background Maths/Newton-Raphson Method & Gradient Descent.md",
-    "Lagrange Multipliers.md",
     "AI/Background Maths/Hessian.md",
     "Robotics & Vision.md",
     "images/Pasted image 20250121125945.png",
@@ -254,7 +255,6 @@
     "images/Pasted image 20241111142348.png",
     "images/Pasted image 20241111142705.png",
     "images/Pasted image 20241111143042.png",
-    "images/Pasted image 20241024204812.png",
     "Computación Cognitiva",
     "AI/Background Maths",
     "AI",
