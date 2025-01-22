@@ -39,14 +39,12 @@
             "id": "d40a3e696b8ce615",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "AI/Background Maths/Linear Regression.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20250122112011.png"
               },
-              "icon": "lucide-file",
-              "title": "Linear Regression"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250122112011"
             }
           }
         ],
@@ -216,15 +214,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d40a3e696b8ce615",
+  "active": "bce4445dcac5e7f0",
   "lastOpenFiles": [
+    "Pasted image 20241024210740.png",
+    "images/Pasted image 20250122112039.png",
+    "images/Pasted image 20250122112011.png",
+    "AI/Background Maths/Linear Regression.md",
     "AI/Background Maths/Linearisation & Multivariate Taylor Series.md",
     "AI/Background Maths/Newton-Raphson Method & Gradient Descent.md",
-    "AI/Background Maths/Linear Regression.md",
     "AI/Background Maths/Lagrange Multipliers.md",
     "Newton-Raphson Method.md",
-    "Pasted image 20250122112039.png",
-    "Pasted image 20250122112011.png",
     "AI/Background Maths/Hessian.md",
     "Robotics & Vision.md",
     "images/Pasted image 20250121125945.png",
@@ -247,10 +246,8 @@
     "Excalidraw/3rd Simplest NN.md",
     "Excalidraw/Capas Neuronales.md",
     "Excalidraw/2nd Simplest NN.md",
-    "Excalidraw/Simplest Neural NN.md",
     "Canvas.canvas",
     "images/Pasted image 20241115100721.png",
-    "Pasted image 20241024210740.png",
     "images/Pasted image 20241115094159.png",
     "images/Pasted image 20241111142348.png",
     "images/Pasted image 20241111142705.png",
