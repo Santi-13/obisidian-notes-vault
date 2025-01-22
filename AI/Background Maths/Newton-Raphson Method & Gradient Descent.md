@@ -72,3 +72,8 @@ S_{n+1} = S_{n} - \gamma \nabla f(S_{n})
 $$
 
 ![[Pasted image 20250121125945.png]]
+
+### Flashcards
+---
+What is the ***Newton-Raphson Method***?:: The ***Newton-Raphson Method*** is an iterative approach to finding the roots of an equation without having to calculate every possible value.
+<!--SR:!2025-01-26,4,270-->
