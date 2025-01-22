@@ -66,7 +66,6 @@ $$
 The maximum value of the $cos$ is $1$ (when $\hat{r}$ is aligned with $\nabla f$), and $\hat{r}$ is a unit vector so its magnitude is also $1$; From this, we observe that the maximum value of the directional gradient is equal to the magnitude of the ***Gradient Vector*** or ***[[Jacobian]]***.
 
 We connect this with the ***Newton-Raphson Method*** as it is basically what we call the ***Gradient Descent Method***, in which we take little steps towards a minimum.
-
 $$
 S_{n+1} = S_{n} - \gamma \nabla f(S_{n})
 $$

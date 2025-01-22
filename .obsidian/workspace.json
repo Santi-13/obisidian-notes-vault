@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Background Maths/Linear Regression.md",
+                "file": "AI/Background Maths/Newton-Raphson Method & Gradient Descent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Regression"
+              "title": "Newton-Raphson Method & Gradient Descent"
             }
           }
         ],
@@ -205,10 +205,10 @@
   "active": "a4296617229fed2f",
   "lastOpenFiles": [
     "AI/Background Maths/Newton-Raphson Method & Gradient Descent.md",
+    "AI/Background Maths/Linear Regression.md",
     "images/Pasted image 20250122112011.png",
     "Pasted image 20241024210740.png",
     "images/Pasted image 20250122112039.png",
-    "AI/Background Maths/Linear Regression.md",
     "AI/Background Maths/Linearisation & Multivariate Taylor Series.md",
     "AI/Background Maths/Lagrange Multipliers.md",
     "Newton-Raphson Method.md",
