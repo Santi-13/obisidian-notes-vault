@@ -24,4 +24,10 @@ $$
 \frac{\partial g}{\partial y}
 \end{bmatrix}
 $$
-This equation, along with $g
+This equation, along with $g(x) = 0$ is enough to specify the system fully. We can put it all in a single vector equation $\nabla \mathcal{L}(x,y,\lambda)$:
+$$
+\nabla \mathcal{L}(x,y,\lambda) = \begin{bmatrix}
+\frac{\partial f}{\partial x} - \lambda \frac{\partial g}{\partial x} \\
+\frac{\partial f}{\partial y} - \lambda \frac{\partial g}{\partial y}
+\end{bmatrix}
+$$
