@@ -42,5 +42,9 @@ $$
 $$
 Plotting on $f(x,y)$:
 $$
-f(x,y) \to 
+f(x,y) \to \frac{2a^3}{3\sqrt{ 3 }}, 
+-\frac{2a^3}{3\sqrt{ 3 }},
+ \frac{2a^3}{3\sqrt{ 3 }},
+ -\frac{2a^3}{3\sqrt{ 3 }}
 $$
+We then notice how the solutions with a positive $y$ value are the maximums, and the negative ones are the minimums.
