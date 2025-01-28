@@ -33,3 +33,14 @@ $$
 $$
 3. \text{ } x^2+y^2=a^2 \implies 3y=a^2 \implies y= \pm \frac{a}{\sqrt{ 3 }}
 $$
+$$
+\text{Solutions } 
+\frac{a}{\sqrt{ 3 }} \begin{bmatrix} \sqrt{ 2 } \\ 1 \end{bmatrix},
+\frac{a}{\sqrt{ 3 }} \begin{bmatrix} \sqrt{ 2 } \\ -1 \end{bmatrix},
+\frac{a}{\sqrt{ 3 }} \begin{bmatrix} -\sqrt{ 2 } \\ 1 \end{bmatrix},
+\frac{a}{\sqrt{ 3 }} \begin{bmatrix} -\sqrt{ 2 } \\ -1 \end{bmatrix},
+$$
+Plotting on $f(x,y)$:
+$$
+f(x,y) \to 
+$$
