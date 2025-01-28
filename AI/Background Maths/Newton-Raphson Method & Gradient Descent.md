@@ -75,5 +75,5 @@ $$
 ### Flashcards
 ---
 What is the ***Newton-Raphson Method***?:: The ***Newton-Raphson Method*** is an iterative approach to finding the roots of an equation without having to calculate every possible value.
-<!--SR:!2025-01-26,4,270-->
+<!--SR:!2025-02-07,10,270-->
 
