@@ -23,4 +23,13 @@ x^2
 2y
 \end{bmatrix}
 $$
-Along with the *constraint equation*, we have three equations for three unkno
+Along with the *constraint equation*, we have three equations for three unknown variables. So we solve:
+$$
+1.\text{ } 2xy = \lambda 2x \implies y = \lambda
+$$
+$$
+2. \text{ } x^2=\lambda 2y\implies x=\pm \sqrt{ 2 } y
+$$
+$$
+3. \text{ } x^2+y^2=a^2 \implies 3y=a^2 \implies y= \pm \frac{a}{\sqrt{ 3 }}
+$$
