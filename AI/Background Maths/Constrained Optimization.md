@@ -10,4 +10,17 @@ A french mathematician named **Lagrange** noticed that when the **contours** jus
 So we want to maximize the function $f(x,y) = x^2y$ subject to some constraint equation $g(x,y)=x^2+y^2=a^2$.
 
 ![[Pasted image 20250128111456.png]]
-So we want to solve for any case in which $\nabla g$ is perpendicular to $\nabla f$, 
+So we want to solve for any case in which $\nabla g$ is perpendicular to $\nabla f$. So we need to solve for $\nabla f=\lambda \nabla g$, where $\lambda$ is called the **Lagrange multiplier**.
+$$
+\nabla f=\lambda\nabla g
+$$
+$$
+\begin{bmatrix}
+2xy \\
+x^2
+\end{bmatrix} = \lambda \begin{bmatrix}
+2x \\
+2y
+\end{bmatrix}
+$$
+Along with the *constraint equation*, we have three equations for three unkno
