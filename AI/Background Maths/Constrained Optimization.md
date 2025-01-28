@@ -7,4 +7,7 @@
 
 A french mathematician named **Lagrange** noticed that when the **contours** just *touch* the *path*, then you'll have found the *maximum* or *minimum* point. He also noticed that when the contour touches the *path*, the vector perpendicular to the **contour** is in the same direction as the vector of the *path* itself. So we want to find the grad that is perpendicular to both the *path* and the *function*.
 
-So we want to maximize the function $f(x,y) = x^2y$ subject to some constraint equation $g(x,y)=x^2+y^2=a^2$
+So we want to maximize the function $f(x,y) = x^2y$ subject to some constraint equation $g(x,y)=x^2+y^2=a^2$.
+
+![[Pasted image 20250128111456.png]]
+So we want to solve for any case in which $\nabla g$ is perpendicular to $\nabla f$, 
