@@ -7,7 +7,10 @@ When given an amount of data to be fitted, we may propose a model based on some 
 
 ![[Pasted image 20250129122906.png]]
 
-We can model the straight line as a function of the $i$ observations $x_i$ and a vector of the **fitting parameters**.
+We can model the straight line as a function of the $i$ observations $x_i$ and a vector of the **fitting parameters**, in this case, these are $m$ and $c$.
 $$
-
+y = y(x;a_{i})=mx_{i}+c
+$$
+$$
+a = \begin{bmatrix} m \\ c \end{bmatrix}
 $$
