@@ -23,7 +23,7 @@ $$
 $$
 To find the optimal values for my **fitting parameters**, I can take a measure of the overall *quality* of the fit by a quantity named **chi squared** ($\chi^2$), which is the sum of the squares of the **residuals**:
 $$
-\chi^2 = \sum_{i} r_{i}^2 = \sum_{i} (y_{i} - mx_{i}-c)
+\chi^2 = \sum_{i} r_{i}^2 = \sum_{i} (y_{i} - mx_{i}-c)^2
 $$
 We square it so we can equally penalize data points which are *above* or *below* the fit's line.
 
@@ -36,6 +36,7 @@ $$
 0 \\
 0
 \end{bmatrix} = \begin{bmatrix}
--2
+-2\sum_{i}x_{i}(y_{i} - mx_{i}-c) \\
+-2\sum_{i}(y_{i} - mx_{i}-c)
 \end{bmatrix}
 $$
