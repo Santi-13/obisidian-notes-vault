@@ -14,4 +14,10 @@ $$
 $$
 a = \begin{bmatrix} m \\ c \end{bmatrix}
 $$
-As you can see, we can get a lot of information from this model, such as the **residuals** $r_i$, the **center of mass** $\bar{x}, \bar{y}$,  
+As you can see, we can get a lot of information from this model, such as the **residuals** $r_i$ orthe **center of mass** or mean $\bar{x}$ & $\bar{y}$:
+$$
+r_{i} = y_{i} - mx_{i}-c
+$$
+$$
+\bar{x}=\frac{ \sum_{i=0}^{k} x_{i}  }{ k} %
+$$
