@@ -40,3 +40,11 @@ $$
 -2\sum_{i}(y_{i} - mx_{i}-c)
 \end{bmatrix}
 $$
+Then by simply analyzing the rows, we can calculate the ***fitting parameters*** as:
+$$
+c = \bar{y}-m \bar{x}
+$$
+$$
+n = \frac{\sum(x-\bar{x})y}{\sum(x-\bar{x})^2}
+$$
+It is also very important to have in mind that you can also
