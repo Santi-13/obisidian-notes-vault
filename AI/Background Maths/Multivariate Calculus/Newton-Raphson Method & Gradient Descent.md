@@ -72,14 +72,15 @@ $$
 
 ![[Pasted image 20250121125945.png]]
 
-If we wanted to find the *minima* of a function, we could use a magnitude $\gamma$ (gamma), multiplied by our gradient (or [[Jacobian]]), i.e.:
+If we wanted to find the *minima* of a function, we could use a magnitude $\gamma$ (gamma), multiplied by our gradient (or ***[[Jacobian]]***), i.e.:
 $$
-\delta \text{x} = \gamma J
+\delta \text{x} = \gamma \pmb J
 $$
-Then we can try different values for $\gamma$; but this can make us overshoot or undershoot, so we have to come up with a better solution. A way to automatically determine the jump size is to use the [[Hessian]], then the step size can be given as:
+Then we can try different values for $\gamma$; but this can make us overshoot or undershoot, so we have to come up with a better solution. A way to automatically determine the jump size is to use the ***[[Hessian]]***, then the step size can be given as:
 $$
-\delta \text{x} = 
+\delta \text{x} = -\pmb H^{-1}\pmb J
 $$
+This not only sets the step size, but can also change direction too. This method is as likely to find the maxima as it is the minima.
 ### Flashcards
 ---
 What is the ***Newton-Raphson Method***?:: The ***Newton-Raphson Method*** is an iterative approach to finding the roots of an equation without having to calculate every possible value.
