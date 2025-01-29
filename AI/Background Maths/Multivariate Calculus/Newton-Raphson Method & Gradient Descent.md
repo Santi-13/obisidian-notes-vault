@@ -74,7 +74,11 @@ $$
 
 If we wanted to find the *minima* of a function, we could use a magnitude $\gamma$ (gamma), multiplied by our gradient (or [[Jacobian]]), i.e.:
 $$
-\gamma \text{\pmbx} 
+\delta \text{x} = \gamma J
+$$
+Then we can try different values for $\gamma$; but this can make us overshoot or undershoot, so we have to come up with a better solution. A way to automatically determine the jump size is to use the [[Hessian]], then the step size can be given as:
+$$
+\delta \text{x} = 
 $$
 ### Flashcards
 ---
