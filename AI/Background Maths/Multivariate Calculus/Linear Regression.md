@@ -23,6 +23,19 @@ $$
 $$
 To find the optimal values for my **fitting parameters**, I can take a measure of the overall *quality* of the fit by a quantity named **chi squared** ($\chi^2$), which is the sum of the squares of the **residuals**:
 $$
-\chi^2 = \sum_{i} r_{i}^2
+\chi^2 = \sum_{i} r_{i}^2 = \sum_{i} (y_{i} - mx_{i}-c)
 $$
 We square it so we can equally penalize data points which are *above* or *below* the fit's line.
+
+From here, we notice this is a very simple ***minimization*** problem, as we need to find the lowest possible error for our fit. One way to approach this problem is to solve it explicitly, as we know that the minimum would be where the ***gradient*** of the function is $0$, so:
+$$
+\nabla \chi^2 = \begin{bmatrix}
+\frac{\partial \chi^2}{\partial m} \\
+\frac{\partial \chi^2}{\partial c}
+\end{bmatrix} = \begin{bmatrix}
+0 \\
+0
+\end{bmatrix} = \begin{bmatrix}
+-2
+\end{bmatrix}
+$$
