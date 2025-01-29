@@ -25,4 +25,4 @@ To find the optimal values for my **fitting parameters**, I can take a measure o
 $$
 \chi^2 = \sum_{i} r_{i}^2
 $$
-We square it so we can equally penalize data points which are *above* or *bel*
+We square it so we can equally penalize data points which are *above* or *below* the fit's line.
