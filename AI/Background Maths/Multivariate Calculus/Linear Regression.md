@@ -47,4 +47,10 @@ $$
 $$
 n = \frac{\sum(x-\bar{x})y}{\sum(x-\bar{x})^2}
 $$
-It is also very important to have in mind that you can also
+It is also very important to have in mind that you can also find the ***uncertainties*** in the parameters (normally called $\sigma$), which are important to quote when doing a fitting of data. In this case:
+$$
+\sigma_{c} = \sigma_{m} \sqrt{ \bar{x}^2+\frac{1}{n}\sum_{i} (x-\bar{x})^2 }
+$$
+$$
+\sigma_[m]
+$$
