@@ -72,6 +72,10 @@ $$
 
 ![[Pasted image 20250121125945.png]]
 
+If we wanted to find the *minima* of a function, we could use a magnitude $\gamma$ (gamma), multiplied by our gradient (or [[Jacobian]]), i.e.:
+$$
+\gamma \text{\pmbx} 
+$$
 ### Flashcards
 ---
 What is the ***Newton-Raphson Method***?:: The ***Newton-Raphson Method*** is an iterative approach to finding the roots of an equation without having to calculate every possible value.

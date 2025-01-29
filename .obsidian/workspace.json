@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Background Maths/Multivariate Calculus/Linear Regression.md",
+                "file": "AI/Background Maths/Multivariate Calculus/Newton-Raphson Method & Gradient Descent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Regression"
+              "title": "Newton-Raphson Method & Gradient Descent"
             }
           }
         ],
@@ -218,6 +218,7 @@
   },
   "active": "ef27ebffe0616d32",
   "lastOpenFiles": [
+    "AI/Background Maths/Multivariate Calculus/Linear Regression.md",
     "AI/Background Maths/Multivariate Calculus/Newton-Raphson Method & Gradient Descent.md",
     "AI/Background Maths/Multivariate Calculus/Non linear Least Squares.md",
     "AI/Background Maths/Multivariate Calculus/Constrained Optimization.md",
@@ -229,7 +230,6 @@
     "Pasted image 20250128120902.png",
     "images/Pasted image 20250128105325.png",
     "Pasted image 20250128105321.png",
-    "AI/Background Maths/Multivariate Calculus/Linear Regression.md",
     "images/Pasted image 20250122112011.png",
     "Pasted image 20241024210740.png",
     "images/Pasted image 20250122112039.png",
