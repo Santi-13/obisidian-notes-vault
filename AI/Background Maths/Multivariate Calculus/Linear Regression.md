@@ -14,3 +14,4 @@ $$
 $$
 a = \begin{bmatrix} m \\ c \end{bmatrix}
 $$
+As you can see, we can get a lot of information from this model, such as the **residuals** $r_i$, the **center of mass** $\bar{x}, \bar{y}$,  
