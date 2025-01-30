@@ -44,4 +44,5 @@ e^{1t} & e^{2t} \\
 e^{3t} & e^{4t}
 \end{bmatrix}
 $$
-Some conditions for our proposed dynamics to work is that $B(q_a)$ and $\Omega$ must be invertible. For $B(q_a)$, it always tends to be, as it describes the energy of the system; In the other hand, $\Omega$ depends on the number of actuators, as it acts as a "selector" for which actuators affect our controlled dynamics $\tau$, or a sub-actuated system, $  
+Some conditions for our proposed dynamics to work is that $B(q_a)$ and $\Omega$ must be invertible. For $B(q_a)$, it always tends to be, as it describes the energy of the system; In the other hand, $\Omega$ depends on the number of actuators, as it acts as a "selector" for which actuators affect our controlled dynamics $\tau$, for a sub-actuated system, $\Omega$ is not invertible as its determinant is $0$. 
+
