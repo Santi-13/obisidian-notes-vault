@@ -56,3 +56,4 @@ $$
 $$
 One issue that may become apparent is that our y-intercept value $c$ is dependent on $m$. If we plot out $\chi^2$ we may observe this relation.
 ![[Pasted image 20250130104632.png]]
+
