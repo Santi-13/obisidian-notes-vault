@@ -30,3 +30,17 @@ $$
 $$
 
 This way, we can modify the eigenvalues of our dynamics, allowing us to reach most spaces.
+
+Something important to note is that for:
+$$ 
+A= \begin{bmatrix}
+1 & 2 \\
+3  & 4
+\end{bmatrix}
+$$
+$$
+e^{At} | \begin{bmatrix}
+e^{1t} & e^{2t} \\
+e^{3t} & e^{4t}
+\end{bmatrix}
+$$
