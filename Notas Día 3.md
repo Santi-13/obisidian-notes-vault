@@ -39,7 +39,7 @@ A= \begin{bmatrix}
 \end{bmatrix}
 $$
 $$
-e^{At} | \begin{bmatrix}
+e^{At} \neq \begin{bmatrix}
 e^{1t} & e^{2t} \\
 e^{3t} & e^{4t}
 \end{bmatrix}
