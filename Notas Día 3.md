@@ -18,6 +18,15 @@ q_{b} \\
 $$
 $$
 = \begin{bmatrix}
-0_{n \product n}
+0_{n * n} & I_{n*n} \\
+-K_{p} & -K_{D}
+\end{bmatrix} \begin{bmatrix}
+q_{a} \\
+q_{b}
 \end{bmatrix}
 $$
+$$
+\frac{d}{dt}q=Aq
+$$
+
+This way, we can modify the eigenvalues of our dynamics, allowing us to reach most spaces.
