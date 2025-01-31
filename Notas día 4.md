@@ -19,3 +19,7 @@ $$$$
 $$
 
 
+
+GOOGLEAR:
+**Consistencia de normas**
+**Diferencia de Jenkins**
