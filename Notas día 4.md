@@ -3,5 +3,5 @@ Perturbations are **internal**, disturbances are **external** and noise is intri
 Where:
 
 $$
-=\{ :\mathrm{R^n} * \mathrm{R^n} * \mathrm{R^+} \}
+\Psi=\{\psi :\mathrm{R^n} * \mathrm{R^n} * \mathrm{R^+} \}
 $$
