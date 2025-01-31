@@ -1,8 +1,8 @@
 {
   "settings": {
-    "flashcardEasyText": "Fácil",
-    "flashcardGoodText": "Bien",
-    "flashcardHardText": "Difícil",
+    "flashcardEasyText": "Easy",
+    "flashcardGoodText": "Good",
+    "flashcardHardText": "Hard",
     "flashcardTags": [
       "#flashcards"
     ],
@@ -40,11 +40,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-<<<<<<< HEAD
-  "buryDate": "2025-01-15",
-=======
-  "buryDate": "2025-01-14",
->>>>>>> 5f1011fa2cb80522438bd59458a8356e3f34f9b3
+  "buryDate": "2025-01-31",
   "buryList": [],
   "historyDeck": null
 }
