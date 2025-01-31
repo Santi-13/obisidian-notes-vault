@@ -11,4 +11,9 @@ q_{a} \in Q_{a} \subset \mathrm{Re}^n
 $$
 Here, we see how the dynamics of the robot (represented by $q_a$ and $q_b$) affect the perturbations the system experiences. 
 
-Substituing in the control 
+Substituing in the control dynamics of the robot under analysis:
+$$
+\dot{q_{a}}=q_{b}
+$$$$
+\dot{q_{b}} = f(q_a,q_{b}) + g(q_{a}) ( )
+$$
