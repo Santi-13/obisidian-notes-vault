@@ -1,5 +1,11 @@
 {
   "settings": {
+<<<<<<< HEAD
+    "flashcardEasyText": "Easy",
+    "flashcardGoodText": "Good",
+    "flashcardHardText": "Hard",
+=======
+>>>>>>> 43d0111eb5f138c9bc8055746ff27e749a7a4caf
     "flashcardTags": [
       "#flashcards",
       "#ControlTheory",
@@ -55,7 +61,11 @@
     "showParserDebugMessages": false,
     "showDebugMessages": false
   },
+<<<<<<< HEAD
+  "buryDate": "2025-01-31",
+=======
   "buryDate": "2025-01-21",
+>>>>>>> 43d0111eb5f138c9bc8055746ff27e749a7a4caf
   "buryList": [],
   "historyDeck": null
 }
