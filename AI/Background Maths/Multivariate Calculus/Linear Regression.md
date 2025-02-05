@@ -48,13 +48,20 @@ $$
 \sum (y_i - mx_i - c) = 0
 $$
 $$
-s
+\sum y_{i}-m \sum x_{i} = nc
+$$
+$$
+\text{Where n = number of data points}
+$$
+$$
+c = \frac{\sum y_{i}-m \sum x_{i} }{n}
 $$
 $$
 c = \bar{y}-m \bar{x}
 $$
+Following a similar procedure, we end up coming with a solution to $m$ as well.
 $$
-n = \frac{\sum(x-\bar{x})y}{\sum(x-\bar{x})^2}
+m = \frac{\sum(x-\bar{x})y}{\sum(x-\bar{x})^2}
 $$
 It is also very important to have in mind that you can also find the ***uncertainties*** in the parameters (normally called $\sigma$), which are important to quote when doing a fitting of data. In this case:
 $$
@@ -66,7 +73,7 @@ $$
 One issue that may become apparent is that our y-intercept value $c$ is dependent on $m$. If we plot out $\chi^2$ we may observe this relation.
 ![[Pasted image 20250130104632.png]]
 
-The dependence of 𝑐 on 𝑚 can skew the $\chi^2$ analysis and make error estimation less reliable. To address this, we can recast the problem using the center of mass $(\bar{x},\bar{y})$ as the new origin of our coordinate system. This transformation involves expressing 𝑦 and 𝑥 as deviations from their respective means: $y-\bar{y}=𝑚(𝑥−\bar{x})$ In this form, we are effectively predicting the deviation of 𝑦 from its mean $(y-\bar{y})$ based on the deviation of 𝑥 from its mean $( 𝑥−\bar{x} )$. In this centered system, the new y-intercept 𝑏 represents the expected deviation in 𝑦 when 𝑥 is at its mean ( 𝑥=𝑥¯ ). Since the data is centered, this deviation is ideally zero, making 𝑏=0 in the transformed equation. When working outside the center of mass frame to predict 𝑦 from 𝑥 , we can express the transformed equation as: 𝑦−𝑦¯=𝑚(𝑥−𝑥¯)+𝑏 Since it's been established that 𝑏=0 at the center of mass, and we know that 𝑦=𝑦¯ when 𝑥=𝑥¯ , substituting these values yields: 𝑦¯=𝑚(𝑥¯−𝑥¯)+𝑏, which simplifies to 𝑦¯ = b Therefore, we can use 𝑏=𝑦¯ in the transformed equation to predict 𝑦 from 𝑥 : 𝑦=𝑚(𝑥−𝑥¯)+𝑦¯ By centering the data, we decouple the slope (𝑚) and the intercept, facilitating a cleaner error analysis using the chi-squared method. This approach also simplifies the calculation of uncertainties in the fitted parameters.
+The dependence of 𝑐 on 𝑚 can skew the $\chi^2$ analysis and make error estimation less reliable. To address this, we can recast the problem using the center of mass $(\bar{x},\bar{y})$ as the new origin of our coordinate system. This transformation involves expressing 𝑦 and 𝑥 as deviations from their respective means: $y-\bar{y}=𝑚(𝑥−\bar{x})$ In this form, we are effectively predicting the deviation of 𝑦 from its mean $(y-\bar{y})$ based on the deviation of 𝑥 from its mean $( 𝑥−\bar{x} )$. In this centered system, the new y-intercept $𝑏$ represents the expected deviation in $𝑦$ when $x$ is at its mean ( $𝑥=\bar{x}$ ). Since the data is centered, this deviation is ideally zero, making $𝑏=0$ in the transformed equation. When working outside the center of mass frame to predict $𝑦$ from $𝑥$, we can express the transformed equation as: $𝑦−\bar{y}=𝑚(𝑥−𝑥¯)+𝑏$ Since it's been established that 𝑏=0 at the center of mass, and we know that 𝑦=𝑦¯ when 𝑥=𝑥¯ , substituting these values yields: 𝑦¯=𝑚(𝑥¯−𝑥¯)+𝑏, which simplifies to 𝑦¯ = b Therefore, we can use 𝑏=𝑦¯ in the transformed equation to predict 𝑦 from 𝑥 : 𝑦=𝑚(𝑥−𝑥¯)+𝑦¯ By centering the data, we decouple the slope (𝑚) and the intercept, facilitating a cleaner error analysis using the chi-squared method. This approach also simplifies the calculation of uncertainties in the fitted parameters.
 
 $$
 \frac{d\chi^2}{dc} = -2 \sum (y_i - (mx_i + c))
