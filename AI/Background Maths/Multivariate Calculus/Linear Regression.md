@@ -40,7 +40,16 @@ $$
 -2\sum_{i}(y_{i} - mx_{i}-c)
 \end{bmatrix}
 $$
-Then by simply analyzing the rows, we can calculate the ***fitting parameters*** as:
+Then by simply analyzing the rows, we can calculate the ***fitting parameters***. For the second row, we get that:
+$$
+\frac{\partial\chi^2}{\partial c} = -2 \sum (y_i - mx_i - c) = 0
+$$
+$$
+\sum (y_i - mx_i - c) = 0
+$$
+$$
+s
+$$
 $$
 c = \bar{y}-m \bar{x}
 $$
@@ -61,4 +70,7 @@ The dependence of 𝑐 on 𝑚 can skew the $\chi^2$ analysis and make error est
 
 $$
 \frac{d\chi^2}{dc} = -2 \sum (y_i - (mx_i + c))
+$$
+$$
+\sum (y_i - (mx_i + c)) = 0
 $$
