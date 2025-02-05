@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Background Maths/Multivariate Calculus/Linear Regression.md",
+                "file": "AI/Background Maths/Multivariate Calculus/Non linear Least Squares.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Regression"
+              "title": "Non linear Least Squares"
             }
           }
         ],
@@ -205,12 +205,12 @@
   },
   "active": "bed3ba126079b4d1",
   "lastOpenFiles": [
+    "AI/Background Maths/Multivariate Calculus/Linear Regression.md",
     "AI/Background Maths/Multivariate Calculus/Linearisation & Multivariate Taylor Series.md",
     "AI/Background Maths/Multivariate Calculus/Non linear Least Squares.md",
     "Sin título.md",
     "Untitled.md",
     "Notas día 4.md",
-    "AI/Background Maths/Multivariate Calculus/Linear Regression.md",
     "images/Pasted image 20250130104632.png",
     "AI/Background Maths/Multivariate Calculus/Newton-Raphson Method & Gradient Descent.md",
     "images/Pasted image 20250129122906.png",
