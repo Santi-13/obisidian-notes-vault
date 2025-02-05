@@ -14,14 +14,14 @@ $$
 $$
 a = \begin{bmatrix} m \\ c \end{bmatrix}
 $$
-As you can see, we can get a lot of information from this model, such as the **residuals** $r_i$ orthe **center of mass** or mean $\bar{x}$ & $\bar{y}$:
+As you can see, we can get a lot of information from this model, such as the **residuals** $r_i$ or the **center of mass** or mean $\bar{x}$ & $\bar{y}$:
 $$
 r_{i} = y_{i} - mx_{i}-c
 $$
 $$
 \bar{x}=\frac{ \sum_{i=0}^{k} x_{i}  }{ k} 
 $$
-To find the optimal values for my **fitting parameters**, I can take a measure of the overall *quality* of the fit by a quantity named **chi squared** ($\chi^2$), which is the sum of the squares of the **residuals**:
+To find the optimal values for my **fitting parameters**, we can take a measure of the overall *quality* of the fit by a quantity named **chi squared** ($\chi^2$), which is the sum of the squares of the **residuals**:
 $$
 \chi^2 = \sum_{i} r_{i}^2 = \sum_{i} (y_{i} - mx_{i}-c)^2
 $$
