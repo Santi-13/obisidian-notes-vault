@@ -27,3 +27,8 @@ elements: [
 ]
 ```
 
+We can define a *goodness of fit* parameter $\chi^2$ as:
+$$
+\chi^2 = \sum^n_{i} \frac{[y_{i}-y(x_{i};a_{k})]^2}{\sigma^2}
+$$
+As we can see, the division by $\sigma$ penalizes u
