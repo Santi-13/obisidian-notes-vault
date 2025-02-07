@@ -35,4 +35,10 @@ As we can see, the division by $\sigma$ penalizes my uncertain data points in my
 $$
 \nabla \chi^2=0
 $$
-In the case when we can't solve the $\chi^2$ equation analytically, or we simply don't want to, we use the ***Steepest Descent*** method, going down the *contours* by simply updating 
+In the case when we can't solve the $\chi^2$ equation analytically, or we simply don't want to, we use the ***Steepest Descent*** method, going down the *contours* by simply updating our *parameters vector*.
+$$
+a_{next}=a_{cur} - c \nabla \chi^2
+$$
+$\text{Where:}$
+$c \to \text{Constant to say how aggresive we want each iteration to be.}$
+
