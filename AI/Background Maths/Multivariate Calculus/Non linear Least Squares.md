@@ -12,9 +12,12 @@ Which is **nonlinear** about $a_{1}$ as simply doubling this value doesn't doubl
 Say we want to fit these parameters to $i$ number of data. So, for each point of $x$ data, there is a $y$, but there's also an uncertainty ($\sigma$). We can sketch this values out.
 ```graph
 bounds: [-1, 10, 10, -1]
-keepAspectRatio: true
+keepAspectRatio: false
 elements: [ 
-	{type: boxplot, def: [[-1,2,3,3.5,5], 0, 2]},
-	{type: point, def: [1,6]}
+	{type: boxplot, def: [[5,6,6,6,7], 1, 0.5]},
+	{type: point, def: [1,6]},
+	{type: point, def: [2,4]},
+	{type: point, def: [3,2]},
+	{type: point, def: [4,1]},
 ]
 ```
