@@ -31,4 +31,4 @@ We can define a *goodness of fit* parameter $\chi^2$ as:
 $$
 \chi^2 = \sum^n_{i} \frac{[y_{i}-y(x_{i};a_{k})]^2}{\sigma^2}
 $$
-As we can see, the division by $\sigma$ penalizes u
+As we can see, the division by $\sigma$ penalizes my uncertain data points in my sum of chi-squared so they don't affect the fit too much. If we don't know the uncertainties, we can simply set $\sigma$ as $1$,
