@@ -42,3 +42,7 @@ $$
 $\text{Where:}$
 $c \to \text{Constant to say how aggresive we want each iteration to be.}$
 
+And we keep on repeating that until we either get to an acceptable threshold of $\chi^2$, the value of $\chi^2$keeps repeating itself, or until the number of iterations gets too large. Anyway, in order to find the minimum, we need to differentiate $\chi^2$ with respect to its *parameters*.
+$$
+\frac{d \chi^2}{da_{k}} = \sum^n_{i=1} -2 \frac{[]}{\sigma^2} \frac{dy}{d}
+$$
