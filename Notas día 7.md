@@ -73,3 +73,13 @@ $$
 $$
 Hence:
 
+
+---
+We can define the square root of a matrix in two different ways:
+1. $$
+P^{1/2} : P^{1/2}+P^{1/2}=P
+$$
+1. Chol $$
+P^{1/2}=\bar{P}: \bar{P}^T\bar{P}=P
+$$
+
