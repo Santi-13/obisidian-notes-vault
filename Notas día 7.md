@@ -27,5 +27,19 @@ q^TPv \leq \lvert \lvert Pq \rvert  \rvert \text{ }\lvert \lvert v \rvert  \rver
 \leq v^+ \lvert \lvert P \rvert  \rvert_{F}  \lvert \lvert q \rvert  \rvert^2 
 $$
 $$
-\leq v^+ \lvert \lvert P \rvert  \rvert_{F}  \lvert \lvert q \rvert  \rvert^2 
+\leq v^+ \lvert \lvert P \rvert  \rvert_{F} \text{ } q^Tq
+$$
+$$
+= q^T(v^+ \lvert \lvert P \rvert  \rvert I_{n})q
+$$
+Hence:
+$$
+\frac{d}{dt} V(q) \leq \frac{1}{2} q^T(PA+A^TP+Q_{0})q
+$$
+$$
+Q_{0}=2v^+ \lvert \lvert P \rvert  \rvert I_{n} 
+$$
+Then if:
+$$
+PA+A^T+P+Q_{0}\leq -Q,\dots
 $$
