@@ -50,10 +50,6 @@ $$
 $$
 
 #### Additive Form
-We can use the Peter-Paul inequality to decouple the uncertainty from the dynamics of the system. The theorem is as follows:
-$$
-x^T y \leq (1+\theta) \lvert \lvert x \rvert  \rvert 
-$$
 $$
 \frac{d}{dt} V(q)= q^T P \frac{d}{dt}q 
 $$
@@ -63,3 +59,9 @@ $$
 $$
 = q^TPAq+q^TPv
 $$
+We can use the Peter-Paul inequality to decouple the uncertainty from the dynamics of the system. The theorem is as follows:
+$$
+x^T y \leq (1+\theta) \lvert \lvert x \rvert  \rvert^2+(1-\theta^{-1})\lvert \lvert y \rvert  \rvert^2,\dots x,y < \mathrm{Re}^n,\theta \in \mathrm{Re}^+  
+$$
+
+Then if $q^T=x^T$, and $Pv=y$, then:
