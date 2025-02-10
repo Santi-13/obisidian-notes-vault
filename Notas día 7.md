@@ -18,5 +18,14 @@ $$
 $$
 =q^TP(Aq+v)
 $$
+$$
 = q^TPAq+q^TPv
+$$
+As we don't exactly know the values of $v$, we can express them in terms of their limits.
+$$
+q^TPv \leq \lvert \lvert Pq \rvert  \rvert \text{ }\lvert \lvert v \rvert  \rvert 
+\leq v^+ \lvert \lvert P \rvert  \rvert_{F}  \lvert \lvert q \rvert  \rvert^2 
+$$
+$$
+\leq v^+ \lvert \lvert P \rvert  \rvert_{F}  \lvert \lvert q \rvert  \rvert^2 
 $$
