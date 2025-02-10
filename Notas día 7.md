@@ -72,7 +72,9 @@ $$
 =q^TP((1+\theta)I_{n})Pq + (1+\theta^{-1})(v^+)^2
 $$
 Hence:
+(got lost)
 
+Find the derivative of $V(t)$.
 
 ---
 We can define the square root of a matrix in two different ways:
