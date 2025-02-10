@@ -11,7 +11,12 @@ $$
 V(q) = \frac{1}{2} \lvert \lvert q \rvert  \rvert^2_{P}=\frac{1}{2} q^T Pq 
 $$
 
-The time derivative of $V(q)$ satisifies
+The time derivative of $V(q)$ satisifies:
 $$
-\frac{d}{dt} V(q)= \frac{1}{2} q^T P \frac{d}{dt}q 
+\frac{d}{dt} V(q)= q^T P \frac{d}{dt}q 
+$$
+$$
+=q^TP(Aq+v)
+$$
+= q^TPAq+q^TPv
 $$
