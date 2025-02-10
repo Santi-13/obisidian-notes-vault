@@ -22,6 +22,7 @@ $$
 = q^TPAq+q^TPv
 $$
 As we don't exactly know the values of $v$, we can express them in terms of their limits.
+#### Multiplicative Form
 $$
 q^TPv \leq \lvert \lvert Pq \rvert  \rvert \text{ }\lvert \lvert v \rvert  \rvert 
 \leq v^+ \lvert \lvert P \rvert  \rvert_{F}  \lvert \lvert q \rvert  \rvert^2 
@@ -41,5 +42,24 @@ Q_{0}=2v^+ \lvert \lvert P \rvert  \rvert I_{n}
 $$
 Then if:
 $$
-PA+A^T+P+Q_{0}\leq -Q,\dots
+PA+A^T+P+Q_{0}\leq -Q,\dots Q>0
+$$
+Results in:
+$$
+\frac{d}{dt} V(q) \leq -\frac{1}{2} q^T Qq\leq 0
+$$
+
+#### Additive Form
+We can use the Peter-Paul inequality to decouple the uncertainty from the dynamics of the system. The theorem is as follows:
+$$
+x^T y \leq (1+\theta) \lvert \lvert x \rvert  \rvert 
+$$
+$$
+\frac{d}{dt} V(q)= q^T P \frac{d}{dt}q 
+$$
+$$
+=q^TP(Aq+v)
+$$
+$$
+= q^TPAq+q^TPv
 $$
