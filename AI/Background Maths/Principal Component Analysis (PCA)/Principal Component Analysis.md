@@ -5,4 +5,8 @@
 
 The reason we do this is because working with high dimensional *data* is difficult. It is hard to **analyze**, **interpretation** is difficult, **visualization** is nearly impossible and **storage** can be quite expensive.
 
-Not that all is bad. For example, high dimensional data is often **over-complete**, that is, often times many dimensions are redundant and can be explained by a combination of other dimensions.
+Not that all is bad. For example, high dimensional data is often **over-complete**, that is, often times many dimensions are redundant and can be explained by a combination of other dimensions. For example, for a color image with four channels (*red*, *green*, *blue*, & *gray-scale* channels). 
+
+![[Pasted image 20250211172003.png]]
+
+The *gray-scale* channel can be explained in terms of either of the other channels or by a combination of them.
