@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Background Maths/Principal Component Analysis (PCA)/Principal Component Analysis.md",
+                "file": "AI/Background Maths/Principal Component Analysis (PCA)/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Principal Component Analysis"
+              "title": "Introduction"
             }
           }
         ],
@@ -207,7 +207,7 @@
   "lastOpenFiles": [
     "images/Pasted image 20250211172003.png",
     "Pasted image 20250211172001.png",
-    "AI/Background Maths/Principal Component Analysis (PCA)/Principal Component Analysis.md",
+    "AI/Background Maths/Principal Component Analysis (PCA)/Introduction.md",
     "AI/Background Maths/Multivariate Calculus/Non linear Least Squares and Steepest Descent.md",
     "AI/Background Maths/Multivariate Calculus/Linearisation & Multivariate Taylor Series.md",
     "AI/Background Maths/Multivariate Calculus/Multivariate Chain Rule.md",

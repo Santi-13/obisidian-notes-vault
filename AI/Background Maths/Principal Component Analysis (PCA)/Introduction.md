@@ -9,4 +9,8 @@ Not that all is bad. For example, high dimensional data is often **over-complete
 
 ![[Pasted image 20250211172003.png]]
 
-The *gray-scale* channel can be explained in terms of either of the other channels or by a combination of them.
+The *gray-scale* channel can be explained in terms of either of the other channels or by a combination of them. In other words, we can **reconstruct** that channel just by using the others.
+
+We see how **Dimensionality Reduction** exploits **structure** and **correlation** to allow us to work with a more compact representation of the data without losing much (or ideally any) information.
+
+The lower **dimensional representation** of a *high-dimensional* data point is often called a ***feature*** or a ***code***.
