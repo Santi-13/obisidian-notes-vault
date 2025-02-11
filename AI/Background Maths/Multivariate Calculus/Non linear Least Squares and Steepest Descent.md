@@ -57,4 +57,4 @@ $$
 $$
 \frac{dy}{da_{2}} = 1
 $$
-
+This method is called ***nonlinear least squares fitting*** as we try to minimise the sum of the squares of the residuals.
