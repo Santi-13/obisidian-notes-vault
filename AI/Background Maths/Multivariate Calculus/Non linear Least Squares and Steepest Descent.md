@@ -44,5 +44,17 @@ $c \to \text{Constant to say how aggresive we want each iteration to be.}$
 
 And we keep on repeating that until we either get to an acceptable threshold of $\chi^2$, the value of $\chi^2$keeps repeating itself, or until the number of iterations gets too large. Anyway, in order to find the minimum, we need to differentiate $\chi^2$ with respect to its *parameters*.
 $$
-\frac{d \chi^2}{da_{k}} = \sum^n_{i=1} -2 \frac{[[y_{i}-y(x_{i};a_{k})]^2]}{\sigma^2} \frac{dy}{da_{k}}
+\frac{d \chi^2}{da_{k}} = \sum^n_{i=1} -2 \frac{[y_{i}-y(x_{i};a_{k})]^2}{\sigma^2} \frac{dy}{da_{k}}
 $$
+Then we get that:
+$$
+a_{next}=a_{cur} + c \sum^n_{i=1} 2 \frac{[y_{i}-y(x_{i};a_{k})]^2}{\sigma^2} \frac{dy}{da_{k}}
+$$
+Finally, we just need to differentiate with respect to each variable.
+$$
+\frac{dy}{da_{1}} = -2(x-a_{1})
+$$
+$$
+\frac{dy}{da_{2}} = 1
+$$
+
