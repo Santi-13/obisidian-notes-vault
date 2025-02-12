@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Background Maths/Principal Component Analysis (PCA)/Mean of a dataset.md",
+                "file": "AI/Background Maths/Principal Component Analysis (PCA)/Variance of 1D Datasets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mean of a dataset"
+              "title": "Variance of 1D Datasets"
             }
           }
         ],
@@ -205,8 +205,9 @@
   },
   "active": "ae5fd6724e89a04f",
   "lastOpenFiles": [
+    "AI/Background Maths/Principal Component Analysis (PCA)/Mean of a Dataset.md",
+    "AI/Background Maths/Principal Component Analysis (PCA)/Variance of 1D Datasets.md",
     "AI/Background Maths/Principal Component Analysis (PCA)/Introduction.md",
-    "AI/Background Maths/Principal Component Analysis (PCA)/Mean of a dataset.md",
     "images/Pasted image 20250211172003.png",
     "Pasted image 20250211172001.png",
     "AI/Background Maths/Multivariate Calculus/Non linear Least Squares and Steepest Descent.md",
@@ -244,7 +245,6 @@
     "Control/Fuzzy Control.md",
     "Computación Cognitiva/Clasificación.md",
     "Control/Pole Placement.md",
-    "Control/Model Predictive Control (MPC).md",
     "Canvas.canvas",
     "Computación Cognitiva",
     "AI/Background Maths",
