@@ -2,6 +2,7 @@
 #### By: Coursera - Mathematics for Machine Learning: PCA Week 1
 ---
 
+Let's analyze the following datasets, as well as their [[Mean of a Dataset]]
 
 
 ```desmos-graph
