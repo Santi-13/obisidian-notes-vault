@@ -11,3 +11,4 @@ Then the ***expected value*** is:
 $$
 \text{E}[D] = \frac{1}{n}\sum^n_{n=1}x_{n}
 $$
+A key aspect of the ***mean***
