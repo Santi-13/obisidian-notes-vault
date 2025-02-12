@@ -11,4 +11,4 @@ Then the ***expected value*** is:
 $$
 \text{E}[D] = \frac{1}{n}\sum^n_{n=1}x_{n}
 $$
-A key aspect of the ***mean***
+A key aspect of the ***mean*** is that it doesn't have to be part of the dataset itself.
