@@ -41,7 +41,7 @@ $\text{Where:}$
 $$
 \mu=E[X]
 $$
-From here, we observe how the 
+From here, we observe how the ***variance*** can 
 
 
 ---
