@@ -16,4 +16,4 @@ M = \begin{bmatrix}
 \text{cov}[y,x] & \text{var}[y]
 \end{bmatrix}
 $$
-If the ***covariance*** between
+If the ***covariance*** between $x$ and $y$ is *positive*, then on average the $y$ value increases if we increase $x$, and vice-versa. The ***covariance matrix*** is always a *symmetric*, *positive definite* matrix, which means that the determinant of itself, as wel
