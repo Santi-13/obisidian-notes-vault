@@ -16,4 +16,10 @@ M = \begin{bmatrix}
 \text{cov}[y,x] & \text{var}[y]
 \end{bmatrix}
 $$
-If the ***covariance*** between $x$ and $y$ is *positive*, then on average the $y$ value increases if we increase $x$, and vice-versa. The ***covariance matrix*** is always a *symmetric*, *positive definite* matrix, which means that the determinant of itself, as wel
+If the ***covariance*** between $x$ and $y$ is *positive*, then on average the $y$ value increases if we increase $x$, and vice-versa. The ***covariance matrix*** is always a *symmetric*, *positive definite* matrix, which means that the determinant of itself, as well as that of its **minors** are greater than zero.
+
+We can generalize for a $\text{D-dimensional}$ dataset. For: $D=\{ x_{1},\dots,x_{n} \}, x \in \mathrm{Re}^D$.
+$$
+\text{var}[D]=\frac{1}{N}\sum
+$$
+
