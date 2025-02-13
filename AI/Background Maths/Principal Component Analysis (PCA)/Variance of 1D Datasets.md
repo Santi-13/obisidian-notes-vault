@@ -46,3 +46,4 @@ From here, we observe how the ***variance*** is always positive. If we take its 
 
 ---
 ### Flashcards
+What is the 
