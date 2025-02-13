@@ -26,6 +26,12 @@ D_{2}=\{ -1,3,7 \}, \text{E}[D_{2}]=3
 $$
 We observe how both sets have the same ***expected value***, even though one has points which are more spread apart from each other. Here's where the ***variance*** of the data comes in. 
 
-The ***variance*** refers to the average distance of each point of the *dataset* to the mean. In other words, how far away each point tends to be from the *mean*.
+The ***variance*** refers to the average distance of each point of the *dataset* to the mean. In other words, how far away each point tends to be from the *mean*. For each *dataset*:
+$$
+D_{1}: \frac{(1-3)^2+(2-3)^2+(4-3)^2+(5-3)^2}{4}=\frac{10}{4}
+$$
+$$
+D_{2}: \frac{(-1-3)^2+(3-3)^2+(7-3)^2}{3}=\frac{32}{3}
+$$
 
 ---
