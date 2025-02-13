@@ -1,4 +1,4 @@
-#MachineLearning
+#MachineLearning #MultivariateCalculus
 #### By: Coursera - Mathematics for Machine Learning 
 ---
 When you have a single function of many variables:

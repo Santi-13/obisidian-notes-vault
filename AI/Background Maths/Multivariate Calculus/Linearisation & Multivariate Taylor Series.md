@@ -1,4 +1,4 @@
-#MachineLearning 
+#MachineLearning #MultivariateCalculus
 #### By: Coursera - Mathematics for Machine Learning Week 4
 ---
 From the definition of the ***Taylor Series*** from [[Function Approximation]]:

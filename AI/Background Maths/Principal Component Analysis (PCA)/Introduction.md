@@ -1,4 +1,4 @@
-#MachineLearning 
+#MachineLearning #PCA
 #### By: Coursera - Mathematics for Machine Learning: PCA Week 1
 ---
 ***Principal Component Analysis (PCA)*** is a mathematical tool to reduce the dimensionality of high dimensional data (i.e The multiple factors of house prices; or even a 640x480 pixels image, where every pixel corresponds to three dimensions).

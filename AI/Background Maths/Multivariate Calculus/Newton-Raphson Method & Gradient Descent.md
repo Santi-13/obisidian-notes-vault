@@ -1,4 +1,4 @@
-#MachineLearning 
+#MachineLearning #MultivariateCalculus
 #### By: Coursera - Mathematics for Machine Learning Week 5
 ---
 The ***Newton-Raphson Method*** is an iterative approach to finding a desired solution to a equation just by evaluating the function and its derivative at certain points. Instead of having to plot the entire function. It is described as:

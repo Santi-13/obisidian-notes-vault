@@ -1,4 +1,4 @@
-#MachineLearning 
+#MachineLearning #MultivariateCalculus
 #### By: Coursera - Mathematics for Machine Learning Week 6
 ---
 ***Linear Regression*** is a tool that is essential for understanding and analyzing data effectively. Basically, it gives us a way to give a sensible shape to our data to start understanding and working with it.

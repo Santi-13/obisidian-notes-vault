@@ -1,4 +1,4 @@
-#MachineLearning 
+#MachineLearning #PCA
 #### By: Coursera - Mathematics for Machine Learning: PCA Week 1
 ---
 As discussed in the course's [[Introduction]], we often need to use some special properties to describe and discuss **datasets**, as just showing the full set is often not very useful.
