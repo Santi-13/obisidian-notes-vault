@@ -1,15 +1,9 @@
 {
   "settings": {
-<<<<<<< HEAD
-    "flashcardEasyText": "Easy",
-    "flashcardGoodText": "Good",
-    "flashcardHardText": "Hard",
-=======
->>>>>>> 43d0111eb5f138c9bc8055746ff27e749a7a4caf
     "flashcardTags": [
       "#flashcards",
-      "#ControlTheory",
-      "#MachineLearning"
+      "#MachineLearning",
+      "#ControlTheory"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
@@ -32,7 +26,9 @@
     "tagsToReview": [
       "#review"
     ],
-    "noteFoldersToIgnore": [],
+    "noteFoldersToIgnore": [
+      "**/*.excalidraw.md"
+    ],
     "openRandomNote": false,
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
@@ -58,14 +54,9 @@
     "dataStore": "NOTES",
     "cardCommentOnSameLine": false,
     "showSchedulingDebugMessages": false,
-    "showParserDebugMessages": false,
-    "showDebugMessages": false
+    "showParserDebugMessages": false
   },
-<<<<<<< HEAD
-  "buryDate": "2025-01-31",
-=======
-  "buryDate": "2025-01-21",
->>>>>>> 43d0111eb5f138c9bc8055746ff27e749a7a4caf
+  "buryDate": "",
   "buryList": [],
   "historyDeck": null
 }

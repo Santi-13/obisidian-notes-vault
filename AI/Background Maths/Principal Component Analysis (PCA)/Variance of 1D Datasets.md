@@ -41,7 +41,8 @@ $\text{Where:}$
 $$
 \mu=E[X]
 $$
-From here, we observe how the ***variance*** is always positive. 
+From here, we observe how the ***variance*** is always positive. If we take its square root we obtain the ***Standard Deviation***, which is expressed in the same units as the ***mean***, whereas the ***variance*** is expressed in *square units*. Because of this, when we talk about spread of the data, the ***Standard Deviations*** are more commonly used.
 
 
 ---
+### Flashcards
