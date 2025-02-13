@@ -53,4 +53,7 @@ What is the ***standard deviation***?:: Is the square root of the *variance*, of
 $$
 D_{2}=\{ -1,3,7 \}, \text{E}[D_{2}]=3, \sigma^2=\frac{32}{3}
 $$
-%
+If we add 7 to the set then $\mu=4$
+$$
+\sigma^2_{n}=\frac{3}{4} \frac{32}{3}+ \frac{1}{4}(7-3)(7-4)
+$$
