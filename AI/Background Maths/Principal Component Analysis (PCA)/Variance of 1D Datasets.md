@@ -24,3 +24,4 @@ $$
 $$
 D_{2}=\{ -1,3,7 \}, \text{E}[D_{2}]=3
 $$
+We observe how both sets have the same ***expected vale***

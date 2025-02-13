@@ -39,10 +39,14 @@
             "id": "9f87e670ec1efec1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "AI/Background Maths/Principal Component Analysis (PCA)/Variance of 1D Datasets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variance of 1D Datasets"
             }
           }
         ],
