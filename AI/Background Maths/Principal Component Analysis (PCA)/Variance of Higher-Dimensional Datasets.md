@@ -9,3 +9,11 @@ $$
 $$$\text{Where:}$
 $$\mu_{x}=\text{E}[x]$$
 $$\mu_{y}=\text{E}[y]$$
+Finally, we can identify four quantities of interest for this dataset, the two ***covariances***, as well as the two ***variances***. We summarize this values in what we call the ***covariance matrix***.
+$$
+M = \begin{bmatrix}
+\text{var}[x] & \text{cov}[x,y] \\
+\text{cov}[y,x] & \text{var}[y]
+\end{bmatrix}
+$$
+If the ***covariance*** between
