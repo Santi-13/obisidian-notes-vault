@@ -7,6 +7,5 @@ In the example of a 2d dataset, we may be able to compute the ***variance*** of 
 $$
 \text{cov}[x,y] = \text{E}[(x-\mu_{x})(y-\mu_{y})]
 $$$\text{Where:}$
-$$
-\mu_{x}=\text{E}[x]
-$$
+$$\mu_{x}=\text{E}[x]$$
+$$\mu_{y}=\text{E}[y]$$
