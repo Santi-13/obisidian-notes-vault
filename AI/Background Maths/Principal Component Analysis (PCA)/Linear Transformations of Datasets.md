@@ -33,4 +33,10 @@ f(x)=1
 (8/3,1)|orange|cross|label:E[D'']
 ```
 
-We notice that in the case of the dataset **stretching**, w
+We notice that in the case of the dataset **shifting** by 2, the ***mean*** just becomes two plus what it was; While in the **stretching** case, we multiply the previous ***mean*** by a *scaling factor*. So:
+$$
+E[D+a] =a +E[D]
+$$
+$$
+E[aD]=aE[D]
+$$
