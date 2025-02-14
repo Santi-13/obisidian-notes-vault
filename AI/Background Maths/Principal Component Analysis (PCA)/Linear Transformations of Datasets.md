@@ -8,10 +8,10 @@ $$
 D=\{ -1,2,3 \}, E[D]=\frac{4}{3}
 $$
 $$
-D'= D+2 = \{ 1,4,5 \}, E[D']=
+D'= D+2 = \{ 1,4,5 \}, E[D']= \frac{10}{3}
 $$
 $$
-D''= 2D=\{ -2,4,6 \}
+D''= 2D=\{ -2,4,6 \}, E[D'']=\frac{8}{3}
 $$
 ```desmos-graph
 left=-4; right=14;
@@ -19,12 +19,18 @@ top=2; bottom=0;
 ---
 f(x)=1
 (-1,1)|black|label:D
-(2,1)|black|label:D
-(3,1)|black|label:D
-(1,1)|blue|label:D'
+(2,1)|black
+(3,1)|black
+(1,1)|blue
 (4,1)|blue|label:D'
-(5,1)|blue|label:D'
-(-2,1)|orange|label:D''
+(5,1)|blue
+(-2,1)|orange
 (4,1)|orange|label:D''
-(6,1)|orange|label:D''
+(6,1)|orange
+
+(4/3,1)|black|cross|label:E[D]
+(10/3,1)|blue|cross|label:E[D']
+(8/3,1)|orange|cross|label:E[D'']
 ```
+
+We notice that in the case of the dataset **stretching**, w
