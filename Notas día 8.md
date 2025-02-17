@@ -28,6 +28,19 @@ $$We get the derivative:
 $$
 \dot{V}(x_{1}, \tilde{k_{p}}, \tilde{k_{D}}) = 
 \left( \frac{x^+- \lvert \lvert x \rvert  \rvert^2}{x^+  }  \right) \frac{(-x^+ ) (-2x^T\dot{x})}{(x^+ - \lvert \lvert x \rvert  \rvert^2)^2}+
-2\lambda_{1} t_{r}\{  \tilde{k_{p}} \tilde{k_{p}^T}\dot{} \} + 
-\lambda_{2}t_{r} \{ \tilde{k_{D} } \tilde{k_{D}^T} \} 
+
+2\lambda_{1} t_{r}\{  \tilde{k_{p}} \dot{\tilde{k_{p}^T}} \} +
+\dot{\lambda_{1}} t_{r} \{ \tilde{k_{p}} \tilde{k_{p}^T} \}+
+
+2\lambda_{2}t_{r} \{ \tilde{k_{D} } \dot{\tilde{k_{D}^T}} \} +
+\dot{\lambda_{2}} t_{r} \{ \tilde{k_{D} } \tilde{k_{D}^T} \}
+$$
+$$
+\dot{V}(x_{1}, \tilde{k_{p}}, \tilde{k_{D}}) =  \frac{-2x^T\dot{x}}{(x^+ - \lvert \lvert x \rvert  \rvert^2)^2}+
+
+2\lambda_{1} t_{r}\{  \tilde{k_{p}} \dot{\tilde{k_{p}^T}} \} +
+\dot{\lambda_{1}} t_{r} \{ \tilde{k_{p}} \tilde{k_{p}^T} \}+
+
+2\lambda_{2}t_{r} \{ \tilde{k_{D} } \dot{\tilde{k_{D}^T}} \} +
+\dot{\lambda_{2}} t_{r} \{ \tilde{k_{D} } \tilde{k_{D}^T} \}
 $$
