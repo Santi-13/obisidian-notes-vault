@@ -9,3 +9,8 @@ $$
 $$
 \tilde{k_{D}}=k_{D}(t)-k_{D}^*
 $$
+
+We need to set our equation so it includes its distance to the barrier with radius $x^+$:
+$$
+\underbrace{ \lambda_{i} =\lambda_{i0}\left( \frac{x^+} - \lvert \lvert  \rvert  \rvert {x^+} \right) } 
+$$
