@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas dia 6 creo.md",
+                "file": "Notas día 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas dia 6 creo"
+              "title": "Notas día 7"
             }
           }
         ],
@@ -219,6 +219,7 @@
   },
   "active": "9f87e670ec1efec1",
   "lastOpenFiles": [
+    "Notas dia 6 creo.md",
     "AI/Background Maths/Principal Component Analysis (PCA)/Variance of 1D Datasets.md",
     "AI/Background Maths/Principal Component Analysis (PCA)/Introduction.md",
     "AI/Background Maths/Principal Component Analysis (PCA)/Mean of a dataset.md",
@@ -236,7 +237,6 @@
     "Sin título.md",
     "images/Pasted image 20250211172003.png",
     "Notas día 7.md",
-    "Notas dia 6 creo.md",
     "NLSC_lecture_notes_2018.pdf",
     "Control/Linear Quadratic Regulator.md",
     "Untitled.md",
