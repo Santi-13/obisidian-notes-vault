@@ -1,5 +1,6 @@
 $$
-V(x_{1}, ,) = \frac{1}{2} \lvert \lvert x \rvert  \rvert^2_{p}+\lambda_{1}t_{r}\{  \tilde{k_{p}} \tilde{k_{p}^T} \}+ \lambda_{2}t_{r} \{ \tilde{k_{D} } \tilde{k_{D}^T} \} 
+V(x_{1}, ,) = \frac{1}{2} \lvert \lvert x \rvert  \rvert^2_{p}+\lambda_{1}\underbrace{t_{r}\{  \tilde{k_{p}} \tilde{k_{p}^T} \}}_{Frobenius}+ \lambda_{2}t_{r} \{ \tilde{k_{D} } \tilde{k_{D}^T} \} 
+
 $$
 $\text{Where:}$
 $$
