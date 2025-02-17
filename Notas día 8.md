@@ -21,7 +21,13 @@ $$
 We can also change the first term of our equation:
 $$
 V(x_{1}, \tilde{k_{p}}, \tilde{k_{D}}) = 
-\ln\left( \frac{x^1}{}  \right)+
+\ln\left( \frac{x^+}{x^+ - \lvert \lvert x \rvert  \rvert^2 }  \right) +
+\lambda_{1}\underbrace{t_{r}\{  \tilde{k_{p}} \tilde{k_{p}^T} \}}_{Frobenius}+ 
+\lambda_{2}t_{r} \{ \tilde{k_{D} } \tilde{k_{D}^T} \} 
+$$We get the derivative:
+$$
+\dot{V}(x_{1}, \tilde{k_{p}}, \tilde{k_{D}}) = 
+\left( \frac{x^+- \lvert \lvert x \rvert  \rvert^2}{x^+  }  \right) \frac{-x^+}{x^+ - \lvert \lvert x \rvert  \rvert^2}+
 \lambda_{1}\underbrace{t_{r}\{  \tilde{k_{p}} \tilde{k_{p}^T} \}}_{Frobenius}+ 
 \lambda_{2}t_{r} \{ \tilde{k_{D} } \tilde{k_{D}^T} \} 
 $$
