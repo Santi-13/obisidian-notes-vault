@@ -1,5 +1,5 @@
 $$
-V(x_{1}, ,) = \frac{1}{2} \lvert \lvert x \rvert  \rvert^2_{p}+\lambda_{1}\underbrace{t_{r}\{  \tilde{k_{p}} \tilde{k_{p}^T} \}}_{Frobenius}+ \lambda_{2}t_{r} \{ \tilde{k_{D} } \tilde{k_{D}^T} \} 
+V(x_{1}, \tilde{k_{p}}, \tilde{k_{D}}) = \frac{1}{2} \lvert \lvert x \rvert  \rvert^2_{p}+\lambda_{1}\underbrace{t_{r}\{  \tilde{k_{p}} \tilde{k_{p}^T} \}}_{Frobenius}+ \lambda_{2}t_{r} \{ \tilde{k_{D} } \tilde{k_{D}^T} \} 
 
 $$
 $\text{Where:}$
@@ -12,5 +12,16 @@ $$
 
 We need to set our equation so it includes its distance to the barrier with radius $x^+$:
 $$
-\underbrace{ \lambda_{i} =\lambda_{i0}\left( \frac{x^+} - \lvert \lvert  \rvert  \rvert {x^+} \right) } 
+\underbrace{ \lambda_{i} =\lambda_{i0}\left( \frac{x^+ - \lvert \lvert x \rvert  \rvert^2}  {x^+} \right) }_{\text{Direct Barrier LF}}
+$$
+Where:
+$$
+\underbrace{\lambda_{i0}\to \infty}_{\text{Prescribed Kristic}}
+$$
+We can also change the first term of our equation:
+$$
+V(x_{1}, \tilde{k_{p}}, \tilde{k_{D}}) = 
+\ln\left( \frac{x^1}{}  \right)+
+\lambda_{1}\underbrace{t_{r}\{  \tilde{k_{p}} \tilde{k_{p}^T} \}}_{Frobenius}+ 
+\lambda_{2}t_{r} \{ \tilde{k_{D} } \tilde{k_{D}^T} \} 
 $$
