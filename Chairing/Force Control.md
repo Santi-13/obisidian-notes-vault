@@ -41,4 +41,5 @@ $$
 There are different
 
 #### Stiffness Control
-In the classical operational space formulation, the end-effector *position* and *orientation* is described by a $6 \times 1$ vector $x_e= (p_{e}^T$
+In the classical operational space formulation, the end-effector *position* and *orientation* is described by a $6 \times 1$ vector $x_e= (p_{e}^T,\varphi_{e}^T)$. Where $\varphi_{e}$ is...
+
