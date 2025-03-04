@@ -38,3 +38,7 @@ Where:
 $$
 \Lambda(q) = (J(q)H^{-1}(q)J^T(q))^{-1}
 $$
+There are different
+
+#### Stiffness Control
+In the classical operational space formulation, the end-effector *position* and *orientation* is described by a $6 \times 1$ vector $x_e= (p_{e}^T$
