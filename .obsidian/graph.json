@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "collapse-filter": false,
+=======
+  "collapse-filter": true,
+>>>>>>> ebe038ba13857672f205e841c86df9370db924df
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -32,6 +36,7 @@
       "query": "tag:#MachineLearning  ",
       "color": {
         "a": 1,
+<<<<<<< HEAD
         "rgb": 10227396
       }
     }
@@ -41,11 +46,33 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
+=======
+        "rgb": 9184699
+      }
+    },
+    {
+      "query": "tag:#Chairing",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 0.97318339100346,
+>>>>>>> ebe038ba13857672f205e841c86df9370db924df
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 13.5758835758836,
   "linkStrength": 1,
   "linkDistance": 169,
+<<<<<<< HEAD
   "scale": 0.2279718255882134,
+=======
+  "scale": 0.9071723250410477,
+>>>>>>> ebe038ba13857672f205e841c86df9370db924df
   "close": true
 }
