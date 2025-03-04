@@ -265,8 +265,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "411771ab5494e6c1",
+  "active": "bce4445dcac5e7f0",
   "lastOpenFiles": [
+    "Chairing/pdfs/Lyapunov no Perturbations.pdf",
+    "Chairing/pdfs/Lyapunov With Perturbations.pdf",
+    "Chairing/pdfs",
     "NLSC_lecture_notes_2018.pdf",
     "Purdue.md",
     "Canvas.canvas",
@@ -312,8 +315,6 @@
     "images/Pasted image 20250128105325.png",
     "Pasted image 20250128105321.png",
     "Computación Cognitiva",
-    "AI/Background Maths",
-    "AI",
     "Untitled.canvas"
   ]
 }
