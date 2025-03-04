@@ -96,8 +96,13 @@ Q = [1 0;
 R = 1;
 K = lqr(A,B,Q,R);
 
+<<<<<<< HEAD
+$ Closed Loop System
+sys = ss((A - B*k),B,C,D);
+=======
 % Closed Loop System
 sys = ss((A - B*K),B,C,D);
+>>>>>>> ebe038ba13857672f205e841c86df9370db924df
 ```
 
 ### Flashcards

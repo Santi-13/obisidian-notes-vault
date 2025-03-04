@@ -6,11 +6,19 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+<<<<<<< HEAD
+      "LiBookOpen",
+      "LiTowerControl",
+      "LiMathXDivideY2",
+      "LiAirVent",
+      "LiMathFunction"
+=======
       "LiBookOpenText",
       "LiBookmarkMinus",
       "👨‍🏫",
       "LiBookOpen",
       "LiTowerControl"
+>>>>>>> ebe038ba13857672f205e841c86df9370db924df
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,8 +49,12 @@
   "Excalidraw": "LiPencil",
   "images": "LiImages",
   "Math": "LiBookX",
+<<<<<<< HEAD
+  "Purdue.md": "LiBookOpen"
+=======
   "Purdue.md": "LiBookOpen",
   "Chairing": "👨‍🏫",
   "Chairing/Properties & Definitions": "LiBookmarkMinus",
   "Chairing/Notas del Dia": "LiBookOpenText"
+>>>>>>> ebe038ba13857672f205e841c86df9370db924df
 }
