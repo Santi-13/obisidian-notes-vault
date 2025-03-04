@@ -11,7 +11,7 @@ $$
 ![[Pasted image 20250122112011.png]]
 
 ![[Pasted image 20250122112039.png]]
-This function has two minima and maxima. To find them, we use what we call ***Lagrange Multipliers***, which make use of the fact that the minima and maxima on the curve (or path) are found where the constraint is parallel to the contours of the function. Since they are parallel, the gradient of both will be parallel too, just not of the same magnitude exactly. So we can write the gradient of the constraint function $g(x)$ as a magnitude of $\nabla f(x)$:
+This function has two minima and maxima. To find them, we use what we call ***Lagrange Multipliers***, which make use of the fact that the minima and maxima on the curve (or path) are found where the constraint is parallel to the contours of the function. Since they are parallel, the gradient of both will be parallel too, just not of the same magnitude exactly. So we can write the gradient of the constraint function $g(x)$ as a magnitude of $\nabla f(x)$: ^c7aa78
 $$
 \nabla f(x)=\lambda \nabla g(x)
 $$

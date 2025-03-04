@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#ControlTheory  ",
@@ -32,20 +32,27 @@
       "query": "tag:#MachineLearning  ",
       "color": {
         "a": 1,
-        "rgb": 10227396
+        "rgb": 9184699
+      }
+    },
+    {
+      "query": "tag:#Chairing",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 0.97318339100346,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 13.5758835758836,
   "linkStrength": 1,
   "linkDistance": 169,
-  "scale": 0.22797182558821305,
-  "close": false
+  "scale": 0.9071723250410477,
+  "close": true
 }

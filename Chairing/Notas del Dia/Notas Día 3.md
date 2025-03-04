@@ -1,3 +1,4 @@
+#Chairing #Note
 The state variable declaration of our dynamics is:
 $$
 q_a=q

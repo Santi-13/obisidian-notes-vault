@@ -47,10 +47,8 @@ From here, we observe how the ***variance*** is always positive. If we take its 
 ---
 ### Flashcards
 What is the ***variance*** of a dataset?:: The average square distance of each point of the dataset to the *mean*.
-<!--SR:!2025-02-18,1,230-->
 
 What is the ***standard deviation***?:: Is the square root of the *variance*, often used when talking about the spread of the data as it is in the same units as the mean.
-<!--SR:!2025-02-18,1,230-->
 
 $$
 D_{2}=\{ -1,3,7 \}, \text{E}[D_{2}]=3, \sigma^2=\frac{32}{3}

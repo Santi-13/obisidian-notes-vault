@@ -8,49 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b4196a5c8a3b58c",
+            "id": "911ed39aacb68dab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas dia 6 creo.md",
+                "file": "Chairing/Properties & Definitions/Matrix Calculus Derivative Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas dia 6 creo"
+              "title": "Matrix Calculus Derivative Rules"
             }
           },
           {
-            "id": "ae5fd6724e89a04f",
+            "id": "1f43703c851309a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Background Maths/Principal Component Analysis (PCA)/Linear Transformations of Datasets.md",
+                "file": "Chairing/Euler-Lagrange Formulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Transformations of Datasets"
+              "title": "Euler-Lagrange Formulation"
             }
           },
           {
-            "id": "e897f17689e5a86b",
+            "id": "5033880fb932223f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas día 8.md",
+                "file": "Chairing/Force Control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas día 8"
+              "title": "Force Control"
+            }
+          },
+          {
+            "id": "eac1e01f020afd70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chairing/Lyapunov no Perturbations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lyapunov no Perturbations"
+            }
+          },
+          {
+            "id": "6c23c04af2fd2675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chairing/Properties & Definitions/Peter-Paul Inequality.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Peter-Paul Inequality"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,8 +219,18 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "64463c952a38de03",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -211,43 +249,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "github-sync:Sync with Remote": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e897f17689e5a86b",
+  "active": "1f43703c851309a0",
   "lastOpenFiles": [
-    "AI/Background Maths/Principal Component Analysis (PCA)/Linear Transformations of Datasets.md",
-    "Notas día 8.md",
-    "AI/Background Maths/Principal Component Analysis (PCA)/Variance of 1D Datasets.md",
-    "AI/Background Maths/Principal Component Analysis (PCA)/Mean of a dataset.md",
-    "AI/Background Maths/Principal Component Analysis (PCA)/Variance of Higher-Dimensional Datasets.md",
-    "Math/Egyptian Multiplication.md",
-    "AI/Background Maths/Principal Component Analysis (PCA)/Introduction.md",
-    "AI/Background Maths/Principal Component Analysis (PCA)/Mean of a Dataset.md",
-    "Notas dia 6 creo.md",
-    "AI/Background Maths/Multivariate Calculus/Newton-Raphson Method & Gradient Descent.md",
-    "AI/Background Maths/Multivariate Calculus/Linearisation & Multivariate Taylor Series.md",
+    "NLSC_lecture_notes_2018.pdf",
+    "Purdue.md",
+    "Canvas.canvas",
+    "Chairing/Notas del Dia/Notas día 9.md",
+    "Chairing/Notas del Dia/Notas día 8.md",
+    "Chairing/Notas del Dia/Notas día 7.md",
+    "Chairing/Notas del Dia/Notas día 12.md",
+    "Chairing/Notas del Dia/Notas Día 11.md",
+    "Chairing/Notas del Dia/Notas Día 3.md",
+    "Chairing/Notas del Dia/Notas día 4.md",
+    "Chairing/Notas del Dia/Notas dia 6 creo.md",
+    "Chairing/Euler-Lagrange Formulation.md",
+    "Chairing/Force Control.md",
+    "Chairing/Lyapunov With Perturbations.md",
+    "Chairing/Lyapunov no Perturbations.md",
+    "Chairing/Properties & Definitions/Rayleigh Quotient.md",
+    "Chairing/Properties & Definitions/Quadratic Norm Representation.md",
+    "Chairing/Properties & Definitions/Matrix Calculus Derivative Rules.md",
+    "Chairing/Properties & Definitions/Peter-Paul Inequality.md",
+    "Chairing/Properties & Definitions/Positive Definite Matrix.md",
+    "AI/Background Maths/Multivariate Calculus/Lagrange Multipliers.md",
+    "Excalidraw/Diagram Force Transformations.md",
+    "Chairing/Properties & Definitions/Cauchy-Schwarz Inequality.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Chairing/Properties & Definitions/Untitled.canvas",
+    "Chairing/Properties & Definitions",
+    "Chairing/Notas del Dia",
+    "Chairing",
+    "Control/Linear Quadratic Regulator.md",
+    "Control/Pole Placement.md",
     "images/Pasted image 20250211172003.png",
     "Pasted image 20250211172001.png",
-    "AI/Background Maths/Multivariate Calculus/Non linear Least Squares and Steepest Descent.md",
-    "AI/Background Maths/Multivariate Calculus/Multivariate Chain Rule.md",
-    "AI/Background Maths/Multivariate Calculus/Jacobian.md",
-    "AI/Background Maths/Multivariate Calculus/Hessian.md",
-    "AI/Background Maths/Multivariate Calculus/Function Approximation.md",
-    "AI/Background Maths/Multivariate Calculus/Constrained Optimization.md",
     "AI/Background Maths/Principal Component Analysis (PCA)",
-    "Notas día 7.md",
-    "Sin título.md",
-    "Notas día 4.md",
-    "AI/Neural Networks.md",
-    "Notas Día 3.md",
-    "NLSC_lecture_notes_2018.pdf",
-    "AI/Background Maths/Multivariate Calculus/Linear Regression.md",
-    "AI/Background Maths/Multivariate Calculus/Lagrange Multipliers.md",
-    "Control/Linear Quadratic Regulator.md",
     "images/Pasted image 20250130104632.png",
     "images/Pasted image 20250129122906.png",
     "Pasted image 20241024210740.png",
@@ -258,14 +301,9 @@
     "Pasted image 20250128120902.png",
     "images/Pasted image 20250128105325.png",
     "Pasted image 20250128105321.png",
-    "Newton-Raphson Method.md",
-    "Canvas.canvas",
     "Computación Cognitiva",
     "AI/Background Maths",
     "AI",
-    "Excalidraw",
-    "Math",
-    "Control",
     "Untitled.canvas"
   ]
 }
