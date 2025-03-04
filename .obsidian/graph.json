@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#ControlTheory  ",
+      "color": {
+        "a": 1,
+        "rgb": 6069206
+      }
+    },
+    {
+      "query": "tag:#ComputacionCognitiva",
+      "color": {
+        "a": 1,
+        "rgb": 10868316
+      }
+    },
+    {
+      "query": "tag:#GeneralProgramming",
+      "color": {
+        "a": 1,
+        "rgb": 12529969
+      }
+    },
+    {
+      "query": "tag:#MachineLearning  ",
+      "color": {
+        "a": 1,
+        "rgb": 10227396
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 13.5758835758836,
+  "linkStrength": 1,
+  "linkDistance": 169,
+  "scale": 0.2279718255882134,
+  "close": true
+}
