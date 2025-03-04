@@ -86,6 +86,12 @@ The constraint is active when $f_{1}(q) \geq 0$.
 $$
 q_{2}-\frac{\pi}{4} \leq 0
 $$
+We can introduce a *slack variable* $\mu>0$ in order to avoid edge cases where the equality might cause *singularities*.
+$$
+q_{2}-\frac{\pi}{4}+\mu < 0
+$$
+
+
 
 
 When the coordinates $q_j$ have constraints, we need to introduce Lagrange multipliers $\lambda_k(t)$ to incorporate these constraints into the Lagrangian function:
