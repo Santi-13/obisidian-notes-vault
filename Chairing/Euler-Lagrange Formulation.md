@@ -77,7 +77,6 @@ $$
 f_{k}(q) < 0, \text{ for } k=1,2,\dots,s,
 $$
 Where $f_{k}(q)$ defines a restriction on the generalized coordinates $q$. These may be *joint limits* or *collision avoidance* constraints. For example:
-
 ###### a) Joint angle limit:
 $$
 q_{1} < \frac{\pi}{2} \Longrightarrow f_{1}(q)=q_{1} - \frac{\pi}{2}
@@ -87,6 +86,8 @@ The constraint is active when $f_{1}(q) \geq 0$.
 $$
 q_{2}-\frac{\pi}{4} \leq 0
 $$
+
+
 When the coordinates $q_j$ have constraints, we need to introduce Lagrange multipliers $\lambda_k(t)$ to incorporate these constraints into the Lagrangian function:
 $$
 L'(q, \dot{q}) = L(q, \dot{q})  + 
