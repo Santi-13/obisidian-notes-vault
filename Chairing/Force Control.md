@@ -36,7 +36,7 @@ $$
 
 Where:
 $$
-\Lambda(q) = (J(q)H^{-1}(q)J^T(q))^{-1}
+\Lambda(q)^{-1} = (J(q)H^{-1}(q)J^T(q))^{-1}
 $$
 There are different
 
