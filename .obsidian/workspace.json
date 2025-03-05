@@ -262,12 +262,10 @@
       "github-sync:Sync with Remote": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bce4445dcac5e7f0",
+  "active": "52dbe20bbc877e97",
   "lastOpenFiles": [
     "Chairing/Force Control.md",
     "Chairing/Task List.md",
