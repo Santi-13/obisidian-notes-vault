@@ -93,19 +93,20 @@ $$
 Now, we just need a way to enforce this constraints **only when violated**, this is where ***Lagrange Multipliers*** come in.
 
 
-When the coordinates $q_j$ have constraints, we need to introduce Lagrange multipliers $\lambda_k(t)$ to incorporate these constraints into the **Lagrangian** function:
+When the coordinates $q_j$ have constraints, we need to introduce Lagrange multipliers $\lambda_k(t)$ to incorporate these constraints into the **[[#Lagrangian Function]]**:
 $$
 L'(q, \dot{q}) = L(q, \dot{q})  + 
 \sum^\zeta_{n=1} \lambda_{k}(t) f_{k} (q)
 $$
-where $f_k(q)$ represents the constraint equations.
+where $f_k(q)$ represents the constraint equations and $\lambda_k(t)$ act as "smart weights" that dynamically adjust to enforce constraints based on other condition equations we set.
 
 #### Euler-Lagrange Equation with Constraints 
 Using the modified Lagrangian $L'$, the Euler-Lagrange equations becomes:
 $$
 \frac{d}{dt} \left( \frac{\partial L'}{\partial \dot{q}_{j}} \right) - 
-\frac{\partial L'}{\partial {q}_{j}} = Q_{j}^{\text{non-pot}}
+\frac{\partial L'}{\partial {q}_{j}} = \phi_{j}^{\text{non-pot}}
 $$
+As the const
 The resulting equations describe the dynamics of the system while accounting for the constraints. For a system with dissipation and external forces, the equation can be expressed as:
 $$
 B(q) \ddot{q} + C(q,\dot{q}) \dot{q} + G(q) =
