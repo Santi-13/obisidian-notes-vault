@@ -90,11 +90,10 @@ We can introduce a *slack variable* $\mu>0$ in order to avoid edge cases where t
 $$
 q_{2}-\frac{\pi}{4}+\mu < 0
 $$
+Now, we just need a way to enforce this constraints **only when violated**, this is where ***Lagrange Multipliers*** come in.
 
 
-
-
-When the coordinates $q_j$ have constraints, we need to introduce Lagrange multipliers $\lambda_k(t)$ to incorporate these constraints into the Lagrangian function:
+When the coordinates $q_j$ have constraints, we need to introduce Lagrange multipliers $\lambda_k(t)$ to incorporate these constraints into the **Lagrangian** function:
 $$
 L'(q, \dot{q}) = L(q, \dot{q})  + 
 \sum^\zeta_{n=1} \lambda_{k}(t) f_{k} (q)
