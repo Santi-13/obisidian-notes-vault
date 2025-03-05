@@ -1,0 +1,8 @@
+- [ ] Find F(Pc,hc)
+- [ ] Euler-Lagrange Equations
+- [ ] Design Control
+- [ ] Gripper design 
+- [ ] Gripper Instrumentation
+- [ ] Define hc
+- [ ] Define hc withouth F(Pc,hc)
+- [ ] Propose an auxiliar variable $\zeta = \Delta$ 
