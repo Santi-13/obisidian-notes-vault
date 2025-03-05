@@ -123,4 +123,3 @@ g(q(t)) \tau(t)
 $$
 Where $M^{-1}(q)$ is the inverse of the **inertia matrix**, $\tau(t)$ is the control **torques** applied to the joints, and $C(q(t), \frac{d}{dt} q(t)) \frac{d}{dt} q(t)$ accounts for the effect of the Coriolis and centrifugal forces.
 
-
