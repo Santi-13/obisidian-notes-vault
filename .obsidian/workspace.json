@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chairing/Euler-Lagrange Formulation.md",
+                "file": "Chairing/Force Control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Euler-Lagrange Formulation"
+              "title": "Force Control"
             }
           },
           {
@@ -254,10 +254,10 @@
   },
   "active": "911ed39aacb68dab",
   "lastOpenFiles": [
+    "Chairing/Euler-Lagrange Formulation.md",
     "Chairing/pdfs/Cauchy-Schwarz Inequality.pdf",
     "Chairing/Properties & Definitions/Peter-Paul Inequality.md",
     "Chairing/Properties & Definitions/Positive Definite Matrix.md",
-    "Chairing/Euler-Lagrange Formulation.md",
     "Chairing/Force Control.md",
     "wq.md",
     "Chairing/Properties & Definitions/Rayleigh Quotient.md",

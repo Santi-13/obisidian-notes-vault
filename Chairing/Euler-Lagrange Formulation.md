@@ -106,7 +106,8 @@ $$
 \frac{d}{dt} \left( \frac{\partial L'}{\partial \dot{q}_{j}} \right) - 
 \frac{\partial L'}{\partial {q}_{j}} = \phi_{j}^{\text{non-pot}}
 $$
-As the const
+If the constraints are purely based on position, then the *partial derivative* of them with respect to $\dot{q}_{j}$ would become $0$, leaving us with the equation.
+
 The resulting equations describe the dynamics of the system while accounting for the constraints. For a system with dissipation and external forces, the equation can be expressed as:
 $$
 B(q) \ddot{q} + C(q,\dot{q}) \dot{q} + G(q) =
