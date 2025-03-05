@@ -5,4 +5,4 @@
 - [ ] Gripper Instrumentation
 - [ ] Define hc
 - [ ] Define hc withouth F(Pc,hc)
-- [ ] Propose an auxiliar variable $\zeta = \Delta$ 
+- [ ] Propose an auxiliar variable $\zeta = \Delta b+\gamma \Delta a, \gamma \in \mathrm{R}^{6\times6}, \gamma>0$ 
