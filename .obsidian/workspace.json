@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chairing/Properties & Definitions/Matrix Calculus Derivative Rules.md",
+                "file": "Chairing/Euler-Lagrange Formulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix Calculus Derivative Rules"
+              "title": "Euler-Lagrange Formulation"
             }
           },
           {
@@ -252,8 +252,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bce4445dcac5e7f0",
+  "active": "911ed39aacb68dab",
   "lastOpenFiles": [
+    "Chairing/pdfs/Cauchy-Schwarz Inequality.pdf",
     "Chairing/Properties & Definitions/Peter-Paul Inequality.md",
     "Chairing/Properties & Definitions/Positive Definite Matrix.md",
     "Chairing/Euler-Lagrange Formulation.md",
@@ -264,7 +265,6 @@
     "Chairing/pdfs/Positive Definite Matrix.pdf",
     "Chairing/pdfs/Peter-Paul Inequality.pdf",
     "Chairing/pdfs/Matrix Calculus Derivative Rules.pdf",
-    "Chairing/pdfs/Cauchy-Schwarz Inequality.pdf",
     "Chairing/pdfs/Rayleigh Quotient.pdf",
     "Chairing/Properties & Definitions/Quadratic Norm Representation.md",
     "Chairing/Properties & Definitions/Matrix Calculus Derivative Rules.md",
@@ -291,7 +291,6 @@
     "Untitled 1.md",
     "Chairing/Properties & Definitions/Untitled.canvas",
     "Control/Linear Quadratic Regulator.md",
-    "Control/Pole Placement.md",
     "images/Pasted image 20250211172003.png",
     "Pasted image 20250211172001.png",
     "images/Pasted image 20250130104632.png",
